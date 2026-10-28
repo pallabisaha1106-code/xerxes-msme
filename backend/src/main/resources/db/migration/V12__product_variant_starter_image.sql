@@ -1,0 +1,11 @@
+-- A starter product (picked from the default catalog at registration/via
+-- Catalog) can carry a reference to the SAME default-catalog image instead
+-- of the vendor uploading their own - see StarterCatalogService and
+-- StorefrontCatalogService. This is deliberately not a row in
+-- product_variant_images: that table is a real, quality-validated photo
+-- gallery (ProductImageService enforces min 720x900px, portrait), which a
+-- default-catalog thumbnail (as small as 42x53px) would never pass. This
+-- column is just a shared pointer to the same GCS object - nothing is
+-- duplicated in storage - and is only ever used as a fallback when the
+-- vendor hasn't uploaded any real photo of their own yet.
+ALTER TABLE product_variants ADD COLUMN starter_image_path TEXT;

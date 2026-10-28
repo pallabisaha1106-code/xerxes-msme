@@ -1,0 +1,90 @@
+/*
+ * Design tokens for the Xerxes MSME UI kit. Palette matches marketplace-web's
+ * "Neighbourly" site (see marketplace-web/src/styles/style.css's :root) for
+ * brand consistency across the two apps - primary green anchored at the same
+ * #236747 the marketplace uses for its buttons/links, same plain system font
+ * stack (no webfont dependency), same amber focus-ring color for a11y
+ * contrast against green. Component structure (tables, forms, dashboard
+ * cards) stays admin-app-specific; only the palette/typography/shape moved.
+ * See src/ui/ for the component kit built on top of these tokens.
+ */
+:root {
+  /* Typography */
+  --font-family: Arial, Helvetica, sans-serif;
+  --text-color: #203c2e;
+  --text-color-secondary: #6c756f;
+
+  /* Primary (green) scale - anchored at marketplace-web's --green (#236747 = primary-600) */
+  --primary-50: #f0faf5;
+  --primary-100: #d5f1e4;
+  --primary-200: #a4e0c4;
+  --primary-300: #67cb9c;
+  --primary-400: #3aab76;
+  --primary-500: #2c8159;
+  --primary-600: #236747;
+  --primary-700: #1a4c34;
+  --primary-800: #123525;
+  --primary-900: #0c2218;
+  --primary-color: var(--primary-600);
+  --primary-color-text: #ffffff;
+
+  /* Surfaces */
+  --surface-ground: #f6f7f2;
+  --surface-section: #ffffff;
+  --surface-card: #ffffff;
+  --surface-overlay: #ffffff;
+  --surface-border: #e3e8e2;
+  --surface-hover: #f0faf5;
+  --surface-disabled: #f5f5f5;
+
+  /* Severity colors (Button variants, Tag, Message) - green kept a shade
+     brighter/more teal than --primary-600 on purpose, so a "success" action
+     (e.g. Reactivate Vendor) still reads as distinct from a plain primary one. */
+  --green-100: #cbebe1;
+  --green-500: #27ab83;
+  --green-600: #21916f;
+  --green-700: #1b785c;
+
+  --blue-100: #c8e5f5;
+  --blue-500: #1992d4;
+  --blue-600: #157cb4;
+  --blue-700: #126694;
+
+  --orange-100: #f7e5c9;
+  --orange-500: #de911d;
+  --orange-600: #bd7b19;
+  --orange-700: #9b6614;
+
+  --purple-100: #eedcfc;
+  --purple-500: #ba6ff4;
+  --purple-600: #9e5ecf;
+  --purple-700: #824eab;
+
+  --red-100: #f6cbcd;
+  --red-500: #db272d;
+  --red-600: #ba2126;
+  --red-700: #991b20;
+
+  --bluegray-100: #dbdce0;
+  --bluegray-500: #676c7e;
+  --bluegray-600: #585c6b;
+  --bluegray-700: #484c58;
+
+  /* Shape / motion */
+  --border-radius: 6px;
+  --border-radius-lg: 10px;
+  --transition-duration: 0.15s;
+  /* Amber, not primary-tinted: same choice marketplace-web makes (an
+     outline in the brand green would barely show up against green UI). */
+  --focus-ring: 0 0 0 0.2rem rgba(209, 139, 53, 0.45);
+  --shadow-card: 0 4px 20px rgba(32, 60, 46, 0.08);
+  --shadow-overlay: 0 10px 38px rgba(32, 60, 46, 0.18), 0 4px 12px rgba(32, 60, 46, 0.09);
+
+  /* Spacing scale */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+}

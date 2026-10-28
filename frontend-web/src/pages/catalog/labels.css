@@ -1,0 +1,67 @@
+.labels-toolbar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+
+.labels-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.6rem;
+}
+
+.barcode-label {
+  border: 1px dashed var(--surface-border);
+  border-radius: var(--border-radius);
+  padding: 0.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+.barcode-label-name {
+  font-size: 0.75rem;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.barcode-label-attrs {
+  font-size: 0.68rem;
+  color: var(--text-color-secondary);
+}
+
+.barcode-label-svg {
+  width: 100%;
+  max-width: 160px;
+}
+
+.barcode-label-code {
+  font-size: 0.68rem;
+  letter-spacing: 0.05em;
+  color: var(--text-color-secondary);
+}
+
+.barcode-label-price {
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .labels-grid {
+    gap: 0.25in;
+  }
+
+  .barcode-label {
+    border-style: solid;
+    break-inside: avoid;
+  }
+}

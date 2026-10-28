@@ -1,0 +1,25 @@
+.subscription-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0.6rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.subscription-banner a {
+  color: inherit;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.subscription-banner-warning {
+  background: var(--orange-100);
+  color: var(--orange-700);
+}
+
+.subscription-banner-danger {
+  background: var(--red-100);
+  color: var(--red-700);
+}

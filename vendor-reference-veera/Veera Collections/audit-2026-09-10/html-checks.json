@@ -1,0 +1,5 @@
+{
+  "pages": 29,
+  "issues": [],
+  "note": "Targeted static and browser DOM checks; no full HTML conformance validator installed."
+}

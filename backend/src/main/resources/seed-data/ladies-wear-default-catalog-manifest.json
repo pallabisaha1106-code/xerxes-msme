@@ -1,0 +1,276 @@
+{
+  "categories": [
+    {
+      "name": "Kurtis & Kurta Sets",
+      "products": [
+        { "name": "Biba Anarkali Kurti", "imageFileName": "ladies-1-1.jpg" },
+        { "name": "W Printed Straight Kurta", "imageFileName": "ladies-1-2.jpg" },
+        { "name": "Aurelia Cotton Kurti", "imageFileName": "ladies-1-3.jpg" },
+        { "name": "Global Desi Ethnic Kurta", "imageFileName": "ladies-1-4.jpg" },
+        { "name": "Libas Rayon Kurti Set", "imageFileName": "ladies-1-5.jpg" },
+        { "name": "Soch Embroidered Kurti", "imageFileName": "ladies-1-6.jpg" },
+        { "name": "Rangriti A-Line Kurta", "imageFileName": "ladies-1-7.jpg" },
+        { "name": "Meena Bazaar Chikankari Kurti", "imageFileName": "ladies-1-8.jpg" },
+        { "name": "Fabindia Handblock Kurta", "imageFileName": "ladies-1-9.jpg" },
+        { "name": "Straight Fit Cotton Kurti", "imageFileName": "ladies-1-10.jpg" },
+        { "name": "Printed Rayon Kurti", "imageFileName": "ladies-1-11.jpg" },
+        { "name": "High-Low Hem Kurti", "imageFileName": "ladies-1-12.jpg" },
+        { "name": "Angrakha Style Kurti", "imageFileName": "ladies-1-13.jpg" },
+        { "name": "Kurti with Pant Set", "imageFileName": "ladies-1-14.jpg" },
+        { "name": "Kaftan Style Long Kurti", "imageFileName": "ladies-1-15.jpg" }
+      ]
+    },
+    {
+      "name": "Sarees",
+      "products": [
+        { "name": "Banarasi Silk Saree", "imageFileName": "ladies-2-1.jpg" },
+        { "name": "Kanjivaram Silk Saree", "imageFileName": "ladies-2-2.jpg" },
+        { "name": "Chiffon Printed Saree", "imageFileName": "ladies-2-3.jpg" },
+        { "name": "Georgette Party Wear Saree", "imageFileName": "ladies-2-4.jpg" },
+        { "name": "Cotton Handloom Saree", "imageFileName": "ladies-2-5.jpg" },
+        { "name": "Bandhani Saree", "imageFileName": "ladies-2-6.jpg" },
+        { "name": "Organza Embroidered Saree", "imageFileName": "ladies-2-7.jpg" },
+        { "name": "Linen Saree", "imageFileName": "ladies-2-8.jpg" },
+        { "name": "Tussar Silk Saree", "imageFileName": "ladies-2-9.jpg" },
+        { "name": "Net Sequin Saree", "imageFileName": "ladies-2-10.jpg" },
+        { "name": "Paithani Silk Saree", "imageFileName": "ladies-2-11.jpg" },
+        { "name": "Pre-Stitched Saree Gown", "imageFileName": "ladies-2-12.jpg" }
+      ]
+    },
+    {
+      "name": "Salwar Suits & Churidar Sets",
+      "products": [
+        { "name": "Anarkali Salwar Suit", "imageFileName": "ladies-3-1.jpg" },
+        { "name": "Patiala Suit Set", "imageFileName": "ladies-3-2.jpg" },
+        { "name": "Straight Cut Churidar Suit", "imageFileName": "ladies-3-3.jpg" },
+        { "name": "Palazzo Suit Set", "imageFileName": "ladies-3-4.jpg" },
+        { "name": "Cotton Printed Salwar Suit", "imageFileName": "ladies-3-5.jpg" },
+        { "name": "Chikankari Churidar Suit", "imageFileName": "ladies-3-6.jpg" },
+        { "name": "Embroidered Sharara Suit", "imageFileName": "ladies-3-7.jpg" },
+        { "name": "Unstitched Dress Material", "imageFileName": "ladies-3-8.jpg" },
+        { "name": "Silk Blend Suit Set", "imageFileName": "ladies-3-9.jpg" },
+        { "name": "Georgette Salwar Suit", "imageFileName": "ladies-3-10.jpg" },
+        { "name": "Cotton Silk Suit Set", "imageFileName": "ladies-3-11.jpg" },
+        { "name": "Pakistani Style Suit Set", "imageFileName": "ladies-3-12.jpg" }
+      ]
+    },
+    {
+      "name": "Lehengas & Ethnic Gowns",
+      "products": [
+        { "name": "Bridal Heavy Work Lehenga", "imageFileName": "ladies-4-1.jpg" },
+        { "name": "Party Wear Lehenga Choli", "imageFileName": "ladies-4-2.jpg" },
+        { "name": "Net Embroidered Lehenga", "imageFileName": "ladies-4-3.jpg" },
+        { "name": "Silk Lehenga Set", "imageFileName": "ladies-4-4.jpg" },
+        { "name": "Anarkali Ethnic Gown", "imageFileName": "ladies-4-5.jpg" },
+        { "name": "Floor Length Ethnic Gown", "imageFileName": "ladies-4-6.jpg" },
+        { "name": "Crop Top Lehenga Set", "imageFileName": "ladies-4-7.jpg" },
+        { "name": "Half Saree Lehenga", "imageFileName": "ladies-4-8.jpg" }
+      ]
+    },
+    {
+      "name": "Indo-Western Sets",
+      "products": [
+        { "name": "Purple Floral Set", "imageFileName": "indo-western-01.png" },
+        { "name": "Plum Jacket Set", "imageFileName": "indo-western-02.png" },
+        { "name": "Yellow Floral Set", "imageFileName": "indo-western-03.png" },
+        { "name": "Blue Printed Jacket Dress", "imageFileName": "indo-western-04.png" },
+        { "name": "Pink Floral Dress with Cream Jacket", "imageFileName": "indo-western-05.png" },
+        { "name": "Blue Layered Dress", "imageFileName": "indo-western-06.png" },
+        { "name": "Light Green Printed Dress", "imageFileName": "indo-western-07.png" },
+        { "name": "Multicolour Printed Jacket Set", "imageFileName": "indo-western-08.png" },
+        { "name": "Brown Floral Dress", "imageFileName": "indo-western-09.png" }
+      ]
+    },
+    {
+      "name": "Western Dresses & Gowns",
+      "products": [
+        { "name": "AND Bodycon Dress", "imageFileName": "ladies-6-1.jpg" },
+        { "name": "Vero Moda A-Line Dress", "imageFileName": "ladies-6-2.jpg" },
+        { "name": "ONLY Maxi Dress", "imageFileName": "ladies-6-3.jpg" },
+        { "name": "Sassafras Shirt Dress", "imageFileName": "ladies-6-4.jpg" },
+        { "name": "Floral Wrap Dress", "imageFileName": "ladies-6-5.jpg" },
+        { "name": "Evening Party Gown", "imageFileName": "ladies-6-6.jpg" },
+        { "name": "Off-Shoulder Dress", "imageFileName": "ladies-6-7.jpg" },
+        { "name": "Denim Shirt Dress", "imageFileName": "ladies-6-8.jpg" },
+        { "name": "Fit and Flare Dress", "imageFileName": "ladies-6-9.jpg" },
+        { "name": "Slip Dress with Belt", "imageFileName": "ladies-6-10.jpg" }
+      ]
+    },
+    {
+      "name": "Tops & Tunics",
+      "products": [
+        { "name": "AND Printed Top", "imageFileName": "ladies-7-1.jpg" },
+        { "name": "ONLY Crop Top", "imageFileName": "ladies-7-2.jpg" },
+        { "name": "Vero Moda Shirt Top", "imageFileName": "ladies-7-3.jpg" },
+        { "name": "Cotton Casual Top", "imageFileName": "ladies-7-4.jpg" },
+        { "name": "Peplum Top", "imageFileName": "ladies-7-5.jpg" },
+        { "name": "Off-Shoulder Top", "imageFileName": "ladies-7-6.jpg" },
+        { "name": "Long Tunic Top", "imageFileName": "ladies-7-7.jpg" },
+        { "name": "Halter Neck Top", "imageFileName": "ladies-7-8.jpg" },
+        { "name": "Wrap Top", "imageFileName": "ladies-7-9.jpg" },
+        { "name": "Sleeveless Formal Top", "imageFileName": "ladies-7-10.jpg" },
+        { "name": "Printed Kaftan Top", "imageFileName": "ladies-7-11.jpg" },
+        { "name": "Ruffle Sleeve Top", "imageFileName": "ladies-7-12.jpg" }
+      ]
+    },
+    {
+      "name": "Denim & Trousers",
+      "products": [
+        { "name": "Levi's Skinny Fit Jeans", "imageFileName": "ladies-8-1.jpg" },
+        { "name": "Lee Cooper Straight Jeans", "imageFileName": "ladies-8-2.jpg" },
+        { "name": "High-Waist Denim Jeans", "imageFileName": "ladies-8-3.jpg" },
+        { "name": "Mom Fit Jeans", "imageFileName": "ladies-8-4.jpg" },
+        { "name": "Bootcut Denim Jeans", "imageFileName": "ladies-8-5.jpg" },
+        { "name": "Formal Cigarette Trousers", "imageFileName": "ladies-8-6.jpg" },
+        { "name": "Wide Leg Trousers", "imageFileName": "ladies-8-7.jpg" },
+        { "name": "Denim Jacket", "imageFileName": "ladies-8-8.jpg" },
+        { "name": "Denim Dungaree", "imageFileName": "ladies-8-9.jpg" },
+        { "name": "Culottes Pants", "imageFileName": "ladies-8-10.jpg" }
+      ]
+    },
+    {
+      "name": "Leggings, Jeggings & Palazzos",
+      "products": [
+        { "name": "Lyra Ankle Length Leggings", "imageFileName": "ladies-9-1.jpg" },
+        { "name": "Go Colors Cotton Leggings", "imageFileName": "ladies-9-2.jpg" },
+        { "name": "Solid Jeggings", "imageFileName": "ladies-9-3.jpg" },
+        { "name": "Printed Palazzo Pants", "imageFileName": "ladies-9-4.jpg" },
+        { "name": "Cotton Patiala Pants", "imageFileName": "ladies-9-5.jpg" },
+        { "name": "Harem Pants", "imageFileName": "ladies-9-6.jpg" },
+        { "name": "Churidar Leggings", "imageFileName": "ladies-9-7.jpg" },
+        { "name": "Flared Ankle Pants", "imageFileName": "ladies-9-8.jpg" },
+        { "name": "Cotton Capri", "imageFileName": "ladies-9-9.jpg" },
+        { "name": "Dhoti Style Pants", "imageFileName": "ladies-9-10.jpg" }
+      ]
+    },
+    {
+      "name": "Skirts & Co-ord Sets",
+      "products": [
+        { "name": "A-Line Denim Skirt", "imageFileName": "ladies-10-1.jpg" },
+        { "name": "Pleated Midi Skirt", "imageFileName": "ladies-10-2.jpg" },
+        { "name": "Printed Co-ord Set", "imageFileName": "ladies-10-3.jpg" },
+        { "name": "Wrap Around Skirt", "imageFileName": "ladies-10-4.jpg" },
+        { "name": "Ethnic Skirt and Top Set", "imageFileName": "ladies-10-5.jpg" },
+        { "name": "Flared Long Skirt", "imageFileName": "ladies-10-6.jpg" },
+        { "name": "Formal Pencil Skirt", "imageFileName": "ladies-10-7.jpg" },
+        { "name": "Playsuit Co-ord Set", "imageFileName": "ladies-10-8.jpg" }
+      ]
+    },
+    {
+      "name": "Dupattas, Stoles & Scarves",
+      "products": [
+        { "name": "Chiffon Printed Dupatta", "imageFileName": "ladies-11-1.jpg" },
+        { "name": "Bandhani Dupatta", "imageFileName": "ladies-11-2.jpg" },
+        { "name": "Net Embroidered Dupatta", "imageFileName": "ladies-11-3.jpg" },
+        { "name": "Cotton Mulmul Dupatta", "imageFileName": "ladies-11-4.jpg" },
+        { "name": "Phulkari Dupatta", "imageFileName": "ladies-11-5.jpg" },
+        { "name": "Silk Stole", "imageFileName": "ladies-11-6.jpg" },
+        { "name": "Woollen Shawl", "imageFileName": "ladies-11-7.jpg" },
+        { "name": "Printed Scarf", "imageFileName": "ladies-11-8.jpg" }
+      ]
+    },
+    {
+      "name": "Nightwear & Loungewear",
+      "products": [
+        { "name": "Clovia Satin Nightsuit", "imageFileName": "ladies-12-1.jpg" },
+        { "name": "Printed Cotton Nightdress", "imageFileName": "ladies-12-2.jpg" },
+        { "name": "Pyjama and Top Set", "imageFileName": "ladies-12-3.jpg" },
+        { "name": "Satin Robe", "imageFileName": "ladies-12-4.jpg" },
+        { "name": "Cotton Lounge Pants", "imageFileName": "ladies-12-5.jpg" },
+        { "name": "Sleeveless Nighty", "imageFileName": "ladies-12-6.jpg" },
+        { "name": "Shrug and Nighty Set", "imageFileName": "ladies-12-7.jpg" },
+        { "name": "Track Pant and Tee Set", "imageFileName": "ladies-12-8.jpg" },
+        { "name": "Kaftan Nightdress", "imageFileName": "ladies-12-9.jpg" },
+        { "name": "Honeymoon Nightwear Set", "imageFileName": "ladies-12-10.jpg" }
+      ]
+    },
+    {
+      "name": "Innerwear & Shapewear",
+      "products": [
+        { "name": "Enamor Everyday Bra", "imageFileName": "ladies-13-1.jpg" },
+        { "name": "Jockey Cotton Bra", "imageFileName": "ladies-13-2.jpg" },
+        { "name": "Amante T-Shirt Bra", "imageFileName": "ladies-13-3.jpg" },
+        { "name": "Jockey Bikini Panty", "imageFileName": "ladies-13-4.jpg" },
+        { "name": "Enamor Hipster Panty", "imageFileName": "ladies-13-5.jpg" },
+        { "name": "Camisole Slip", "imageFileName": "ladies-13-6.jpg" },
+        { "name": "Shapewear Bodysuit", "imageFileName": "ladies-13-7.jpg" },
+        { "name": "Waist Trainer Shapewear", "imageFileName": "ladies-13-8.jpg" },
+        { "name": "Thermal Inner Wear Set", "imageFileName": "ladies-13-9.jpg" },
+        { "name": "Seamless Panty Pack", "imageFileName": "ladies-13-10.jpg" }
+      ]
+    },
+    {
+      "name": "Winter Wear",
+      "products": [
+        { "name": "Cardigan Sweater", "imageFileName": "ladies-14-1.jpg" },
+        { "name": "Woollen Pullover", "imageFileName": "ladies-14-2.jpg" },
+        { "name": "Quilted Puffer Jacket", "imageFileName": "ladies-14-3.jpg" },
+        { "name": "Denim Jacket with Fur", "imageFileName": "ladies-14-4.jpg" },
+        { "name": "Poncho Wrap", "imageFileName": "ladies-14-5.jpg" },
+        { "name": "Fleece Zipper Jacket", "imageFileName": "ladies-14-6.jpg" },
+        { "name": "Woollen Shrug", "imageFileName": "ladies-14-7.jpg" },
+        { "name": "Long Wool Coat", "imageFileName": "ladies-14-8.jpg" },
+        { "name": "Thermal Leggings", "imageFileName": "ladies-14-9.jpg" },
+        { "name": "Knitted Muffler", "imageFileName": "ladies-14-10.jpg" }
+      ]
+    },
+    {
+      "name": "Maternity Wear",
+      "products": [
+        { "name": "Maternity Feeding Kurti", "imageFileName": "ladies-15-1.jpg" },
+        { "name": "Maternity Nightdress", "imageFileName": "ladies-15-2.jpg" },
+        { "name": "Maternity Palazzo Set", "imageFileName": "ladies-15-3.jpg" },
+        { "name": "Maternity Feeding Gown", "imageFileName": "ladies-15-4.jpg" },
+        { "name": "Maternity Denim Jeans", "imageFileName": "ladies-15-5.jpg" },
+        { "name": "Maternity Maxi Dress", "imageFileName": "ladies-15-6.jpg" }
+      ]
+    },
+    {
+      "name": "Footwear",
+      "products": [
+        { "name": "Bata Ballerina Flats", "imageFileName": "ladies-16-1.jpg" },
+        { "name": "Catwalk Block Heels", "imageFileName": "ladies-16-2.jpg" },
+        { "name": "Mochi Wedge Sandals", "imageFileName": "ladies-16-3.jpg" },
+        { "name": "Metro Ethnic Juttis", "imageFileName": "ladies-16-4.jpg" },
+        { "name": "Embellished Kolhapuri Chappals", "imageFileName": "ladies-16-5.jpg" },
+        { "name": "Casual Slip-On Sandals", "imageFileName": "ladies-16-6.jpg" },
+        { "name": "Sneakers for Women", "imageFileName": "ladies-16-7.jpg" },
+        { "name": "Party Wear Heels", "imageFileName": "ladies-16-8.jpg" },
+        { "name": "Flat Sandals", "imageFileName": "ladies-16-9.jpg" },
+        { "name": "Bridal Sandals", "imageFileName": "ladies-16-10.jpg" }
+      ]
+    },
+    {
+      "name": "Handbags, Clutches & Wallets",
+      "products": [
+        { "name": "Lavie Tote Bag", "imageFileName": "ladies-17-1.jpg" },
+        { "name": "Caprese Sling Bag", "imageFileName": "ladies-17-2.jpg" },
+        { "name": "Baggit Handbag", "imageFileName": "ladies-17-3.jpg" },
+        { "name": "Embroidered Potli Bag", "imageFileName": "ladies-17-4.jpg" },
+        { "name": "Bridal Clutch", "imageFileName": "ladies-17-5.jpg" },
+        { "name": "Sling Crossbody Bag", "imageFileName": "ladies-17-6.jpg" },
+        { "name": "Women's Wallet", "imageFileName": "ladies-17-7.jpg" },
+        { "name": "Backpack for Women", "imageFileName": "ladies-17-8.jpg" },
+        { "name": "Jute Ethnic Bag", "imageFileName": "ladies-17-9.jpg" },
+        { "name": "Office Laptop Tote", "imageFileName": "ladies-17-10.jpg" }
+      ]
+    },
+    {
+      "name": "Fashion Jewellery & Hair Accessories",
+      "products": [
+        { "name": "Kundan Necklace Set", "imageFileName": "ladies-18-1.jpg" },
+        { "name": "Oxidised Jhumka Earrings", "imageFileName": "ladies-18-2.jpg" },
+        { "name": "Pearl Choker Set", "imageFileName": "ladies-18-3.jpg" },
+        { "name": "American Diamond Ring", "imageFileName": "ladies-18-4.jpg" },
+        { "name": "Bangles Set", "imageFileName": "ladies-18-5.jpg" },
+        { "name": "Maang Tikka", "imageFileName": "ladies-18-6.jpg" },
+        { "name": "Anklets Pair", "imageFileName": "ladies-18-7.jpg" },
+        { "name": "Hair Clutcher", "imageFileName": "ladies-18-8.jpg" },
+        { "name": "Bridal Hair Pins Set", "imageFileName": "ladies-18-9.jpg" },
+        { "name": "Fabric Hair Scrunchies", "imageFileName": "ladies-18-10.jpg" },
+        { "name": "Layered Fashion Necklace", "imageFileName": "ladies-18-11.jpg" },
+        { "name": "Statement Studs", "imageFileName": "ladies-18-12.jpg" }
+      ]
+    }
+  ]
+}

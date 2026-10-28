@@ -1,0 +1,34 @@
+{
+  "photoDialog": "PASS: keyboard open, image decode, zoom/reset, Escape, focus return",
+  "menuResizeLocked": false,
+  "tabKeyboard": "true",
+  "unlabelledPanels": 0,
+  "allTabs": "PASS",
+  "map": "PASS: iframe created with existing destination",
+  "tryOn": "PASS: consent modal open/Escape; no customer image or camera used",
+  "reducedMotion": true,
+  "fallback": true,
+  "cardRows": [
+    {
+      "top": 735.75,
+      "bottom": 1526.3125,
+      "cta": 1506.3125
+    },
+    {
+      "top": 735.75,
+      "bottom": 1526.3125,
+      "cta": 1506.3125
+    },
+    {
+      "top": 735.75,
+      "bottom": 1526.3125,
+      "cta": 1506.3125
+    },
+    {
+      "top": 735.75,
+      "bottom": 1526.3125,
+      "cta": 1506.3125
+    }
+  ],
+  "errors": []
+}

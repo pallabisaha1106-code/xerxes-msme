@@ -1,0 +1,20 @@
+Veera Collections — third-party source notes (10 September 2026)
+
+DM Sans and Playfair Display are requested through the Google Fonts CSS API.
+Official source licenses identify SIL Open Font License 1.1:
+https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt
+https://raw.githubusercontent.com/google/fonts/main/ofl/playfairdisplay/OFL.txt
+No font binaries were added or redistributed in this change. If fonts are later
+self-hosted, retain the full applicable copyright/license notices and review
+reserved-name requirements for modifications.
+
+The public website does not load an identified third-party JavaScript framework
+or external icon library. Inline social SVGs are stored in the shared header.
+This observation does not certify authorship of all historical code or SVGs.
+
+Product photographs, brand artwork and model permissions require owner/supplier
+confirmation. Local storage is not proof of ownership. IMAGE-AUDIT.md records
+previous campaign-generation and logo-supply provenance. Keep documentary rights
+and generation/source records with the business. No infringement is asserted.
+
+These notes do not change the website's public copyright notice or typography.

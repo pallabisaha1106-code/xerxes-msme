@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Discover Local Shops & Businesses | Neighbourly</title>
+<meta name="description" content="Discover Pune's independent shops, browse their products, and connect directly on WhatsApp. Your neighbourhood, all in one place.">
+<meta property="og:title" content="Neighbourly — Good finds. Close to home.">
+<meta property="og:description" content="Explore local shops and products in Pune. Connect directly with the people behind them.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#236747">
+<link rel="icon" href="images/mark.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/polish.css">
+<link rel="stylesheet" href="css/pincode-filter.css">
+<script defer src="data/businesses.js">
+</script>
+<script defer src="data/pincode-areas.js">
+</script>
+<script defer src="js/discovery-welcome.js">
+</script>
+<script defer src="js/marketplace.js">
+</script>
+<script defer src="data/advertisements.js">
+</script>
+<script defer src="js/advertisements.js">
+</script>
+<script defer src="data/social-links.js">
+</script>
+<script defer src="js/top-strip.js">
+</script>
+<link rel="stylesheet" href="css/site-header.css"></head>
+<body>
+<a class="skip" href="#marketplace">Skip to shops</a>
+<div class="top-strip"><div class="top-strip-inner"><div class="top-socials" role="group" aria-label="Follow Neighbourly"></div><p>Discover the small businesses that make Pune, PUNE.</p></div></div><header class="site-header"><div class="header-inner"><div class="brand-lockup"><a class="brand" href="index.html"><span class="brand-icon">n<span>•</span></span>neighbourly<span class="brand-dot">.</span></a><p class="brand-tagline">YOUR NEIGHBOURHOOD. YOUR FAVORITE SHOPS.</p></div><nav id="navigation" aria-label="Main navigation"><a class="active" aria-current="page" href="index.html">Explore Shops</a><a href="product-feed.html">Product Feed</a><a href="wholesalers.html">Explore Wholesaler</a><a href="index.html#list-business">For business owners ↗</a><a href="share-product.html" class="header-create">+ Create a post</a></nav><button class="menu-button" type="button" aria-expanded="false" aria-controls="navigation" aria-label="Toggle navigation">☰</button></div></header>
+<main>
+<section class="top-advertisement" id="top-advertisement" aria-label="Featured advertisements" aria-roledescription="carousel">
+<span class="ad-label">ADVERTISEMENT</span>
+<div class="ad-slides">
+</div>
+</section>
+<section class="discovery-strip" aria-labelledby="shops-heading">
+<div class="discovery-heading">
+<h1 id="shops-heading">Find local shops</h1>
+<p>Discover shops and products in Pune.</p>
+</div>
+<div class="discovery-controls">
+<form id="search-form" class="search-box" role="search">
+<span aria-hidden="true">⌕</span>
+<input id="search" type="search" aria-label="Search shops, products, areas or pincodes" placeholder="Try “clothing”, “Baner” or “411045”">
+<button type="submit">Find shops <span aria-hidden="true">↗</span>
+</button>
+</form>
+<div class="filter-controls">
+<label class="sr-only" for="pincode-entry">Enter a six-digit pincode</label>
+<input id="pincode-entry" type="text" inputmode="numeric" autocomplete="postal-code" maxlength="6" pattern="[1-9][0-9]{5}" placeholder="Enter pincode" aria-describedby="pincode-help">
+<label class="sr-only" for="pincode">Filter by pincode</label>
+<select id="pincode">
+<option value="">All pincodes</option>
+</select>
+<label class="sr-only" for="area">Filter by area</label>
+<select id="area">
+<option value="">All areas</option>
+</select>
+<button id="reset" class="reset">Reset</button>
+</div>
+</div>
+<span id="pincode-help" class="filter-help">Select or enter a pincode to see its main areas/localities.</span>
+<p id="result-count" role="status" aria-live="polite">
+</p>
+</section>
+<section class="category-section" id="categories" aria-label="Shop categories">
+<div class="section-label">WHAT ARE YOU LOOKING FOR?</div>
+<div id="category-list" class="category-list">
+</div>
+</section>
+<div class="market-layout" id="marketplace">
+<aside class="side-rail-ad left-ad" aria-label="Left Side-Rail Ad">
+<span class="ad-label">ADVERTISEMENT</span>
+<a class="shop-ad" href="https://www.veeracollections.com/" target="_blank" rel="noopener noreferrer" aria-label="Explore Veera Collection’s website (opens in a new tab)">
+<img src="images/ads/veera-collection.png" alt="Veera Collection — Anarkali dresses, Sharara sets and Western wear. Explore the collection." width="800" height="2000" loading="lazy">
+</a>
+</aside>
+<section class="listings" aria-labelledby="shops-heading">
+<p class="demo-note">A taste of the neighbourhood — illustrative sample listings.</p>
+<div id="business-grid" class="business-grid">
+</div>
+<div id="empty" hidden>
+<span>⌕</span>
+<h3>No shops found just yet</h3>
+<p>Try a different product, neighbourhood or pincode.</p>
+<button id="empty-reset">Clear all filters</button>
+</div>
+</section>
+<aside class="side-rail-ad right-ad" aria-label="Right Side-Rail Ad">
+<span class="ad-label">ADVERTISEMENT</span>
+<a class="shop-ad" href="https://www.computertownstore.com/" target="_blank" rel="noopener noreferrer" aria-label="Explore Computer Town’s website (opens in a new tab)">
+<img src="images/ads/computer-town.png" alt="Computer Town — Computers and laptops in Thergaon, Pune. Explore the store." width="800" height="2000" loading="lazy">
+</a>
+</aside>
+</div>
+<section id="list-business" class="onboarding">
+<div>
+<span class="eyebrow">FOR THE PEOPLE BEHIND THE COUNTER</span>
+<h2>Big on local?<br>So are we.</h2>
+<p>Let’s help your neighbours find you. Complete our registration form and send your application to the team on WhatsApp for verification.</p>
+<a class="primary-button" href="register.html?type=retailer">Register Your Retail Business ↗</a>
+<p>
+<a href="grocery-catalogue.html">Grocery shop owner? Build your product catalogue ↗</a></p><p><a href="retailer-manager.html">Already listed? Manage your shop ↗</a>
+</p>
+</div>
+<div class="submission-details">
+<h3>Everything we need, in one place.</h3>
+<p>Have these details ready:</p>
+<ol>
+<li>Business and owner contact details</li>
+<li>Complete address, area and pincode</li>
+<li>Shop front photo</li>
+<li>Shop ACT or GST certificate</li>
+<li>Owner PAN or Aadhaar</li>
+</ol>
+<span>Your application opens in WhatsApp for review.</span>
+</div>
+</section>
+</main>
+<footer>
+<div>
+<a class="brand" href="#">neighbourly<span class="brand-dot">.</span>
+</a>
+<p>Your neighbourhood, all in one place.</p>
+</div>
+<div class="footer-links">
+<a href="index.html">Explore Shops</a>
+<a href="wholesalers.html">Explore Wholesaler</a>
+<a href="#list-business">List your business</a>
+<span>© <span id="year">
+</span> Neighbourly</span>
+</div>
+</footer>
+<dialog id="lightbox">
+<button class="dialog-close" aria-label="Close preview">×</button>
+<img id="preview-image" alt="">
+<h2 id="preview-title">
+</h2>
+<p id="preview-shop">
+</p>
+</dialog>
+<dialog id="contact-notice">
+<button class="dialog-close" aria-label="Close message">×</button>
+<h2>This is a sample shop</h2>
+<p>Contact details are not available in this demo. Real retailer and marketplace WhatsApp numbers can be added before launch.</p>
+<button class="primary-button dismiss">Got it</button>
+</dialog>
+<dialog id="discovery-welcome" aria-labelledby="welcome-title" aria-describedby="welcome-description">
+<button class="dialog-close" type="button" aria-label="Close location preferences">×</button>
+<span class="eyebrow">WELCOME TO NEIGHBOURLY</span>
+<h2 id="welcome-title">Find your local favourites</h2>
+<p id="welcome-description">Choose an area and what you’re looking for. We’ll show matching businesses and their products.</p>
+<form id="welcome-form">
+<label for="welcome-pincode">Enter pincode</label>
+<input id="welcome-pincode" type="text" inputmode="numeric" autocomplete="postal-code" maxlength="6" pattern="[1-9][0-9]{5}" placeholder="e.g. 411045" autofocus>
+<span class="welcome-or">or choose a city</span>
+<div id="welcome-cities" class="welcome-cities" role="group" aria-label="Choose a major city in Maharashtra">
+</div>
+<label for="welcome-category">WHAT ARE YOU LOOKING FOR?</label>
+<select id="welcome-category">
+</select>
+<button class="primary-button" type="submit">Show matching businesses ↗</button>
+<button id="welcome-skip" type="button">Browse all businesses</button>
+</form>
+<p class="welcome-note">You can change or reset these filters anytime.</p>
+</dialog>
+</body>
+</html>

@@ -1,0 +1,332 @@
+[
+  {
+    "mode": "mobile",
+    "url": "https://www.veeracollections.com/",
+    "lcp": 520,
+    "cls": 0.010283439869776234,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 520,
+    "ttfb": 24.299999998882413,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 169.2000000011176
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 131,
+        "transfer": 431,
+        "duration": 42.09999999962747
+      },
+      {
+        "url": "https://www.veeracollections.com/favicon.ico",
+        "bytes": 1626,
+        "transfer": 1926,
+        "duration": 40.90000000037253
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "mobile",
+    "url": "https://www.veeracollections.com/collection.html",
+    "lcp": 232,
+    "cls": 0.010283439869776234,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 232,
+    "ttfb": 19.09999999962747,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 124.60000000149012
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 139,
+        "transfer": 439,
+        "duration": 26.5
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "mobile",
+    "url": "https://www.veeracollections.com/more.html",
+    "lcp": 356,
+    "cls": 0.010283439869776234,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 356,
+    "ttfb": 34.19999999925494,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 211.7000000011176
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 138,
+        "transfer": 438,
+        "duration": 22.600000001490116
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "mobile",
+    "url": "https://www.veeracollections.com/kurtis.html",
+    "lcp": 244,
+    "cls": 0.010283439869776234,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 244,
+    "ttfb": 12.100000001490116,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 136.7000000011176
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 140,
+        "transfer": 440,
+        "duration": 24.199999999254942
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "mobile",
+    "url": "https://www.veeracollections.com/punjabi-dress.html",
+    "lcp": 248,
+    "cls": 0.010283439869776234,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 248,
+    "ttfb": 17.5,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 135.09999999962747
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 143,
+        "transfer": 443,
+        "duration": 23.800000000745058
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "mobile",
+    "url": "https://www.veeracollections.com/western-wear.html",
+    "lcp": 264,
+    "cls": 0.010283439869776234,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 264,
+    "ttfb": 14.600000001490116,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 145.80000000074506
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 143,
+        "transfer": 443,
+        "duration": 28.800000000745058
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "desktop",
+    "url": "https://www.veeracollections.com/",
+    "lcp": 264,
+    "cls": 0.0019730063135197187,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 264,
+    "ttfb": 14.900000000372529,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 142.09999999962747
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 131,
+        "transfer": 431,
+        "duration": 27
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "desktop",
+    "url": "https://www.veeracollections.com/collection.html",
+    "lcp": 244,
+    "cls": 0.0019730063135197187,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 244,
+    "ttfb": 11.099999999627471,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 133.10000000149012
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 139,
+        "transfer": 439,
+        "duration": 24.800000000745058
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "desktop",
+    "url": "https://www.veeracollections.com/more.html",
+    "lcp": 252,
+    "cls": 0.0005664824090171473,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 252,
+    "ttfb": 16.59999999962747,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 133.30000000074506
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 138,
+        "transfer": 438,
+        "duration": 21.300000000745058
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "desktop",
+    "url": "https://www.veeracollections.com/kurtis.html",
+    "lcp": 268,
+    "cls": 0.0019730063135197187,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 268,
+    "ttfb": 13,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 129.09999999962747
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 140,
+        "transfer": 440,
+        "duration": 43.40000000037253
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "desktop",
+    "url": "https://www.veeracollections.com/punjabi-dress.html",
+    "lcp": 244,
+    "cls": 0.0019730063135197187,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 244,
+    "ttfb": 10.899999998509884,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 152.09999999962747
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 143,
+        "transfer": 443,
+        "duration": 20.899999998509884
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  },
+  {
+    "mode": "desktop",
+    "url": "https://www.veeracollections.com/western-wear.html",
+    "lcp": 220,
+    "cls": 0.0019730063135197187,
+    "longTasks": [],
+    "dom": 24,
+    "fcp": 220,
+    "ttfb": 13.299999998882413,
+    "resources": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap",
+        "bytes": 416,
+        "transfer": 716,
+        "duration": 125.19999999925494
+      },
+      {
+        "url": "https://www.veeracollections.com/hcdn-cgi/jschallenge",
+        "bytes": 143,
+        "transfer": 443,
+        "duration": 19.700000001117587
+      }
+    ],
+    "navBytes": 2482,
+    "valid": false,
+    "excludedReason": "Response DOM had only 24 nodes versus 317–3788 in verified website pages. Browser did not render the actual site; exclude ALL timings from website performance claims."
+  }
+]

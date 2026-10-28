@@ -1,0 +1,8 @@
+package com.xerxes.msme.common.exception;
+
+public class InvalidCredentialsException extends RuntimeException {
+
+    public InvalidCredentialsException(String message) {
+        super(message);
+    }
+}

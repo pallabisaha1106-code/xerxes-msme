@@ -1,0 +1,188 @@
+.sc-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-bottom: 3rem;
+}
+
+.sc-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.3fr);
+  gap: 1rem;
+  align-items: start;
+}
+
+.sc-eyebrow {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--primary-color);
+}
+
+.sc-title {
+  margin: 0.15rem 0 0.4rem;
+  font-size: 1.05rem;
+}
+
+.sc-count {
+  display: inline-block;
+  min-width: 1.5rem;
+  padding: 0 0.5rem;
+  border-radius: 999px;
+  background: var(--primary-100);
+  color: var(--primary-700);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+/* ---- category tiles ---- */
+.sc-tiles {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.sc-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--surface-border);
+  border-radius: var(--border-radius);
+  background: var(--surface-card);
+  color: var(--text-color);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.sc-tile:hover {
+  background: var(--surface-hover);
+}
+
+.sc-tile.has-selection {
+  border-color: var(--primary-color);
+  background: var(--primary-50);
+}
+
+.sc-tile-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.sc-tile-meta {
+  font-size: 0.8rem;
+  color: var(--text-color-secondary);
+}
+
+/* ---- the products inside a category (dialog) ---- */
+.sc-products {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.sc-product {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 1.4rem 0.4rem 0.5rem;
+  border: 1px solid var(--surface-border);
+  border-radius: var(--border-radius);
+  background: var(--surface-card);
+  font-size: 0.75rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.sc-product input {
+  position: absolute;
+  top: 0.4rem;
+  left: 0.4rem;
+}
+
+.sc-product.selected {
+  border-color: var(--primary-color);
+  background: var(--primary-50);
+}
+
+.sc-product.owned {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.sc-owned {
+  color: var(--orange-700);
+  font-size: 0.7rem;
+}
+
+.sc-thumb {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.sc-product-name {
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+/* ---- "Your catalogue" ---- */
+.sc-picked {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+
+.sc-picked-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 1.2rem 0.4rem 0.5rem;
+  border: 1px solid var(--surface-border);
+  border-radius: var(--border-radius);
+  background: var(--surface-card);
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+.sc-remove {
+  position: absolute;
+  top: 0.15rem;
+  right: 0.35rem;
+  border: 0;
+  background: none;
+  color: var(--red-500);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.sc-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 900px) {
+  .sc-layout {
+    grid-template-columns: 1fr;
+  }
+  .sc-products {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .sc-products {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

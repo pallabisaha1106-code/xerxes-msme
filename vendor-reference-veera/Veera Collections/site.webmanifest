@@ -1,0 +1,23 @@
+{
+  "name": "Veera Collections",
+  "short_name": "Veera",
+  "description": "Veera Collections specialises in plus-size ladies dresses and Indian wear for comfort, confidence and every celebration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#54152B",
+  "icons": [
+    {
+      "src": "/assets/brand/veera-collections-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/brand/veera-collections-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

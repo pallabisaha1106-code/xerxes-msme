@@ -1,0 +1,125 @@
+spring:
+  application:
+    name: msme-backend
+
+  profiles:
+    # Which of application-local.yml / application-prod.yml applies when
+    # nothing else says otherwise - i.e. local dev (IntelliJ, `mvn
+    # spring-boot:run`, a plain `docker run`) with no SPRING_PROFILES_ACTIVE
+    # set. Cloud Run always gets SPRING_PROFILES_ACTIVE=prod explicitly (see
+    # scripts/deploy-backend.sh), which overrides this - .default only
+    # applies when no active profile is set by any other means.
+    default: local
+
+  # datasource is NOT here - it's in application-local.yml/application-prod.yml,
+  # since local and prod point at different databases (see each file).
+
+  jpa:
+    open-in-view: false
+    hibernate:
+      # The schema is managed by hand - the versioned scripts under
+      # db/migration are run manually against the database, not by the app.
+      # Hibernate only validates entities against whatever schema is there.
+      ddl-auto: validate
+    properties:
+      hibernate:
+        format_sql: true
+        jdbc:
+          time_zone: UTC
+
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+server:
+  # Cloud Run injects PORT and requires the container to listen on it;
+  # SERVER_PORT stays as the override for every other environment.
+  port: ${PORT:${SERVER_PORT:8080}}
+
+logging:
+  level:
+    root: INFO
+    com.xerxes.msme: ${APP_LOG_LEVEL:INFO}
+    # The request-log line (method, path, status, duration) - separate from
+    # com.xerxes.msme's own level so it can be silenced independently.
+    com.xerxes.msme.RequestLog: ${REQUEST_LOG_LEVEL:INFO}
+    org.springframework.security: WARN
+    org.hibernate.SQL: WARN
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread] %logger{36} - %msg%n"
+
+app:
+  public-api:
+    # On everywhere by default, including prod - a real anti-abuse guard on the
+    # unauthenticated /api/public/** surface. See application-local.yml for the
+    # one place this is turned off.
+    rate-limit-enabled: ${PUBLIC_API_RATE_LIMIT_ENABLED:true}
+  vendor-application:
+    # Off by default: registration no longer requires a vendor to upload a GST certificate or
+    # owner ID document - Super Admin instead verifies the GSTIN/Aadhaar over a phone call
+    # before activating the shop. The upload code path (VendorApplicationService/Controller)
+    # is still fully intact behind this flag, not deleted - flip to true to require uploads
+    # again without any code change.
+    kyc-documents-required: ${KYC_DOCUMENTS_REQUIRED:false}
+  jwt:
+    secret: ${JWT_SECRET:change-me-in-every-environment-this-is-not-a-real-secret}
+    expiration-minutes: ${JWT_EXPIRATION_MINUTES:30}
+  storage:
+    # Root directory for the generated storefront export's working files only
+    # (StorefrontSiteGenerator's static/ tree) - product/marketplace photos
+    # live in GCS now (see app.gcs below), not here. A relative path resolves
+    # against the working directory the backend was started from.
+    root: ${STORAGE_ROOT:./storage}
+  cors:
+    # Comma-separated list of origins allowed to call this API from a browser.
+    # The browser always sends the page's real Origin header regardless of a
+    # dev-server proxy sitting in front of it, so every local frontend's dev
+    # port needs to be listed here too, not just the deployed origin(s).
+    allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:5173,http://localhost:5174}
+  storefront:
+    # Absolute base URL the generated static storefront's JS calls back to
+    # (order submission, product data). It's baked into each tenant's
+    # exported site at publish time, so it must be reachable from wherever
+    # the vendor ends up hosting the zip - a relative/same-origin URL won't
+    # work there the way it does for this app's own frontend.
+    public-api-base-url: ${STOREFRONT_API_BASE_URL:http://localhost:8080}
+    # MVP: inventory isn't managed through the portal yet (availability is
+    # checked manually), so stock isn't enforced as a hard constraint -
+    # every variant shows "in stock" and stock movements are never blocked
+    # for going negative. Flip to true once real inventory tracking goes live.
+    stock-check-enabled: ${STOREFRONT_STOCK_CHECK_ENABLED:false}
+  default-catalog:
+    # Shortest side (px) a starter-catalogue photo must have; 0 = no check. Set to ~800 once the
+    # catalogue's stock photos have been replaced, so small images can't sneak back in.
+    min-image-size: ${DEFAULT_CATALOG_MIN_IMAGE_SIZE:0}
+  product-images:
+    # Limits for vendor product photos. Aspect ratio is width / height; the 0.55-0.90 default covers
+    # the reference guideline's 3:4 to 4:5 portrait framing with some tolerance either side.
+    min-width: ${PRODUCT_IMAGE_MIN_WIDTH:720}
+    min-height: ${PRODUCT_IMAGE_MIN_HEIGHT:900}
+    min-aspect-ratio: ${PRODUCT_IMAGE_MIN_ASPECT_RATIO:0.55}
+    max-aspect-ratio: ${PRODUCT_IMAGE_MAX_ASPECT_RATIO:0.90}
+    # Same limits for COMPACT shops (e.g. grocery pack shots): squarer photos are fine, but still
+    # big enough to stay sharp when shown on the shop page.
+    compact-min-width: ${PRODUCT_IMAGE_COMPACT_MIN_WIDTH:800}
+    compact-min-height: ${PRODUCT_IMAGE_COMPACT_MIN_HEIGHT:800}
+    compact-min-aspect-ratio: ${PRODUCT_IMAGE_COMPACT_MIN_ASPECT_RATIO:0.5}
+    compact-max-aspect-ratio: ${PRODUCT_IMAGE_COMPACT_MAX_ASPECT_RATIO:2.0}
+  razorpay:
+    # No defaults on purpose - same reasoning as DB_PASSWORD/JWT_SECRET.
+    key-id: ${RAZORPAY_KEY_ID:}
+    key-secret: ${RAZORPAY_KEY_SECRET:}
+    webhook-secret: ${RAZORPAY_WEBHOOK_SECRET:}
+  subscription:
+    trial-days: ${SUBSCRIPTION_TRIAL_DAYS:30}
+    grace-period-days: ${SUBSCRIPTION_GRACE_PERIOD_DAYS:7}
+  gcs:
+    # No default on purpose - same reasoning as DB_PASSWORD/JWT_SECRET.
+    bucket-name: ${GCS_BUCKET_NAME}
+    # Optional - the service account key's JSON content (not a file path).
+    # Set this to skip `gcloud auth application-default login` locally.
+    # Leave unset to use Application Default Credentials instead - the
+    # Cloud Run service's own attached service account in production, so
+    # this should normally stay unset there. See GcsConfig.
+    credentials-json: ${GCS_CREDENTIALS_JSON:}

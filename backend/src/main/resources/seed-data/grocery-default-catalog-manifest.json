@@ -1,0 +1,874 @@
+{
+  "categories": [
+    {
+      "name": "Milk & Dairy Products",
+      "products": [
+        {
+          "name": "Amul Milk",
+          "imageFileName": "groc-1-1.jpg"
+        },
+        {
+          "name": "Mother Dairy Milk",
+          "imageFileName": "groc-1-2.jpg"
+        },
+        {
+          "name": "Amul Curd",
+          "imageFileName": "groc-1-3.jpg"
+        },
+        {
+          "name": "Amul Paneer",
+          "imageFileName": "groc-1-4.jpg"
+        },
+        {
+          "name": "Amul Butter",
+          "imageFileName": "groc-1-5.jpg"
+        },
+        {
+          "name": "Amul Cheese",
+          "imageFileName": "groc-1-6.jpg"
+        },
+        {
+          "name": "Amul Ghee",
+          "imageFileName": "groc-1-7.jpg"
+        },
+        {
+          "name": "Nestlé Milkmaid",
+          "imageFileName": "groc-1-8.jpg"
+        },
+        {
+          "name": "Verka Lassi",
+          "imageFileName": "groc-1-9.jpg"
+        },
+        {
+          "name": "Mother Dairy Buttermilk",
+          "imageFileName": "groc-1-10.jpg"
+        },
+        {
+          "name": "Amul Fresh Cream",
+          "imageFileName": "groc-1-11.jpg"
+        },
+        {
+          "name": "Amul Cheese Spread",
+          "imageFileName": "groc-1-12.jpg"
+        },
+        {
+          "name": "Nandini Curd",
+          "imageFileName": "groc-1-13.jpg"
+        },
+        {
+          "name": "Nestlé Milk Powder",
+          "imageFileName": "groc-1-14.jpg"
+        },
+        {
+          "name": "Epigamia Greek Yogurt",
+          "imageFileName": "groc-1-15.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Atta, Flour, Rice & Staples",
+      "products": [
+        {
+          "name": "Aashirvaad Atta",
+          "imageFileName": "groc-2-1.jpg"
+        },
+        {
+          "name": "Pillsbury Atta",
+          "imageFileName": "groc-2-2.jpg"
+        },
+        {
+          "name": "Shakti Bhog Maida",
+          "imageFileName": "groc-2-3.jpg"
+        },
+        {
+          "name": "Fortune Besan",
+          "imageFileName": "groc-2-4.jpg"
+        },
+        {
+          "name": "Sooji (Sujata)",
+          "imageFileName": "groc-2-5.jpg"
+        },
+        {
+          "name": "India Gate Basmati Rice",
+          "imageFileName": "groc-2-6.jpg"
+        },
+        {
+          "name": "Daawat Rice",
+          "imageFileName": "groc-2-7.jpg"
+        },
+        {
+          "name": "Tata Sampann Poha",
+          "imageFileName": "groc-2-8.jpg"
+        },
+        {
+          "name": "Aashirvaad Rava",
+          "imageFileName": "groc-2-9.jpg"
+        },
+        {
+          "name": "Tata Sampann Sabudana",
+          "imageFileName": "groc-2-10.jpg"
+        },
+        {
+          "name": "India Gate Kolam Rice",
+          "imageFileName": "groc-2-11.jpg"
+        },
+        {
+          "name": "24 Mantra Organic Rice",
+          "imageFileName": "groc-2-12.jpg"
+        },
+        {
+          "name": "Patanjali Rice Flour",
+          "imageFileName": "groc-2-13.jpg"
+        },
+        {
+          "name": "Corn Flour (WeikField)",
+          "imageFileName": "groc-2-14.jpg"
+        },
+        {
+          "name": "Top Ramen Seviyan",
+          "imageFileName": "groc-2-15.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pulses, Dal & Legumes",
+      "products": [
+        {
+          "name": "Tata Sampann Toor Dal",
+          "imageFileName": "groc-3-1.jpg"
+        },
+        {
+          "name": "Tata Sampann Moong Dal",
+          "imageFileName": "groc-3-2.jpg"
+        },
+        {
+          "name": "Tata Sampann Masoor Dal",
+          "imageFileName": "groc-3-3.jpg"
+        },
+        {
+          "name": "Tata Sampann Chana Dal",
+          "imageFileName": "groc-3-4.jpg"
+        },
+        {
+          "name": "Tata Sampann Urad Dal",
+          "imageFileName": "groc-3-5.jpg"
+        },
+        {
+          "name": "Rajma",
+          "imageFileName": "groc-3-6.jpg"
+        },
+        {
+          "name": "Kabuli Chana",
+          "imageFileName": "groc-3-7.jpg"
+        },
+        {
+          "name": "Kala Chana",
+          "imageFileName": "groc-3-8.jpg"
+        },
+        {
+          "name": "Green Peas",
+          "imageFileName": "groc-3-9.jpg"
+        },
+        {
+          "name": "Lobia",
+          "imageFileName": "groc-3-10.jpg"
+        },
+        {
+          "name": "White Peas",
+          "imageFileName": "groc-3-11.jpg"
+        },
+        {
+          "name": "Soya Chunks (Nutrela)",
+          "imageFileName": "groc-3-12.jpg"
+        },
+        {
+          "name": "Masoor Whole",
+          "imageFileName": "groc-3-13.jpg"
+        },
+        {
+          "name": "Moong Whole",
+          "imageFileName": "groc-3-14.jpg"
+        },
+        {
+          "name": "Urad Whole",
+          "imageFileName": "groc-3-15.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cooking Oils & Fats",
+      "products": [
+        {
+          "name": "Fortune Sunflower Oil",
+          "imageFileName": "groc-4-1.jpg"
+        },
+        {
+          "name": "Saffola Oil",
+          "imageFileName": "groc-4-2.jpg"
+        },
+        {
+          "name": "Dhara Mustard Oil",
+          "imageFileName": "groc-4-3.jpg"
+        },
+        {
+          "name": "Fortune Soyabean Oil",
+          "imageFileName": "groc-4-4.jpg"
+        },
+        {
+          "name": "Gemini Groundnut Oil",
+          "imageFileName": "groc-4-5.jpg"
+        },
+        {
+          "name": "Borges Olive Oil",
+          "imageFileName": "groc-4-6.jpg"
+        },
+        {
+          "name": "Parachute Coconut Oil",
+          "imageFileName": "groc-4-7.jpg"
+        },
+        {
+          "name": "Dalda Vanaspati",
+          "imageFileName": "groc-4-8.jpg"
+        },
+        {
+          "name": "Amul Ghee",
+          "imageFileName": "groc-4-9.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sugar, Salt & Sweeteners",
+      "products": [
+        {
+          "name": "Tata Sugar",
+          "imageFileName": "groc-5-1.jpg"
+        },
+        {
+          "name": "Dhampur Brown Sugar",
+          "imageFileName": "groc-5-2.jpg"
+        },
+        {
+          "name": "Tata Salt",
+          "imageFileName": "groc-5-3.jpg"
+        },
+        {
+          "name": "Catch Sendha Namak",
+          "imageFileName": "groc-5-4.jpg"
+        },
+        {
+          "name": "Catch Black Salt",
+          "imageFileName": "groc-5-5.jpg"
+        },
+        {
+          "name": "Dabur Honey",
+          "imageFileName": "groc-5-6.jpg"
+        },
+        {
+          "name": "Madhur Jaggery",
+          "imageFileName": "groc-5-7.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Spices & Masala",
+      "products": [
+        {
+          "name": "Everest Turmeric",
+          "imageFileName": "groc-6-1.jpg"
+        },
+        {
+          "name": "Everest Red Chilli",
+          "imageFileName": "groc-6-2.jpg"
+        },
+        {
+          "name": "Everest Coriander",
+          "imageFileName": "groc-6-3.jpg"
+        },
+        {
+          "name": "MDH Garam Masala",
+          "imageFileName": "groc-6-4.jpg"
+        },
+        {
+          "name": "MDH Kitchen King",
+          "imageFileName": "groc-6-5.jpg"
+        },
+        {
+          "name": "Catch Cumin Seeds",
+          "imageFileName": "groc-6-6.jpg"
+        },
+        {
+          "name": "Catch Mustard Seeds",
+          "imageFileName": "groc-6-7.jpg"
+        },
+        {
+          "name": "MDH Chaat Masala",
+          "imageFileName": "groc-6-8.jpg"
+        },
+        {
+          "name": "Everest Pav Bhaji",
+          "imageFileName": "groc-6-9.jpg"
+        },
+        {
+          "name": "MDH Chicken Masala",
+          "imageFileName": "groc-6-10.jpg"
+        },
+        {
+          "name": "MDH Biryani Masala",
+          "imageFileName": "groc-6-11.jpg"
+        },
+        {
+          "name": "MTR Hing",
+          "imageFileName": "groc-6-12.jpg"
+        },
+        {
+          "name": "Cardamom",
+          "imageFileName": "groc-6-13.jpg"
+        },
+        {
+          "name": "Cinnamon",
+          "imageFileName": "groc-6-14.jpg"
+        },
+        {
+          "name": "Cloves",
+          "imageFileName": "groc-6-15.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tea, Coffee & Health Drinks",
+      "products": [
+        {
+          "name": "Tata Tea Premium",
+          "imageFileName": "groc-7-1.jpg"
+        },
+        {
+          "name": "Red Label",
+          "imageFileName": "groc-7-2.jpg"
+        },
+        {
+          "name": "Lipton Green Tea",
+          "imageFileName": "groc-7-3.jpg"
+        },
+        {
+          "name": "Nescafé Coffee",
+          "imageFileName": "groc-7-4.jpg"
+        },
+        {
+          "name": "Bru Coffee",
+          "imageFileName": "groc-7-5.jpg"
+        },
+        {
+          "name": "Bournvita",
+          "imageFileName": "groc-7-6.jpg"
+        },
+        {
+          "name": "Horlicks",
+          "imageFileName": "groc-7-7.jpg"
+        },
+        {
+          "name": "Boost",
+          "imageFileName": "groc-7-8.jpg"
+        },
+        {
+          "name": "Complan",
+          "imageFileName": "groc-7-9.jpg"
+        },
+        {
+          "name": "Tata Gluco+",
+          "imageFileName": "groc-7-10.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Biscuits, Cookies & Rusks",
+      "products": [
+        {
+          "name": "Parle-G",
+          "imageFileName": "groc-8-1.jpg"
+        },
+        {
+          "name": "Britannia Marie Gold",
+          "imageFileName": "groc-8-2.jpg"
+        },
+        {
+          "name": "Britannia Good Day",
+          "imageFileName": "groc-8-3.jpg"
+        },
+        {
+          "name": "Sunfeast Dark Fantasy",
+          "imageFileName": "groc-8-4.jpg"
+        },
+        {
+          "name": "Britannia Bourbon",
+          "imageFileName": "groc-8-5.jpg"
+        },
+        {
+          "name": "Britannia Treat",
+          "imageFileName": "groc-8-6.jpg"
+        },
+        {
+          "name": "Unibic Cookies",
+          "imageFileName": "groc-8-7.jpg"
+        },
+        {
+          "name": "Milk Bikis",
+          "imageFileName": "groc-8-8.jpg"
+        },
+        {
+          "name": "McVitie’s Digestive",
+          "imageFileName": "groc-8-9.jpg"
+        },
+        {
+          "name": "Britannia Rusk",
+          "imageFileName": "groc-8-10.jpg"
+        },
+        {
+          "name": "Tissy Wafer",
+          "imageFileName": "groc-8-11.jpg"
+        },
+        {
+          "name": "Sunfeast Mom’s Magic",
+          "imageFileName": "groc-8-12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Snacks & Namkeen",
+      "products": [
+        {
+          "name": "Lay’s Chips",
+          "imageFileName": "groc-9-1.jpg"
+        },
+        {
+          "name": "Kurkure",
+          "imageFileName": "groc-9-2.jpg"
+        },
+        {
+          "name": "Haldiram’s Bhujia",
+          "imageFileName": "groc-9-3.jpg"
+        },
+        {
+          "name": "Haldiram’s Mixture",
+          "imageFileName": "groc-9-4.jpg"
+        },
+        {
+          "name": "Bikano Aloo Bhujia",
+          "imageFileName": "groc-9-5.jpg"
+        },
+        {
+          "name": "Pringles",
+          "imageFileName": "groc-9-6.jpg"
+        },
+        {
+          "name": "Bingo",
+          "imageFileName": "groc-9-7.jpg"
+        },
+        {
+          "name": "Haldiram’s Sev",
+          "imageFileName": "groc-9-8.jpg"
+        },
+        {
+          "name": "Haldiram’s Peanuts",
+          "imageFileName": "groc-9-9.jpg"
+        },
+        {
+          "name": "Shivaji Chana",
+          "imageFileName": "groc-9-10.jpg"
+        },
+        {
+          "name": "ACT II Popcorn",
+          "imageFileName": "groc-9-11.jpg"
+        },
+        {
+          "name": "Chheda’s Namkeen",
+          "imageFileName": "groc-9-12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Instant & Packaged Foods",
+      "products": [
+        {
+          "name": "Maggi Noodles",
+          "imageFileName": "groc-10-1.jpg"
+        },
+        {
+          "name": "Top Ramen",
+          "imageFileName": "groc-10-2.jpg"
+        },
+        {
+          "name": "Pasta (Weikfield)",
+          "imageFileName": "groc-10-3.jpg"
+        },
+        {
+          "name": "Saffola Oats",
+          "imageFileName": "groc-10-4.jpg"
+        },
+        {
+          "name": "Kellogg’s Muesli",
+          "imageFileName": "groc-10-5.jpg"
+        },
+        {
+          "name": "MTR Ready Mix",
+          "imageFileName": "groc-10-6.jpg"
+        },
+        {
+          "name": "MTR RT Dal",
+          "imageFileName": "groc-10-7.jpg"
+        },
+        {
+          "name": "MTR RTE Rajma",
+          "imageFileName": "groc-10-8.jpg"
+        },
+        {
+          "name": "Knorr Soup",
+          "imageFileName": "groc-10-9.jpg"
+        },
+        {
+          "name": "Tata Soulfull Millet",
+          "imageFileName": "groc-10-10.jpg"
+        },
+        {
+          "name": "ITC Aashirvaad Instant Upma",
+          "imageFileName": "groc-10-11.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sauces, Spreads & Condiments",
+      "products": [
+        {
+          "name": "Kissan Tomato Ketchup",
+          "imageFileName": "groc-11-1.jpg"
+        },
+        {
+          "name": "Red Dot Sauce",
+          "imageFileName": "groc-11-2.jpg"
+        },
+        {
+          "name": "Schezwan Sauce",
+          "imageFileName": "groc-11-3.jpg"
+        },
+        {
+          "name": "Soy Sauce",
+          "imageFileName": "groc-11-4.jpg"
+        },
+        {
+          "name": "Green Chilli Sauce",
+          "imageFileName": "groc-11-5.jpg"
+        },
+        {
+          "name": "Veg Mayonnaise",
+          "imageFileName": "groc-11-6.jpg"
+        },
+        {
+          "name": "Nutralite Peanut Butter",
+          "imageFileName": "groc-11-7.jpg"
+        },
+        {
+          "name": "Kissan Jam",
+          "imageFileName": "groc-11-8.jpg"
+        },
+        {
+          "name": "Mango Pickle",
+          "imageFileName": "groc-11-9.jpg"
+        },
+        {
+          "name": "Mixed Pickle",
+          "imageFileName": "groc-11-10.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Beverages & Packaged Drinks",
+      "products": [
+        {
+          "name": "Bisleri Water",
+          "imageFileName": "groc-12-1.jpg"
+        },
+        {
+          "name": "Coca-Cola",
+          "imageFileName": "groc-12-2.jpg"
+        },
+        {
+          "name": "Pepsi",
+          "imageFileName": "groc-12-3.jpg"
+        },
+        {
+          "name": "Sprite",
+          "imageFileName": "groc-12-4.jpg"
+        },
+        {
+          "name": "Fanta",
+          "imageFileName": "groc-12-5.jpg"
+        },
+        {
+          "name": "Real Fruit Juice",
+          "imageFileName": "groc-12-6.jpg"
+        },
+        {
+          "name": "Tropicana Juice",
+          "imageFileName": "groc-12-7.jpg"
+        },
+        {
+          "name": "Paper Boat Drink",
+          "imageFileName": "groc-12-8.jpg"
+        },
+        {
+          "name": "Red Bull",
+          "imageFileName": "groc-12-9.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Personal Care (Bath, Skin & Fragrance)",
+      "products": [
+        {
+          "name": "Dove Soap",
+          "imageFileName": "groc-13-1.jpg"
+        },
+        {
+          "name": "Lux Soap",
+          "imageFileName": "groc-13-2.jpg"
+        },
+        {
+          "name": "Pears Soap",
+          "imageFileName": "groc-13-3.jpg"
+        },
+        {
+          "name": "Cinthol Soap",
+          "imageFileName": "groc-13-4.jpg"
+        },
+        {
+          "name": "Dettol Soap",
+          "imageFileName": "groc-13-5.jpg"
+        },
+        {
+          "name": "Nivea Body Lotion",
+          "imageFileName": "groc-13-6.jpg"
+        },
+        {
+          "name": "Himalaya Face Wash",
+          "imageFileName": "groc-13-7.jpg"
+        },
+        {
+          "name": "Pond’s Cream",
+          "imageFileName": "groc-13-8.jpg"
+        },
+        {
+          "name": "Vaseline",
+          "imageFileName": "groc-13-9.jpg"
+        },
+        {
+          "name": "Pond’s Talc",
+          "imageFileName": "groc-13-10.jpg"
+        },
+        {
+          "name": "Dettol Handwash",
+          "imageFileName": "groc-13-11.jpg"
+        },
+        {
+          "name": "Sanitizer",
+          "imageFileName": "groc-13-12.jpg"
+        },
+        {
+          "name": "Nivea Body Wash",
+          "imageFileName": "groc-13-13.jpg"
+        },
+        {
+          "name": "Lotus Sunscreen",
+          "imageFileName": "groc-13-14.jpg"
+        },
+        {
+          "name": "Nivea Cream",
+          "imageFileName": "groc-13-15.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hair Care",
+      "products": [
+        {
+          "name": "Clinic Plus Shampoo",
+          "imageFileName": "groc-14-1.jpg"
+        },
+        {
+          "name": "Head & Shoulders",
+          "imageFileName": "groc-14-2.jpg"
+        },
+        {
+          "name": "Pantene Shampoo",
+          "imageFileName": "groc-14-3.jpg"
+        },
+        {
+          "name": "Dove Conditioner",
+          "imageFileName": "groc-14-4.jpg"
+        },
+        {
+          "name": "Parachute Hair Oil",
+          "imageFileName": "groc-14-5.jpg"
+        },
+        {
+          "name": "Dabur Amla Oil",
+          "imageFileName": "groc-14-6.jpg"
+        },
+        {
+          "name": "Garnier Hair Colour",
+          "imageFileName": "groc-14-7.jpg"
+        },
+        {
+          "name": "Livon Serum",
+          "imageFileName": "groc-14-8.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Oral Care & Grooming",
+      "products": [
+        {
+          "name": "Colgate Toothpaste",
+          "imageFileName": "groc-15-1.jpg"
+        },
+        {
+          "name": "Closeup Toothpaste",
+          "imageFileName": "groc-15-2.jpg"
+        },
+        {
+          "name": "Sensodyne Toothpaste",
+          "imageFileName": "groc-15-3.jpg"
+        },
+        {
+          "name": "Oral-B Toothbrush",
+          "imageFileName": "groc-15-4.jpg"
+        },
+        {
+          "name": "Listerine Mouthwash",
+          "imageFileName": "groc-15-5.jpg"
+        },
+        {
+          "name": "Gillette Razor",
+          "imageFileName": "groc-15-6.jpg"
+        },
+        {
+          "name": "Gillette Shaving Cream",
+          "imageFileName": "groc-15-7.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Women’s Hygiene & Baby Care",
+      "products": [
+        {
+          "name": "Whispers Sanitary Pads",
+          "imageFileName": "groc-16-1.jpg"
+        },
+        {
+          "name": "Stayfree Pads",
+          "imageFileName": "groc-16-2.jpg"
+        },
+        {
+          "name": "Pampers Diapers",
+          "imageFileName": "groc-16-3.jpg"
+        },
+        {
+          "name": "Huggies Diapers",
+          "imageFileName": "groc-16-4.jpg"
+        },
+        {
+          "name": "Johnson’s Baby Soap",
+          "imageFileName": "groc-16-5.jpg"
+        },
+        {
+          "name": "Himalaya Baby Shampoo",
+          "imageFileName": "groc-16-6.jpg"
+        },
+        {
+          "name": "Johnson’s Baby Powder",
+          "imageFileName": "groc-16-7.jpg"
+        },
+        {
+          "name": "Himalaya Baby Wipes",
+          "imageFileName": "groc-16-8.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Laundry & Household Cleaning",
+      "products": [
+        {
+          "name": "Surf Excel Detergent",
+          "imageFileName": "groc-17-1.jpg"
+        },
+        {
+          "name": "Ariel Detergent",
+          "imageFileName": "groc-17-2.jpg"
+        },
+        {
+          "name": "Tide Detergent",
+          "imageFileName": "groc-17-3.jpg"
+        },
+        {
+          "name": "Rin Detergent Bar",
+          "imageFileName": "groc-17-4.jpg"
+        },
+        {
+          "name": "Comfort Conditioner",
+          "imageFileName": "groc-17-5.jpg"
+        },
+        {
+          "name": "Vim Dishwash",
+          "imageFileName": "groc-17-6.jpg"
+        },
+        {
+          "name": "Pril Dishwash Liquid",
+          "imageFileName": "groc-17-7.jpg"
+        },
+        {
+          "name": "Harpic Toilet Cleaner",
+          "imageFileName": "groc-17-8.jpg"
+        },
+        {
+          "name": "Lizol Floor Cleaner",
+          "imageFileName": "groc-17-9.jpg"
+        },
+        {
+          "name": "Colin Glass Cleaner",
+          "imageFileName": "groc-17-10.jpg"
+        },
+        {
+          "name": "Dettol Surface Cleaner",
+          "imageFileName": "groc-17-11.jpg"
+        },
+        {
+          "name": "Scotch Brite Scrub",
+          "imageFileName": "groc-17-12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Household Essentials",
+      "products": [
+        {
+          "name": "Godrej Air Freshener",
+          "imageFileName": "groc-18-1.jpg"
+        },
+        {
+          "name": "Good Knight Mosquito Repellent",
+          "imageFileName": "groc-18-2.jpg"
+        },
+        {
+          "name": "Aluminium Foil",
+          "imageFileName": "groc-18-3.jpg"
+        },
+        {
+          "name": "Garbage Bags",
+          "imageFileName": "groc-18-4.jpg"
+        },
+        {
+          "name": "Cycle Agarbatti",
+          "imageFileName": "groc-18-5.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Register Your Business | Neighbourly</title>
+  <meta name="description" content="Apply to list your retail or wholesale business on Neighbourly and send your details for verification on WhatsApp.">
+  <meta name="theme-color" content="#236747">
+  <link rel="icon" href="images/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/polish.css">
+  <script defer src="js/registration.js"></script>
+<link rel="stylesheet" href="css/site-header.css"><script defer src="data/social-links.js"></script><script defer src="js/top-strip.js"></script></head>
+<body class="registration-page">
+  <a class="skip" href="#registration-form">Skip to registration form</a>
+  <div class="top-strip"><div class="top-strip-inner"><div class="top-socials" role="group" aria-label="Follow Neighbourly"></div><p>Discover the small businesses that make Pune, PUNE.</p></div></div><header class="site-header"><div class="header-inner"><div class="brand-lockup"><a class="brand" href="index.html"><span class="brand-icon">n<span>•</span></span>neighbourly<span class="brand-dot">.</span></a><p class="brand-tagline">YOUR NEIGHBOURHOOD. YOUR FAVORITE SHOPS.</p></div><nav id="navigation" aria-label="Main navigation"><a href="index.html">Explore Shops</a><a href="product-feed.html">Product Feed</a><a href="wholesalers.html">Explore Wholesaler</a><a href="index.html#list-business">For business owners ↗</a><a href="share-product.html" class="header-create">+ Create a post</a></nav><button class="menu-button" type="button" aria-expanded="false" aria-controls="navigation" aria-label="Toggle navigation">☰</button></div></header>
+
+  <main class="registration-shell">
+    <section class="registration-intro" aria-labelledby="registration-title">
+      <span class="eyebrow">JOIN NEIGHBOURLY</span>
+      <h1 id="registration-title">Put your business<br><span>on the local map.</span></h1>
+      <p>Register your retail shop or wholesale business for review. Complete the form, then send the prepared application to our team on WhatsApp.</p>
+      <div class="registration-steps" aria-label="Registration process">
+        <span><b>1</b> Add your details</span><span><b>2</b> Select documents</span><span><b>3</b> Send on WhatsApp</span>
+      </div>
+    </section>
+
+    <form id="registration-form" class="registration-form" novalidate>
+      <div class="form-heading"><div><span class="eyebrow">BUSINESS APPLICATION</span><h2>Tell us about your business</h2></div><span class="required-note">* Required fields</span></div>
+
+      <fieldset><legend>Business details</legend>
+        <div class="choice-group"><label class="choice-card"><input type="radio" name="businessKind" value="Retailer" checked><span><b>Retailer</b><small>Shop selling directly to customers</small></span></label><label class="choice-card"><input type="radio" name="businessKind" value="Wholesaler"><span><b>Wholesaler</b><small>Supplier selling in bulk to businesses</small></span></label></div>
+        <div class="form-grid"><label class="wide">Business name *<input name="businessName" autocomplete="organization" required maxlength="100" placeholder="e.g. Krishna Super Mart"></label><label class="wide">Business category *<select name="businessCategory" required><option value="">Select a category</option></select></label><label>Phone number *<input name="phone" type="tel" inputmode="tel" autocomplete="tel" required pattern="[0-9 +()-]{8,18}" placeholder="10-digit phone number"></label><label>Business WhatsApp number *<input name="businessWhatsapp" type="tel" inputmode="tel" required pattern="[0-9 +()-]{8,18}" placeholder="Include country code"></label></div>
+      </fieldset>
+
+      <fieldset><legend>Owner &amp; address</legend>
+        <div class="form-grid"><label>Owner name *<input name="ownerName" autocomplete="name" required maxlength="80"></label><label>Email ID *<input name="email" type="email" autocomplete="email" required placeholder="owner@example.com"></label><label class="wide">Street / Landmark *<input name="streetLandmark" autocomplete="street-address" required maxlength="160" placeholder="Shop number, building, street or nearby landmark"></label><label>Area *<input name="area" required maxlength="80" placeholder="e.g. Baner"></label><label>Pincode *<input name="pincode" inputmode="numeric" autocomplete="postal-code" required pattern="[0-9]{6}" maxlength="6" placeholder="6-digit pincode"></label><label>City *<input name="city" autocomplete="address-level2" required value="Pune"></label><label>State *<input name="state" autocomplete="address-level1" required value="Maharashtra"></label></div>
+      </fieldset>
+
+      <fieldset><legend>Verification documents</legend><p class="field-help">Files stay on your device. WhatsApp does not allow websites to attach them automatically, so please attach the selected files in the chat after it opens.</p>
+        <div class="upload-grid"><label class="upload-card"><span class="upload-icon">▧</span><b>Shop front photo *</b><small>JPG, PNG or WebP · up to 8 MB</small><input name="shopPhoto" type="file" accept="image/jpeg,image/png,image/webp" required><span class="file-name">No file selected</span></label><label class="upload-card"><span class="upload-icon">✓</span><b>Shop ACT or GST certificate *</b><small>Image or PDF · up to 8 MB</small><input name="businessDocument" type="file" accept="image/jpeg,image/png,image/webp,application/pdf" required><span class="file-name">No file selected</span></label><label class="upload-card"><span class="upload-icon">⌁</span><b>Owner PAN or Aadhaar *</b><small>Image or PDF · up to 8 MB</small><input name="ownerDocument" type="file" accept="image/jpeg,image/png,image/webp,application/pdf" required><span class="file-name">No file selected</span></label></div>
+      </fieldset>
+
+      <label class="consent"><input name="consent" type="checkbox" required><span>I confirm these details are accurate and I am authorised to submit these documents for verification. *</span></label>
+      <div id="form-status" class="form-status" role="alert" aria-live="polite"></div>
+      <div class="submission-choices"><button class="review-submit" type="submit" value="review"><span aria-hidden="true">✓</span> Submit form to review</button><button class="whatsapp-submit" type="submit" value="whatsapp"><span aria-hidden="true">◉</span> Review &amp; continue on WhatsApp ↗</button></div>
+      <p class="privacy-note">Choose “Submit form to review” to securely send the application and documents to the server, or use WhatsApp to send the prepared message and attach the files yourself.</p>
+    </form>
+  </main>
+  <dialog id="submission-confirmation" aria-labelledby="submission-confirmation-title"><button class="dialog-close" type="button" aria-label="Close confirmation">×</button><span class="eyebrow">APPLICATION RECEIVED</span><h2 id="submission-confirmation-title">Submitted for review</h2><p>Your business application and verification documents were sent successfully.</p><p class="submission-reference"></p><button class="primary-button confirmation-close" type="button">Done</button></dialog>
+  <footer><div><a class="brand" href="index.html">neighbourly<span class="brand-dot">.</span></a><p>Your neighbourhood, all in one place.</p></div><div class="footer-links"><a href="index.html">Explore Shops</a><a href="wholesalers.html">Explore Wholesaler</a><span>© <span id="year"></span> Neighbourly</span></div></footer>
+</body>
+</html>

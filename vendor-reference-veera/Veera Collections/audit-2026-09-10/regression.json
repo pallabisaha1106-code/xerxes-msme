@@ -1,0 +1,75 @@
+{
+  "changed": [
+    "components\\footer.html",
+    "css\\footer.css",
+    "css\\product-lightbox.css",
+    "css\\pages\\catalog.css",
+    "js\\product-lightbox.js",
+    "js\\site.js"
+  ],
+  "localPages": 29,
+  "viewportChecks": 261,
+  "headerParity": "PASS",
+  "footerParity": [
+    {
+      "header": "Home",
+      "footer": "Home",
+      "url": "https://www.veeracollections.com/",
+      "status": "PASS"
+    },
+    {
+      "header": "Anarkali",
+      "footer": "Anarkali",
+      "url": "https://www.veeracollections.com/anarkali-dresses.html",
+      "status": "PASS"
+    },
+    {
+      "header": "Punjabi dress",
+      "footer": "Punjabi dress",
+      "url": "https://www.veeracollections.com/punjabi-dress.html",
+      "status": "PASS"
+    },
+    {
+      "header": "Western wear",
+      "footer": "Western wear",
+      "url": "https://www.veeracollections.com/western-wear.html",
+      "status": "PASS"
+    },
+    {
+      "header": "Co-Ord sets",
+      "footer": "Co-Ord sets",
+      "url": "https://www.veeracollections.com/co-ord-sets.html",
+      "status": "PASS"
+    },
+    {
+      "header": "Kurtis",
+      "footer": "Kurtis",
+      "url": "https://www.veeracollections.com/kurtis.html",
+      "status": "PASS"
+    },
+    {
+      "header": "More",
+      "footer": "More",
+      "url": "https://www.veeracollections.com/more.html",
+      "status": "PASS"
+    },
+    {
+      "header": "VISIT US",
+      "footer": "Visit us",
+      "url": "https://www.veeracollections.com/visit-us.html",
+      "status": "PASS"
+    }
+  ],
+  "productContent": "PASS: unchanged titles, image references, text and WhatsApp targets",
+  "metadata": "PASS: every root HTML file byte-for-byte unchanged",
+  "schema": "PASS: unchanged and JSON parsing passed",
+  "robotsSitemap": "PASS: byte-for-byte unchanged",
+  "links": "PASS: no missing internal paths or fragment IDs",
+  "imageFiles": "PASS: 426 assets decoded",
+  "runtime": "PASS: no uncaught errors in page and interaction tests",
+  "limitations": [
+    "Targeted HTML checks, not full conformance validation",
+    "Live CWV samples unthrottled; no field INP",
+    "Image/product ownership and factual accuracy require owner review"
+  ]
+}

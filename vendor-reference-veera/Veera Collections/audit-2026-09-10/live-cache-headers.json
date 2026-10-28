@@ -1,0 +1,117 @@
+[
+  {
+    "file": "robots.txt",
+    "status": 200,
+    "headers": {
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-security-policy": "upgrade-insecure-requests",
+      "content-type": "text/plain",
+      "date": "Thu, 10 Sep 2026 04:24:34 GMT",
+      "etag": "W/\"4d-6aa14200-72c26cfda4e16c60;;;\"",
+      "last-modified": "Wed, 09 Sep 2026 11:24:48 GMT",
+      "panel": "hpanel",
+      "platform": "hostinger",
+      "server": "hcdn",
+      "transfer-encoding": "chunked",
+      "vary": "Accept-Encoding",
+      "x-hcdn-cache-status": "REVALIDATED",
+      "x-hcdn-request-id": "a42caf7d9012afaa177dba7288245f54-mum-edge9",
+      "x-hcdn-upstream-rt": "0.002"
+    }
+  },
+  {
+    "file": "sitemap.xml",
+    "status": 200,
+    "headers": {
+      "accept-ranges": "bytes",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-length": "314",
+      "content-security-policy": "upgrade-insecure-requests",
+      "content-type": "application/xml",
+      "date": "Thu, 10 Sep 2026 04:24:34 GMT",
+      "etag": "\"7c2-6aa14200-f0eca5e379a3f14c;br\"",
+      "last-modified": "Wed, 09 Sep 2026 11:24:48 GMT",
+      "panel": "hpanel",
+      "platform": "hostinger",
+      "server": "hcdn",
+      "x-hcdn-cache-status": "DYNAMIC",
+      "x-hcdn-request-id": "51bb703bbda3d59e6d133b666e476ffc-mum-edge7",
+      "x-hcdn-upstream-rt": "0.006"
+    }
+  },
+  {
+    "file": "css/global.css",
+    "status": 200,
+    "headers": {
+      "accept-ranges": "bytes",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "public, max-age=604800",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-length": "1437",
+      "content-security-policy": "upgrade-insecure-requests",
+      "content-type": "text/css",
+      "date": "Thu, 10 Sep 2026 04:24:34 GMT",
+      "etag": "\"1316-6aa14200-59a84778fea91a32;br\"",
+      "expires": "Thu, 17 Sep 2026 04:24:34 GMT",
+      "last-modified": "Wed, 09 Sep 2026 11:24:48 GMT",
+      "panel": "hpanel",
+      "platform": "hostinger",
+      "server": "hcdn",
+      "x-hcdn-cache-status": "MISS",
+      "x-hcdn-request-id": "2185fab382806795eeb4f2a77a9afec6-mum-edge10",
+      "x-hcdn-upstream-rt": "0.002"
+    }
+  },
+  {
+    "file": "js/site.js",
+    "status": 200,
+    "headers": {
+      "accept-ranges": "bytes",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "public, max-age=604800",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-length": "3315",
+      "content-security-policy": "upgrade-insecure-requests",
+      "content-type": "application/x-javascript",
+      "date": "Thu, 10 Sep 2026 04:24:34 GMT",
+      "etag": "\"29ac-6aa14200-9243031b7be4c147;br\"",
+      "expires": "Thu, 17 Sep 2026 04:24:34 GMT",
+      "last-modified": "Wed, 09 Sep 2026 11:24:48 GMT",
+      "panel": "hpanel",
+      "platform": "hostinger",
+      "server": "hcdn",
+      "x-hcdn-cache-status": "MISS",
+      "x-hcdn-request-id": "6c9259c8dde47dad2dfae4e7c639b738-mum-edge6",
+      "x-hcdn-upstream-rt": "0.003"
+    }
+  },
+  {
+    "file": "assets/category-products/vc-1dee5d675287-480.webp",
+    "status": 200,
+    "headers": {
+      "accept-ranges": "bytes",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "public, max-age=604800",
+      "connection": "keep-alive",
+      "content-length": "54986",
+      "content-security-policy": "upgrade-insecure-requests",
+      "content-type": "image/webp",
+      "date": "Thu, 10 Sep 2026 04:24:34 GMT",
+      "etag": "\"d6ca-6aa14200-6cd8ec601885d792;;;\"",
+      "expires": "Thu, 17 Sep 2026 04:24:34 GMT",
+      "last-modified": "Wed, 09 Sep 2026 11:24:48 GMT",
+      "panel": "hpanel",
+      "platform": "hostinger",
+      "server": "hcdn",
+      "x-hcdn-cache-status": "MISS",
+      "x-hcdn-request-id": "3e50f439efc253a13d3281a46a1bbd16-mum-edge10",
+      "x-hcdn-upstream-rt": "0.001"
+    }
+  }
+]

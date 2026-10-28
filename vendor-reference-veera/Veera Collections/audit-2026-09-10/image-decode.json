@@ -1,0 +1,2984 @@
+[
+  {
+    "file": "assets\\brand\\veera-collections-icon-192.png",
+    "width": 192,
+    "height": 192,
+    "bytes": 49295,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\brand\\veera-collections-icon-512.png",
+    "width": 512,
+    "height": 512,
+    "bytes": 317530,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\brand\\veera-collections-official-logo.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1521326,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\brand\\veera-collections-official-logo.webp",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 205900,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\campaign\\veera-inclusive-boutique-campaign-v2.jpg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 284385,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\campaign\\veera-inclusive-size-editorial-v2.jpg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 211403,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\abstract-print-kaftan-dress.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 143628,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\black-belted-coord-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 74273,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\black-floral-embroidered-coord-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 102953,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\black-satin-maxi-dress.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 73412,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\blue-layered-dress-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 130741,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\burgundy-draped-maxi-dress.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 81474,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\floral-embellished-palazzo-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 133243,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\ivory-gold-print-kurta-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 157993,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\marble-print-midi-dress.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 152924,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\maroon-strappy-maxi-dress.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 99148,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\midnight-floral-kaftan-dress.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 172451,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\mint-embroidered-anarkali-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 162054,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\peacock-floral-kurta-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 253247,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\powder-blue-kurta.jpeg",
+    "width": 896,
+    "height": 1195,
+    "bytes": 67069,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\rose-gold-kurta-set.jpeg",
+    "width": 896,
+    "height": 1195,
+    "bytes": 90114,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\rose-pink-floral-kurta-set.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 137844,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\catalog\\teal-satin-midi-dress.jpeg",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 93030,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0149a83c4a6c-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 32008,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0149a83c4a6c.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 90608,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0524a1e5dd9b-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 42330,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0524a1e5dd9b.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 128846,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-056c72b53245-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 52806,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-056c72b53245.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 147082,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-05c02ee7f399-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 50452,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-05c02ee7f399.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 174874,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0637cd4813fc-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 32148,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0637cd4813fc.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 100062,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-071157cd5ea7-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 45398,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-071157cd5ea7.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 117832,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0b2cd003480f-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 26354,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0b2cd003480f.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 82036,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0c4dabc6d1e4-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 32638,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0c4dabc6d1e4.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 97050,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0cad4902cd84-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 17254,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0cad4902cd84.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 40628,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0de23af135be-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 22488,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0de23af135be.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 64328,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0e975ae37867-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 53108,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0e975ae37867.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 177058,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0ebffb654c40-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 26884,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-0ebffb654c40.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 87242,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-109870ff866a-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 23816,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-109870ff866a.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 63542,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-10e447373961-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 41728,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-10e447373961.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 145378,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-113519a2bfe9-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 51100,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-113519a2bfe9.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 196496,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-11a32b18257b-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 38648,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-11a32b18257b.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 106498,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-12ebf5bad31a-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 39590,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-12ebf5bad31a.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 137956,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-16a2ec20773c-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 52642,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-16a2ec20773c.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 179078,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-199468006b3e-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 23076,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-199468006b3e.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 68010,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1aa6c21c4bcf-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 43680,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1aa6c21c4bcf.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 150856,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1b4d55e90011-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 19586,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1b4d55e90011.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 51488,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1c3b1fe9ecab-480.webp",
+    "width": 480,
+    "height": 572,
+    "bytes": 26638,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1c3b1fe9ecab.webp",
+    "width": 960,
+    "height": 1144,
+    "bytes": 79722,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1ce7eee70eca-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 29756,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1ce7eee70eca.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 88058,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1d849595fb7e-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 34296,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1d849595fb7e.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 106904,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1dee5d675287-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 54986,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1dee5d675287.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 180520,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1eebd6767076-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 17258,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-1eebd6767076.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 53418,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-203dfdb0df8c-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 55588,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-203dfdb0df8c.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 200620,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-21731053753e-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 40602,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-21731053753e.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 132572,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-247688cdd9ce-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 17906,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-247688cdd9ce.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 44556,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-24fc04a9b151-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 44320,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-24fc04a9b151.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 122192,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-27bc992c39c8-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 31244,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-27bc992c39c8.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 93810,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2b79447e52a2-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 62708,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2b79447e52a2.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 216354,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2c3032f9eba4-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 55314,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2c3032f9eba4.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 164968,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2e180546b6a7-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 22496,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2e180546b6a7.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 64936,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2f78af775eaf-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 24854,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2f78af775eaf.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 78268,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2fec4c2e5bb4-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 17340,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-2fec4c2e5bb4.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 47246,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3340251f6635-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 23558,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3340251f6635.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 86976,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-358127942c83-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 16480,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-358127942c83.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 41826,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3674611395cb-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 49850,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3674611395cb.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 161432,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-378709a8fac8-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 49144,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-378709a8fac8.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 155588,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3aa037dbc537-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 42822,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3aa037dbc537.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 146952,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3b2f7631ecf8-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 38492,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3b2f7631ecf8.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 114404,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3c3aa4a9cb79-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 56580,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3c3aa4a9cb79.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 190050,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3c4da636720c-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 33070,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3c4da636720c.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 90574,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3c7b469d9562-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 39378,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3c7b469d9562.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 128346,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3ef15654056a-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 43766,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3ef15654056a.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 155872,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3ff40002e59e-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 26102,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-3ff40002e59e.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 69910,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-44c82941a5a7-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 28684,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-44c82941a5a7.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 92088,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4723406626a0-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 73012,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4723406626a0.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 252222,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-490ed59fe063-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 15348,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-490ed59fe063.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 44496,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-49f97e849524-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 60426,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-49f97e849524.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 209212,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4ad72f5b3b7d-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 36520,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4ad72f5b3b7d.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 106006,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4d806d83471e-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 28054,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4d806d83471e.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 94498,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4e51bc8afb20-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 27020,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4e51bc8afb20.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 86472,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4f0ebb93714e-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 20136,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-4f0ebb93714e.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 51348,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-53b30ba559c1-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 50900,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-53b30ba559c1.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 171506,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5409403372b3-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 46794,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5409403372b3.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 162658,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-56d928b4bd6b-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 29222,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-56d928b4bd6b.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 86506,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-57671aaa3e6c-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 24708,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-57671aaa3e6c.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 64930,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5848e3bfe5ff-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 55004,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5848e3bfe5ff.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 160522,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5981c123c622-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 48866,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5981c123c622.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 158932,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5bea98d9d301-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 46730,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5bea98d9d301.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 150536,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5cae574ad359-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 23144,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5cae574ad359.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 75392,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5d3ae4b750cf-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 27298,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5d3ae4b750cf.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 69746,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5e113ce4a3d1-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 69572,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5e113ce4a3d1.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 243634,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5e17d699858d-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 21688,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-5e17d699858d.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 64448,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-61a121785dd6-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 67974,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-61a121785dd6.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 228304,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-64f6106f243d-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 34356,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-64f6106f243d.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 91210,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6a1df525b573-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 18692,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6a1df525b573.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 48634,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6a75966583d5-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 32990,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6a75966583d5.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 93808,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6c1fd5e6cf50-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 40422,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6c1fd5e6cf50.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 124764,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6f1b80ada327-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 65662,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6f1b80ada327.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 220762,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6f37a1d50c24-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 35344,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6f37a1d50c24.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 97792,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6f4679fe6b49-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 32752,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-6f4679fe6b49.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 88376,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7071c9d9e328-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 32410,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7071c9d9e328.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 87728,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-716caec29f5d-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 41208,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-716caec29f5d.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 118534,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7190fdb7701d-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 70490,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7190fdb7701d.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 209960,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-71e508682b71-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 31684,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-71e508682b71.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 92710,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-73c910c89646-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 19578,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-73c910c89646.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 76466,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-73f9e38c7d81-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 35008,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-73f9e38c7d81.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 91900,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-75609d25f7cc-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 19050,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-75609d25f7cc.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 48732,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7563a08a2726-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 45850,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7563a08a2726.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 147302,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7973df5f3b41-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 40558,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7973df5f3b41.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 138650,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-79d0d41fb1be-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 40758,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-79d0d41fb1be.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 115802,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7c4057012777-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 53032,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7c4057012777.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 195550,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7e0d9a1de303-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 29178,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7e0d9a1de303.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 72996,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7e73762fd493-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 46646,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7e73762fd493.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 171620,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7f675e56b40e-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 58506,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-7f675e56b40e.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 178876,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-80ae5d3749c5-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 42252,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-80ae5d3749c5.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 137336,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-80bf57dc3c99-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 27218,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-80bf57dc3c99.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 75644,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-87395a12b59c-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 25610,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-87395a12b59c.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 71194,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-883a2e3553a4-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 37738,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-883a2e3553a4.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 102276,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-883e47383d16-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 30004,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-883e47383d16.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 103318,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-888fd10785c2-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 30378,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-888fd10785c2.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 86550,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-88eb6765c171-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 19346,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-88eb6765c171.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 55244,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8bcdbc9a824b-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 42596,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8bcdbc9a824b.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 125214,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8deaac2b0433-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 39352,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8deaac2b0433.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 100076,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8eb34cb7971f-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 22816,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8eb34cb7971f.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 67024,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8ed04f5f9e59-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 37164,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8ed04f5f9e59.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 107508,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8fa3eea7e89b-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 49014,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-8fa3eea7e89b.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 183672,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-90b6a7c5ebba-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 44002,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-90b6a7c5ebba.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 123088,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9225956d1c42-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 48700,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9225956d1c42.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 192086,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-92c29fc4fe92-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 33732,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-92c29fc4fe92.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 100982,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-932d27b30683-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 28810,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-932d27b30683.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 82654,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-941fdaaf7657-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 47380,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-941fdaaf7657.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 135428,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-94c25215924b-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 27062,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-94c25215924b.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 78172,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-956263c20f74-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 21992,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-956263c20f74.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 61964,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9568250d3443-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 20704,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9568250d3443.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 56164,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-95fd061203cb-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 58528,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-95fd061203cb.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 192976,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9613257581c4-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 41180,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9613257581c4.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 107284,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9704357ab2bb-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 44958,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9704357ab2bb.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 155174,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9745102b3d39-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 40286,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9745102b3d39.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 125732,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9763e4ceab60-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 24784,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9763e4ceab60.webp",
+    "width": 896,
+    "height": 1195,
+    "bytes": 75700,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-97f239bbd6ef-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 30940,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-97f239bbd6ef.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 80100,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9b04765ffd47-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 18958,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9b04765ffd47.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 53200,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9bad9ce0d7e1-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 15562,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9bad9ce0d7e1.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 44496,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9cc0b0c42f6b-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 14952,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9cc0b0c42f6b.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 37172,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9ed578b36b13-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 39406,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9ed578b36b13.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 126136,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9f7eb72716c0-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 54268,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-9f7eb72716c0.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 182268,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a0589877ab26-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 71590,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a0589877ab26.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 259088,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a24d9b244564-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 17804,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a24d9b244564.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 68114,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a25686493d59-480.webp",
+    "width": 480,
+    "height": 621,
+    "bytes": 25980,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a25686493d59.webp",
+    "width": 960,
+    "height": 1241,
+    "bytes": 78744,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a27394bac7f7-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 55026,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a27394bac7f7.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 169774,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a307f72acf87-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 38616,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a307f72acf87.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 118892,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a3f1d5fd96ef-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 38854,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a3f1d5fd96ef.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 126626,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a73e0390bbbb-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 25166,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a73e0390bbbb.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 74926,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a75b2cb8f6f5-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 39362,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a75b2cb8f6f5.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 113482,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a8001c5b2c07-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 48246,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a8001c5b2c07.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 168622,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a83bb1705ac1-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 21892,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-a83bb1705ac1.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 59686,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-aaf89e7f07cf-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 44568,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-aaf89e7f07cf.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 153384,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-abc477187b89-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 38088,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-abc477187b89.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 124610,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ac449c604d60-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 46024,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ac449c604d60.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 126686,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ac4a79397207-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 41950,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ac4a79397207.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 123108,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ac7b0736404a-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 28330,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ac7b0736404a.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 83940,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-afb703e47973-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 46280,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-afb703e47973.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 140050,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b0176ab0cb5c-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 25392,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b0176ab0cb5c.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 71786,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b0252f2f3b61-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 24488,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b0252f2f3b61.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 60526,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b0f94c9be412-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 33166,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b0f94c9be412.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 102136,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b3990c34d8f6-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 73416,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b3990c34d8f6.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 238666,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b4d3fd5e2757-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 64754,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b4d3fd5e2757.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 214060,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b6566758b940-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 42652,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b6566758b940.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 134930,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b7f9af5d58ff-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 57038,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-b7f9af5d58ff.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 198402,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bb271b47348f-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 56958,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bb271b47348f.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 183590,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bb3688b6c526-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 32388,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bb3688b6c526.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 103402,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bb6365814a26-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 37886,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bb6365814a26.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 117050,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bc891dd569c9-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 30896,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bc891dd569c9.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 90108,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-be68e4dbecda-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 30366,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-be68e4dbecda.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 100990,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-beb2a70fb4f3-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 16304,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-beb2a70fb4f3.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 40042,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bfcd6b748e4a-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 46950,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-bfcd6b748e4a.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 174050,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c03220994d33-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 45658,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c03220994d33.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 157094,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c0ddc5c9bd2d-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 25876,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c0ddc5c9bd2d.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 80146,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c100f72fa0e2-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 29168,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c100f72fa0e2.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 81410,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c224aadd086f-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 49256,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c224aadd086f.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 183724,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c2c943090fb5-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 23864,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c2c943090fb5.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 68622,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c473575d6e5b-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 80334,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c473575d6e5b.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 258224,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c53270806726-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 55028,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c53270806726.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 200042,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c64e5345d32f-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 52720,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c64e5345d32f.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 173846,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c751ee2e34f4-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 23128,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c751ee2e34f4.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 71830,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c75a8a53a3b7-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 30772,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c75a8a53a3b7.webp",
+    "width": 896,
+    "height": 1195,
+    "bytes": 84040,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c77e793bc0e9-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 45158,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c77e793bc0e9.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 170966,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c7d5b8989296-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 56074,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c7d5b8989296.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 181974,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c7fe7098ca10-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 22132,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c7fe7098ca10.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 63670,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c8bddc5a691d-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 60106,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-c8bddc5a691d.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 203534,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ce62c4fdc3d5-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 41484,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ce62c4fdc3d5.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 118216,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ceae7bc5aa1c-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 13992,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ceae7bc5aa1c.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 43566,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-cfff8fcc3287-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 34760,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-cfff8fcc3287.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 108838,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d037eae00d2b-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 39258,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d037eae00d2b.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 121630,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d159c3b529ff-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 49344,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d159c3b529ff.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 164422,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d2be8e5773f8-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 38740,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d2be8e5773f8.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 130830,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d37a2b500900-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 45350,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d37a2b500900.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 170816,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d3c9f1a49663-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 39550,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d3c9f1a49663.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 123200,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d4466204c3b3-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 50714,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d4466204c3b3.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 145328,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d4f3e02b8ae0-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 17676,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d4f3e02b8ae0.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 48264,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d6c98000605f-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 17452,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d6c98000605f.webp",
+    "width": 896,
+    "height": 1195,
+    "bytes": 45786,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d6f045a0e9cd-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 31816,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-d6f045a0e9cd.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 100436,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dbecb35f87b1-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 23038,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dbecb35f87b1.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 62920,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dca239197c06-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 32020,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dca239197c06.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 103030,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dce8e1a52c3d-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 17872,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dce8e1a52c3d.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 48514,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dd1ae75fa622-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 30304,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dd1ae75fa622.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 86848,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dd1da0a08f88-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 38912,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dd1da0a08f88.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 124144,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ddb3662b7871-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 33070,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ddb3662b7871.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 103720,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dfd19342bbe2-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 21808,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-dfd19342bbe2.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 58600,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e2a05f5beca3-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 49860,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e2a05f5beca3.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 154636,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e38d6c72d225-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 31978,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e38d6c72d225.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 88298,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e6133d6ba525-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 24238,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e6133d6ba525.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 77404,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e9d548853233-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 47650,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-e9d548853233.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 129126,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-eb5f15bc7e71-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 45434,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-eb5f15bc7e71.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 139620,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-eca0cddd0924-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 24914,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-eca0cddd0924.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 73602,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ee4998524d5b-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 38810,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ee4998524d5b.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 96854,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-eee3d90c311f-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 31052,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-eee3d90c311f.webp",
+    "width": 960,
+    "height": 1279,
+    "bytes": 81378,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ef290cd8a23f-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 42452,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ef290cd8a23f.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 123598,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f3f2f801ca2b-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 18382,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f3f2f801ca2b.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 50318,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f4bcab02ee61-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 39352,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f4bcab02ee61.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 103886,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f5cc50a26282-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 23900,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f5cc50a26282.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 73856,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f631de81ecd2-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 14540,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f631de81ecd2.webp",
+    "width": 843,
+    "height": 1264,
+    "bytes": 33612,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f7190954213e-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 31182,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f7190954213e.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 87012,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f71aa6c1a789-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 24694,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-f71aa6c1a789.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 80078,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-fa0c42afbc6b-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 32306,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-fa0c42afbc6b.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 105266,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-fafd7d131780-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 41616,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-fafd7d131780.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 111492,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-fe0210162940-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 21186,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-fe0210162940.webp",
+    "width": 960,
+    "height": 1440,
+    "bytes": 57000,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ffdf64fd6913-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 52012,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\category-products\\vc-ffdf64fd6913.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 182814,
+    "status": "PASS"
+  },
+  {
+    "file": "assets\\virtual-tryon\\teal-satin-midi-overlay.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 1595342,
+    "status": "PASS"
+  }
+]

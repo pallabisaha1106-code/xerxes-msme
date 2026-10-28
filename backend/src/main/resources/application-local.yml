@@ -1,0 +1,23 @@
+# Active by default (see spring.profiles.default in application.yml) - i.e.
+# whenever SPRING_PROFILES_ACTIVE isn't explicitly set to something else.
+spring:
+  datasource:
+    # DB_USER/DB_PASSWORD have no default on purpose - never commit real
+    # credentials here, even local ones. DB_HOST/DB_PORT/DB_NAME default to
+    # a local Postgres since that's what local dev normally points at.
+    url: jdbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5432}/${DB_NAME:xerxes_msme}
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}
+
+app:
+  public-api:
+    # Pointless friction against yourself on local dev/Playwright runs - see WebConfig.
+    rate-limit-enabled: ${PUBLIC_API_RATE_LIMIT_ENABLED:false}
+
+springdoc:
+  # Swagger UI/OpenAPI spec are permitAll in SecurityConfig (documentation
+  # only, no data behind these paths) - fine to leave on for local dev.
+  api-docs:
+    enabled: ${SWAGGER_ENABLED:true}
+  swagger-ui:
+    enabled: ${SWAGGER_ENABLED:true}

@@ -1,0 +1,17 @@
+/* Only loaded by the replacement catalogue pages. Shared styles remain untouched. */
+.category-products .catalog-hero .eyebrow{color:var(--color-gold)}
+.category-products .catalog-card{scroll-margin-top:110px;min-width:0}
+.category-products .catalog-card:target{outline:3px solid var(--color-gold);outline-offset:4px}
+.category-products .catalog-image>a,.category-products a.catalog-image{display:block}
+.category-products .catalog-info{display:flex;flex-direction:column}
+.category-products .catalog-info h3{font-size:1.3rem;margin:0 0 .5rem}
+.category-products .catalog-info p{display:block;overflow-wrap:anywhere}
+.category-products .catalog-info dl{font-size:.8rem;margin:0 0 var(--space-md)}
+.category-products .catalog-info dt{font-weight:700}
+.category-products .catalog-info dd{margin:0 0 .4rem;color:var(--color-muted);overflow-wrap:anywhere}
+.category-products .catalog-action{width:100%;min-height:48px;letter-spacing:0;text-transform:none;white-space:normal}
+.category-products .collection-note{max-width:780px;color:var(--color-muted)}
+.collection-products-heading,.collection-category{margin-top:var(--space-2xl)}
+.collection-category>h2{font-size:clamp(1.8rem,4vw,3rem);margin-bottom:var(--space-lg)}
+@media(max-width:500px){.category-products .catalog-info h3{font-size:1rem}.category-products .catalog-action{padding:.6rem .35rem;font-size:.65rem}.category-products .catalog-info dl{font-size:.75rem}}
+@media(min-width:1051px){.category-products .catalog-card{scroll-margin-top:170px}}

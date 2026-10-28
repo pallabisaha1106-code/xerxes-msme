@@ -1,0 +1,201 @@
+Maroon|Border-print flared dress|Notched neckline, patterned front panel, three-quarter sleeves and a broad floral hem border.
+Forest green|Motif-panel flared outfit|Gathered dress with a square decorative front panel; straight trousers and a patterned drape are shown.
+Navy blue|Floral V-neck flared dress|All-over pale floral motifs, three-quarter sleeves and turquoise-accented hem borders.
+Ivory|Pale motif long outfit|Long lightly flared top with subtle motifs; pale trousers and a long drape are shown.
+Mustard|Floral gathered outfit|Dense floral print, decorative front panel and wide hem border; trousers and a patterned drape are shown.
+Turquoise|Floral-accent flared outfit|V-neck gathered dress with spaced floral accents; trousers and a plain drape are shown.
+Ivory and pink|Floral long flared outfit|Pink floral pattern, decorative bodice and contrasting hem bands; a floral drape is shown.
+Beige and mustard|Medallion flared outfit|Long gathered top with large circular motifs and striped hem; trousers and a striped drape are shown.
+Beige and brown|Botanical flared outfit|Small botanical motifs, patterned neckline and geometric borders; trousers and a printed drape are shown.
+Rust red|Floral border outfit|Dense floral pattern and decorative neckline; striped trousers and a bordered drape are shown.
+Orange|Bordered long outfit|Long sleeves, decorative waist band and patterned lower panels; trousers and a printed drape are shown.
+Mustard yellow|Contrast-panel flared dress|Square patterned front panel, three-quarter sleeves and broad white motif hem border.
+Blue|Circular-motif flared outfit|Gathered waist and pale circular motifs; trousers and a coordinating patterned drape are shown.
+Teal blue|Curved-hem coordinated outfit|V-neck top with small decorative motifs and a curved contrast-trim hem; straight trousers are shown.
+Pink and white|Leaf-print coordinated outfit|Round-neck tunic with gathered sleeves and all-over leaf pattern; matching trousers are shown.
+Ivory and beige|Botanical-border coordinated outfit|Collared top with circular motifs and a botanical hem border; cropped trousers repeat the pattern.
+Pale yellow|Fine-print coordinated outfit|Three-quarter-sleeve top with fine floral pattern and horizontal borders; matching trousers are shown.
+Navy and cream|Asymmetric tunic outfit|Notched neckline with small accents and an asymmetric hem; wide patterned trousers are shown.
+White, blue and pink|Abstract-print long shirt outfit|Collared button-front long top and trousers with an abstract multicolour print.
+Purple|Sleeveless motif outfit|Round-neck long top with pale repeated motifs; matching wide cropped trousers are shown.
+Ivory, yellow and green|Floral-border coordinated outfit|V-neck top with yellow flowers along the hem; small-motif trousers are shown.
+Mint green|Sleeveless collared outfit|Long button-front top with a collar and side slits; straight trousers are shown.
+White and blue-grey|Motif-border coordinated outfit|Small repeating motifs and broad decorative borders on a three-quarter-sleeve top and trousers.
+Black|Tie-waist coordinated outfit|Collared button-front top with a waist tie and elbow-length sleeves; straight trousers are shown.
+Ivory and green|Green botanical-border outfit|Stand-collar top with circular motifs and a leafy hem border; patterned cropped trousers are shown.
+Navy and cream|Pointed-hem tunic outfit|Notched neckline, small front accents and a pointed asymmetric hem; patterned wide trousers are shown.
+Blush pink|Decorative-neckline outfit|Pale neckline detailing, three-quarter sleeves and contrasting side panels; tapered trousers are shown.
+Ivory and turquoise|Bright floral long outfit|Round-neck long top with blue-green floral clusters; matching tapered trousers are shown.
+Ivory and pink|Floral-neckline straight outfit|Colourful floral neckline detail on a plain straight top; trousers have small decorative accents.
+Black and silver-grey|Scalloped-motif coordinated outfit|Notched neckline, floral shoulder motifs and a scalloped patterned hem; cropped trousers are shown.
+Plum and beige|Decorative-border long outfit|V-neck tunic with pale floral borders at the neck, sleeves, sides and hem; wide trousers are shown.
+White and multicolour|Delicate floral long outfit|V-neck long top with fine scattered flowers and three-quarter sleeves; tapered trousers are shown.
+Beige and pink|Floral-trim straight outfit|Floral detailing at neckline, cuffs and sides; trousers repeat the floral ankle accents.
+Ivory and olive green|Outline-flower coordinated outfit|Long round-neck top and tapered trousers with large outlined flowers.
+Black and white|Striped blouse outfit|V-notch blouse with vertical stripes and elbow-length sleeves; black cropped wide-leg trousers are shown.
+Black and ivory|Bow-motif top outfit|Short-sleeve black top with pale bow motifs; ivory flared trousers with front slits are shown.
+Blue and ivory|Floral long-layer outfit|Blue floral open-front long layer over an ivory button-front dress.
+Yellow and multicolour|Floral jacket and draped-trouser look|Cropped floral top, open jacket and gathered tapered trousers are shown.
+Ivory and dusty pink|Cropped-jacket floral dress look|Pink floral midi dress shown with a pale cropped jacket and three-quarter sleeves.
+Yellow|Decorative crop-top trouser look|Sleeveless patterned crop top with a choker-style neckline detail; wide-leg trousers are shown.
+Brown and cream|Floral square-neck long dress|Gathered waist, three-quarter sleeves and pale decorative floral borders.
+Blue and white|Long shirt-layer dress look|Blue button-front long outer layer over a white dress, with a waist tie and visible pockets.
+Purple and multicolour|Floral-top draped outfit|Colourful sleeveless floral top, wide purple trousers and a sheer-looking gold-edged drape are shown.
+Deep purple and beige|Patterned jacket trouser look|Decorative crop top and short open jacket shown with flowing wide trousers.
+Lime green and ivory|Floral layered long dress|All-over pale botanical print and an asymmetric cascading front layer with elbow-length sleeves.
+Pale blue|Button-front long kurti|Notched neckline, long button placket and contrasting cuff details; dark leggings are shown.
+Red and white|Rose-print asymmetric kurti|Large rose graphics, striped panels and an asymmetric hem; red trousers are shown.
+Dark plum|Cap-sleeve long kurti|Round neckline, pale button row and an asymmetric long hem; trousers are shown.
+Turquoise and black|Sleeveless floral straight kurti|Dark floral motifs in vertical rows, front buttons and a scalloped-looking hem; trousers are shown.
+Ivory and purple|Sleeveless botanical kurti|Round neckline and repeated purple botanical motifs; matching trousers are shown.
+Black|Button-front flared kurti|Notched neckline, pale front buttons and decorative cuffs; black trousers are shown.
+White and grey|Geometric-print straight kurti|Stand collar, short placket and fine angular all-over print; white trousers are shown.
+White and red|Sleeveless small-flower kurti|Long straight silhouette with small red and dark floral motifs in vertical rows.
+Light green|Collared button-front kurti|Long shirt-style silhouette with decorative cuffs; matching trousers are shown.
+Olive green|Floral-accent straight kurti|Round neckline with pale floral decoration across one shoulder and down the front; cream trousers are shown.
+Black and grey|Small-motif flared kurti|Notched neckline, three-quarter sleeves and evenly spaced pale motifs.
+Black and gold-tone|Medallion-front flared kurti|V-neckline, circular decorative chest motif and a long gathered skirt.
+Turquoise and black|Sleeveless floral flared kurti|Dark flowers in vertical rows, front buttons and a gently flared long silhouette.
+White and red|Floral tiered long kurti|Sleeveless gathered dress with a rectangular floral front panel and red striped lower tier.
+Black and beige|Contrast-cuff straight kurti|Stand collar, front button row and patterned cuffs; black trousers are shown.
+Lilac|Short-sleeve lounge outfit|Round-neck T-shirt with small lettering and matching tapered trousers.
+Light grey|Plain lounge outfit|Round-neck short-sleeve T-shirt and tapered trousers with a subtle tonal front design.
+Dusty rose|Sleeveless square-neck outfit|Decorative square neckline and small spaced accents; trousers and a lightly striped drape are shown.
+Yellow and turquoise|Contrast floral-drape outfit|Yellow straight top with small motifs and trousers, shown with a turquoise floral drape.
+Dusty pink|Floral straight outfit|All-over fine floral pattern and decorative neckline; striped trousers and a pale floral drape are shown.
+Rust orange and ivory|Swirl-motif straight outfit|Large dotted swirl motifs and a botanical chest panel; striped trousers and a patterned drape are shown.
+Cream and red|Decorative-neckline contrast outfit|Cream straight top with neckline accents, red trousers and a bright floral bordered drape.
+Beige and brown|Leaf-print straight outfit|Decorative neckline and large botanical motifs near the hem; brown trousers and a leaf-print drape are shown.
+Mauve and dark green|Outline-flower outfit|Large pale dotted floral outlines on the top; mauve trousers and a contrasting floral drape are shown.
+Mustard yellow|Medallion straight outfit|Large pale medallions down the front; gathered trousers and a bordered drape are shown.
+Black and red|Floral-medallion outfit|Straight top with small floral medallions; bordered trousers and an ornate red-edged drape are shown.
+Sage green and ivory|Pale botanical outfit|Long top with white botanical outlines; gathered trousers and an ivory drape are shown.
+Plum and gold-tone|Linear-motif outfit|Straight top with angular borders and leaf motifs; wide trousers and a striped drape are shown.
+Aqua|Subtle-detail straight outfit|Notched neckline and tonal front detailing; straight trousers and a plain flowing drape are shown.
+Pale pink|Decorative-neckline outfit|Long top with an ornate vertical neckline detail; trousers and a striped gold-tone-bordered drape are shown.
+Ochre and ivory|Paisley contrast-drape outfit|Ochre straight top with large paisley motifs; trousers and a pale patterned drape are shown.
+Navy and green|Geometric medallion outfit|Notched neckline and repeating medallion pattern; printed trousers and a coordinating drape are shown.
+Yellow and pink|Small-print straight outfit|Fine repeated print and decorative neckline; patterned trousers and a pink-accented drape are shown.
+Charcoal and multicolour|Peacock floral outfit|V-neck top with pale botanical outlines and peacock imagery; dark trousers and a bright floral drape are shown.
+Brown and gold-tone|Sleeveless decorative outfit|Round neckline with pale ornamental details and a vertical motif border; trousers and a plain drape are shown.
+Olive and ivory|Small floral outfit|Repeated pale floral motifs and a decorative placket; patterned trousers and a matching drape are shown.
+Red and gold-tone|Sleeveless lattice outfit|Gold-tone lattice pattern with a broad hem border; gathered trousers and a fine bordered drape are shown.
+Peach and magenta|Large-leaf print outfit|Decorative neckline and large pink botanical print near the hem; magenta trousers and drape are shown.
+Dusty rose|Square-neck outdoor outfit view|Sleeveless top with a decorative square neckline and small accents; matching trousers and drape are shown.
+Navy and pale grey|Circle-print straight outfit|V-neck top with outlined circles and hanging neckline detail; trousers and a striped drape are shown.
+Yellow and olive|Botanical V-neck outfit|Fine botanical pattern with a contrasting decorative neckline; olive trousers and a patterned drape are shown.
+Navy and muted pink|Panel-print long outfit|Rectangular decorative chest panel and wide patterned hem border; trousers and a printed drape are shown.
+Dark olive|Floral-side straight outfit|V-neck top with pale floral accents down one side; trousers and a diagonal-striped drape are shown.
+Muted blue|Botanical-panel outfit|Round neckline with a small botanical front design; trousers and a floral drape are shown.
+Red|Decorative-yoke printed outfit|Dense tonal print with a pale ornate neckline; striped trousers and a floral drape are shown.
+Lilac and gold-tone|Sleeveless motif outfit|Small spaced motifs on a straight top; wide trousers and a multicolour floral drape are shown.
+Ivory and blue|Outline-flower contrast outfit|Sleeveless ivory top with large outlined flowers; blue wide trousers and a plain blue drape are shown.
+Hot pink|Decorative-yoke straight outfit|Dense pale neckline detailing and tiny repeated dots; tapered trousers and a plain drape are shown.
+Charcoal and multicolour|Bright floral peacock outfit|V-neck top with peacock and botanical imagery; black trousers and a large bright floral drape are shown.
+Sage green|Sleeveless tonal-floral outfit|Round-neck straight top with subtle pale botanical motifs; trousers and a patterned drape are shown.
+Ivory and pastel|Pastel-floral straight outfit|Soft multicolour floral print on a three-quarter-sleeve top; pale trousers and a light drape are shown.
+Mustard and cream|Fine-floral bordered outfit|Decorative neckline and fine all-over floral print; striped trousers and a floral drape are shown.
+Pale grey and white|Soft floral long outfit|Three-quarter-sleeve top with pale all-over floral pattern; matching trousers and a long pale drape are shown.
+Royal blue and pink|Decorative-neckline blue outfit|Ornate pale neckline on a long blue top; trousers and a pink-floral bordered drape are shown.
+Light green and white|Botanical-outline outfit|White leaf outlines on a straight green top; white trousers and a pale motif drape are shown.
+Orange and multicolour|Vertical-pattern outfit|Small-motif chest panel and multicolour vertical borders; coordinating trousers and patterned drape are shown.
+Pink|Notched-neck tonal outfit|Long three-quarter-sleeve top with subtle vertical detailing; wide trousers and a fine bordered drape are shown.
+Peach and turquoise|Scattered-floral outfit|Pale peach straight top with spaced flowers; trousers and a turquoise-panel floral drape are shown.
+Charcoal and pink|Peacock outfit alternate view|V-neck top with pale botanical outlines and peacock imagery; black trousers and a pink-floral drape are shown.
+Pale blue|Decorative-placket outfit|Long top with pale vertical neckline detailing and small motifs; trousers and a patterned drape are shown.
+Blue and white|Teardrop-motif outfit|Decorative neckline and large white teardrop motifs; trousers and a dotted bordered drape are shown.
+Dusty lilac|Flared medallion-neck outfit|Gently flared top with circular neckline accents; gathered trousers and a striped bordered drape are shown.
+Bright yellow|Tonal-border outfit|Notched neckline and subtle lower floral detailing; trousers and a coordinating bordered drape are shown.
+Purple|Gathered asymmetric outfit|Curved decorative neckline and gathered asymmetric hem; cropped trousers and a plain drape are shown.
+Pink and white|Fine-floral straight outfit|Decorative rectangular neckline and floral print; patterned trousers and a floral-bordered drape are shown.
+White and pink|Sleeveless ombre-drape outfit|Small pink motifs on a white straight top; white trousers and a pink-to-white drape are shown.
+Deep purple|Leaf-print straight outfit|Pale decorative placket and fine leaf pattern; trousers and a striped drape are shown.
+Pale teal|Small-motif long outfit|Notched neckline and small dark motifs; gathered trousers and a fine bordered drape are shown.
+Ivory and charcoal|Floral contrast-drape outfit|Sparse dark flowers and a wavy hem border; ivory trousers and a dense floral drape are shown.
+Coral and pale blue|Patchwork-print outfit|Rectangular decorative neckline and mixed floral panels; patterned trousers and a striped floral drape are shown.
+Green and mustard|Square-panel contrast outfit|Green top with a bright patterned square chest panel; mustard printed trousers and drape are shown.
+Teal and gold-tone|Sleeveless decorative-neck outfit|Pale ornate neckline and short button row; gathered trousers and a patterned bordered drape are shown.
+Bright green and yellow|Floral-hem straight outfit|Notched neckline, small front detailing and yellow flowers near the hem; trousers and a floral drape are shown.
+Deep teal and ivory|Ornate floral outfit|Dense pale floral motifs and a large decorative neckline; trousers and a flowing bordered drape are shown.
+Yellow|Sleeveless vertical-detail outfit|Long sleeveless top with fine vertical pale accents; trousers and a tonal patterned drape are shown.
+Aqua|Tonal straight outfit alternate view|Notched neckline and subtle front detailing; straight trousers and a plain drape are shown.
+Beige and maroon|Square-panel contrast outfit|Beige top with a multicolour geometric chest panel; trousers and a maroon medallion drape are shown.
+Ochre|Small-motif bordered outfit|Rectangular striped front panel and tiny pale motifs; trousers and a botanical-bordered drape are shown.
+Cream and pale pink|Subtle botanical outfit|Decorative placket and spaced small motifs; gathered trousers and a pale pink floral drape are shown.
+Bright pink and white|Vertical-motif straight outfit|White ornamental vertical stripes on a round-neck top; trousers and a coordinating drape are shown.
+Peach and grey|Decorative-panel print outfit|Fine all-over pale print with a grey neckline panel; striped trousers and a floral drape are shown.
+Powder blue and navy|Contrast-border outfit|Decorative placket, cuff and hem bands; trousers and a navy-to-blue striped drape are shown.
+Pale pink|Sleeveless ornate-neck outfit|Long sleeveless top with a vertical decorative neckline; trousers and a striped gold-tone-bordered drape are shown.
+Bright pink|Button-placket outfit|Notched neckline and pale button accents; gathered trousers and a floral drape are shown.
+Dark green|Floral-bordered outfit|V-neck top with botanical print and patterned cuffs; trousers and a plain bordered drape are shown.
+Mustard and multicolour|Paisley-panel outfit|V-neck top with large paisley motifs and vertical stripes; trousers and a patterned drape are shown.
+Turquoise and white|Vertical circular-motif outfit|V-neck top with white ornamental stripes; patterned cropped trousers and a coordinating drape are shown.
+Red and dark gold-tone|Decorative V-neck outfit|Dark patterned neckline panel on a straight red top; trousers and a fine bordered drape are shown.
+Rust and maroon|Ornamental-panel outfit|Long patterned top with a contrasting vertical front panel; maroon trousers and an ornate drape are shown.
+Beige and maroon|Square-panel outfit alternate view|Geometric chest panel on a beige straight top; trousers and a maroon medallion drape are shown.
+Pale aqua|Decorative flared draped outfit|Sleeveless decorative bodice and a very wide flared lower silhouette with an edged drape.
+Black and pale gold-tone|Ornate sleeveless wide-leg outfit|Dense floral detailing on a pointed-hem top; flowing wide trousers and a neckline band are shown.
+Teal and gold-tone|Bordered wide-leg outfit|Sleeveless long top with decorative neckline and hem; wide trousers and a light bordered drape are shown.
+Pale blue|Tiered decorative flared outfit|Decorative sleeveless bodice, cascading layers and small floral accents on the full lower silhouette; a light drape is shown.
+Teal and multicolour|Scalloped-top wide-leg outfit|Ornate sleeveless top with scalloped hem and tassel details; very wide trousers and a neckline band are shown.
+Red and gold-tone|Decorative pointed-hem outfit|Sleeveless top with dense ornament and hem tassels; flowing wide trousers and a neckline band are shown.
+Mint green|Decorative tiered-trouser outfit|Sleeveless long top with pale decorative front detail; tiered wide trousers and a plain drape are shown.
+Plum and ivory|Ornate sleeveless trouser outfit|Dense pale pattern on a sleeveless top with a straight border; very wide plum trousers are shown.
+Dark teal and multicolour|Ornate tassel-hem outfit|Sleeveless patterned top with pointed scallops and tassels; flowing wide trousers and neckline band are shown.
+Navy-black and pale gold-tone|Floral pointed-hem outfit|Sleeveless top with dense pale floral ornament; wide flowing trousers and a neckline band are shown.
+Hot pink and gold-tone|Striped-detail wide-leg outfit|Long sleeveless top with fine decorative vertical stripes; flowing wide trousers and a bordered drape are shown.
+Sage green and multicolour|Patterned top and floral skirt look|Three-quarter-sleeve textured-pattern top shown with a long pleated floral skirt.
+Teal and white|Cropped top and floral midi look|Short-sleeve plain cropped top with a small chest motif; pale pleated floral midi skirt is shown.
+Navy and white|Floral-border maxi skirt look|Short-sleeve navy cropped top shown with a white pleated long skirt with bright floral borders.
+Beige and red|Sleeveless top and red skirt look|Square-neck pale top with small chest lettering; a long red fine-pattern pleated skirt is shown.
+Blue and ivory|Chevron skirt coordinated look|Short-sleeve cropped blue top shown with a long skirt bearing broad chevron-pattern bands.
+Pink and white|Sleeveless floral midi skirt look|Pink sleeveless top with a small chest motif; a pale pleated skirt with pink flowers is shown.
+Pink and white|Bright floral midi alternate view|Pink sleeveless top shown with a white pleated midi skirt covered in bright pink flowers.
+White and black|Tiered top and floral skirt look|Sleeveless tiered pale top with a dark patterned bodice; black pleated floral-border skirt is shown.
+Pink and sage|Floral-tier maxi skirt look|Plain pink sleeveless top shown with a long tiered skirt with floral bands and pink stripes.
+Grey-green and white|Striped top and floral midi look|Long-sleeve horizontally striped top shown with a pale pleated floral midi skirt.
+Pale blue and navy|Drawstring tiered skirt look|Sleeveless pale blue top shown with a long drawstring skirt alternating navy and pale illustrated bands.
+Beige and navy|Sleeveless top and border skirt look|Plain beige sleeveless top shown with a long navy skirt and a small floral hem border.
+Yellow and white|Yellow floral midi skirt look|Plain yellow sleeveless top shown with a pale pleated skirt with yellow flowers.
+White and pale blue|Strapless tiered occasion dress|Decorative pale blue bodice, fluffy-looking neckline trim and an asymmetric layered white skirt.
+Teal blue|Strappy flared short dress|Thin shoulder straps, square neckline and narrow contrasting waist trim above a flared skirt.
+Black|Sleeveless fitted short dress|Round neckline and a close-fitting short silhouette with subtle surface pattern.
+Blush pink|Floral-hem gathered dress|V-neck button front, elbow-length sleeves, gathered waist and floral print near the long hem.
+Grey and ivory|Geometric handkerchief-hem dress|Square neckline, short gathered sleeves, fitted gathered waist and pointed asymmetric hem.
+Black and gold-tone|Decorative-yoke long dress|Three-quarter sleeves, pale decorative chest panel and gathered long skirt with small bodice accents.
+Pink and white|Sleeveless floral maxi dress|V-neckline, fitted waist and long flared skirt with pale floral print.
+Burgundy|Gathered-waist long dress|V-neckline, long sleeves and gathered draping around a small oval waist ornament.
+Blue and ivory|Chevron skirt outfit alternate view|Cropped short-sleeve blue top shown with a long chevron-patterned skirt.
+Teal and multicolour|Abstract-print belted long dress|Collared neckline, three-quarter sleeves and a narrow contrast belt over a full patterned skirt.
+Black and gold-tone|Decorative-yoke dress alternate view|Three-quarter sleeves, ornate chest panel, small bodice accents and gathered skirt.
+Black and silver-grey|Vertical-accent fitted midi dress|Cap sleeves, round neckline and pale vertical decorative bars at the neckline and lower skirt.
+Navy and ivory|Loose abstract-print dress|Notched neckline with a tie, wide elbow-length sleeves and irregular pale patterned bands.
+Ivory and charcoal|Loose patterned midi dress|Notched tie neckline, wide sleeves and dark irregular patterned bands.
+Black and white|Cold-shoulder floral maxi dress|Thin straps and ruffled shoulder openings above a long flared skirt with large white flowers.
+Black|Strappy flared maxi dress|Thin shoulder straps, shallow V-neckline and fitted waist above a plain full-length skirt.
+Pink and white|Floral maxi dress alternate view|Sleeveless V-neck top and long flared silhouette with pale floral print.
+Black|Long-sleeve slit dress|V-neckline with fine hanging decorative accents, fitted long sleeves and a high front-side slit.
+Grey and ivory|Marble-print belted midi dress|Collared V-neckline, three-quarter sleeves and a waist tie over a flared swirling-print skirt.
+Yellow, pink and green|Abstract strappy maxi dress|Thin straps, fitted gathered bodice and full skirt with large multicolour abstract shapes.
+Black|Floral-pattern fitted slit dress|V-neckline, long semi-sheer-looking floral sleeves and a front slit in the midi-length skirt.
+Ivory and pink|Floral puff-sleeve short dress|Square neckline, short puff sleeves and a flared short skirt with pink flowers.
+Blue and white|Cloud-print short dress|Round neckline, elbow-length puff sleeves and a waist tie above a flared skirt.
+Ivory|Sleeveless tiered midi dress|Square neckline, dark front buttons and a gathered skirt divided into broad tiers.
+Maroon|Double-strap gathered maxi dress|Crossing shoulder straps, V-neckline and gathered bodice above a flowing plain skirt.
+Dark brown|Sleeveless draped maxi dress|V-neckline and gathered side draping with a pale hanging waist ornament.
+Black and cream|Small-floral long dress|V-neckline, three-quarter sleeves, defined waist and full skirt with scattered pale flowers.
+Grey and beige|Strappy tiered maxi dress|Thin shoulder straps, gathered fitted bodice and multiple soft abstract-print skirt tiers.
+Dark brown|Draped maxi dress alternate view|Sleeveless V-neck design with gathered side draping and pale hanging waist decoration.
+Ivory and lilac|Large-floral sleeveless maxi dress|Square neckline and narrow waist trim above a long skirt with oversized purple flowers.
+Tan|Button-front collared midi dress|Notched collar, cap sleeves and full front buttons with a fitted waist and flared skirt.
+White and pink|Floral-shoulder shirt dress|Stand collar, button front, three-quarter sleeves and pale pink shoulder detailing; side pockets are visible.
+Royal blue|Bow-waist sleeveless gown|Round neckline, fitted bodice and a large waist bow over a full-length flared skirt.
+Ivory and bright pink|Draped-neck floral maxi dress|Thin straps, softly gathered neckline and large pink and yellow-green floral print.
+Purple|Rosette-waist strappy maxi dress|Thin straps, gathered bodice and a large fabric-like rosette detail at the waist above a full skirt.
+Champagne|Strapless gathered slit dress|Shaped strapless neckline, gathered fitted body and front slit in a midi-length skirt.
+Red|Cross-strap flared maxi dress|Crossed upper chest straps, shaped neckline and narrow pale waist trim above a long flared skirt.
+Deep red|Decorative-bodice fitted slit dress|Thin straps, sparkling-looking bodice accents, gathered skirt and a high front-side slit.
+Dusty pink|Wrap-look short dress|V-neck crossover bodice, three-quarter sleeves, small waist buckle and flared skirt with visible pockets.
+Teal and green|Large-leaf sleeveless maxi dress|V-neckline, defined waist and long flared skirt with oversized green leaf shapes.
+Ivory and dusty pink|Floral border short dress|Round neckline, three-quarter sleeves and decorative chest and hem borders around small floral print.
+White and blue|Botanical-print belted dress|Round neckline, three-quarter sleeves and a narrow waist tie over a flared knee-length skirt.

@@ -1,0 +1,10 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),os=require('node:os');const {createRetailerStore}=require('./retailer-store.cjs');
+const dir=fs.mkdtempSync(path.join(os.tmpdir(),'retailer-test-'));const file=path.join(dir,'test.sqlite');let store=createRetailerStore(file,'dist/data/businesses.js');const id='veera',key=store.issueKey(id),other=store.issueKey('computer-town');
+assert.throws(()=>store.read(id,other));assert.throws(()=>store.read(id,''));let data=store.read(id,key);const old=data.shop.businessName;
+data=store.save(id,key,{revision:data.revision,section:'details',details:{businessName:'Test Retailer'}});assert.equal(data.shop.businessName,'Test Retailer');
+assert.throws(()=>store.save(id,key,{revision:0,section:'details',details:{businessName:old}}));
+const products=[...data.shop.products,...data.shop.productPage.products];products[0].name='Updated product';products.pop();products.push({id:'new-product',name:'New product',category:'Clothing',mrp:100,packSize:'M',image:'images/placeholder.svg'});
+data=store.save(id,key,{revision:data.revision,section:'catalogue',products});assert.equal(data.shop.products[0].name,'Updated product');assert.equal(data.shop.productPage.products.at(-1).id,'new-product');
+assert.throws(()=>store.save(id,key,{revision:data.revision,section:'catalogue',products:[{id:'x',name:'Bad',image:'javascript:bad'}]}));
+store.close();store=createRetailerStore(file,'dist/data/businesses.js');assert.equal(store.read(id,key).shop.businessName,'Test Retailer');assert.equal(store.publicData().businesses.find(b=>b.id===id).products[0].name,'Updated product');store.close();
+console.log('PASS: retailer key isolation, details edits, product edit/add/delete, image validation, stale revision rejection, persistence and public data updates.');

@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Xerxes MSME",
+    "slug": "xerxes-msme-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.xerxes.msme"
+    },
+    "android": {
+      "package": "com.xerxes.msme"
+    }
+  }
+}

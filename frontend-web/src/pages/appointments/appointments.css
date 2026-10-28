@@ -1,0 +1,129 @@
+.appt-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.appt-intro {
+  margin-bottom: 1rem;
+}
+
+.appt-sub {
+  font-size: 0.8rem;
+  color: var(--text-color-secondary);
+}
+
+.appt-note {
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--text-color-secondary);
+}
+
+.appt-toolbar,
+.appt-inline,
+.appt-actions,
+.appt-status {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.appt-inline {
+  align-items: flex-end;
+}
+
+.appt-status {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+}
+
+/* The WhatsApp and Call links reuse the button look; keep them from underlining like plain links. */
+.appt-actions a.btn {
+  text-decoration: none;
+}
+
+/* ---- weekly hours ---- */
+.appt-week {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.appt-day {
+  display: grid;
+  grid-template-columns: 7rem 1fr auto;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--surface-border);
+}
+
+.appt-day-name {
+  font-weight: 700;
+}
+
+.appt-ranges {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.appt-range {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.appt-range .input {
+  width: 8rem;
+}
+
+.appt-icon-button {
+  border: none;
+  background: none;
+  color: var(--text-color-secondary);
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: var(--border-radius);
+}
+
+.appt-icon-button:hover {
+  background: var(--surface-hover);
+  color: var(--text-color);
+}
+
+/* ---- published dates ---- */
+.appt-dates {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.5rem 1.5rem;
+}
+
+.appt-date {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  padding: 0.35rem 0;
+}
+
+.appt-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+@media (max-width: 700px) {
+  .appt-day {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+}

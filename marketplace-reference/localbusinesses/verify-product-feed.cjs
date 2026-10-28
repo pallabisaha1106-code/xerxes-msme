@@ -1,0 +1,35 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+class El{constructor(){this.children=[];this.events={};this.dataset={};this.value='';this.classList={toggle:()=>true};}append(...els){this.children.push(...els);}replaceChildren(...els){this.children=els;}setAttribute(k,v){this[k]=v;}addEventListener(k,fn){this.events[k]=fn;}reportValidity(){return true;}reset(){}scrollIntoView(){}showModal(){this.open=true;}close(){this.open=false;}getContext(){return {fillRect(){},drawImage(){}};}toDataURL(){return 'data:image/jpeg;base64,AAAA';}}
+let page='composer';const storage=new Map();const sessionStorage={getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v),removeItem:k=>storage.delete(k)};
+const nodes=new Map(),get=s=>{if(!nodes.has(s))nodes.set(s,new El());return nodes.get(s);};
+const context={sessionStorage,window:{location:{assign:url=>{context.destination=url;}}},document:{querySelector:s=>page==='composer'&&['#posts','#post-count','#feed-lightbox .dialog-close'].includes(s)||page==='feed'&&s==='#post-form'?null:get(s),createElement:()=>new El()},Intl,URL:{createObjectURL:()=> 'blob:test',revokeObjectURL(){}},Image:class{set src(v){this.naturalWidth=100;this.naturalHeight=100;this.onload();}}};
+vm.runInNewContext(fs.readFileSync('dist/data/businesses.js','utf8'),context);vm.runInNewContext(fs.readFileSync('dist/data/pincode-areas.js','utf8'),context);vm.runInNewContext(fs.readFileSync('dist/js/product-feed.js','utf8'),context);
+const input=get('#post-photos'),status=get('#post-status');const photo={type:'image/png',size:100};const choose=async files=>{input.files=files;await input.events.change({target:input});};
+(async()=>{
+assert.equal(get('#posts').children.length,0);
+await choose(Array(5).fill(photo));assert.match(status.textContent,/maximum of 4/);assert.equal(get('#photo-previews').children.length,0);
+await choose([{type:'application/pdf',size:100}]);assert.match(status.textContent,/JPG/);
+await choose([{type:'image/png',size:6*1024*1024}]);assert.match(status.textContent,/5 MB/);
+await choose(Array(4).fill(photo));assert.equal(get('#photo-previews').children.length,4);
+await choose([photo]);assert.match(status.textContent,/maximum of 4/);assert.equal(get('#photo-previews').children.length,4);
+get('#photo-previews').children[0].children[1].events.click();assert.equal(get('#photo-previews').children.length,3);await choose([photo]);
+for(const [s,v] of Object.entries({'#post-retailer':'veera','#post-name':'Test kurta','#post-description':'Price: ₹899. Quantity: 20. Sizes: S, M, L. Cotton'}))get(s).value=v;
+get('#post-form').events.submit({preventDefault(){}});assert.equal(context.destination,'product-feed.html');assert.equal(storage.size,1);page='feed';vm.runInNewContext(fs.readFileSync('dist/js/product-feed.js','utf8'),context);assert.equal(get('#posts').children.length,13);assert.equal(storage.size,0);
+const card=get('#posts').children[0];assert.equal(card.children[1].children.length,4);assert.equal(card.children[0].children[1].children[0].href,'veera-collection.html');assert.equal(card.children[2].children[0].textContent,'Test kurta');assert.equal(card.children[2].children[1].textContent,'Price: ₹899. Quantity: 20. Sizes: S, M, L. Cotton');
+vm.runInNewContext(fs.readFileSync('dist/js/product-feed.js','utf8'),context);assert.equal(get('#posts').children.length,12);
+assert.equal(get('#feed-city').value,'Pune');assert.ok(get('#feed-city').children.some(o=>o.value==='Mumbai'));
+get('#feed-pin-input').value='411033';get('#feed-pin-input').events.input();get('#feed-city').value='Mumbai';get('#feed-city').events.change();assert.equal(get('#feed-pin-input').value,'');assert.equal(get('#feed-pin').children.length,1);assert.equal(get('#feed-area').children.length,1);assert.equal(get('#posts').children[0].className,'feed-empty');
+get('#feed-pin-input').value='411033';get('#feed-pin-input').events.input();assert.equal(get('#posts').children[0].className,'feed-empty');
+get('#posts').children[0].children[2].events.click();assert.equal(get('#feed-city').value,'Pune');assert.equal(get('#posts').children.length,12);
+get('#feed-category').value='Ladies Wear';get('#feed-category').events.change();assert.equal(get('#posts').children.length,6);get('#feed-category').value='';get('#feed-category').events.change();
+get('#feed-pin-input').value='411033';get('#feed-pin-input').events.input();assert.equal(get('#feed-pin').value,'411033');
+get('#feed-area').value='Chinchwadgaon';get('#feed-area').events.change();assert.equal(get('#posts').children.length,6);
+get('#feed-category').value='Grocery';get('#feed-category').events.change();assert.equal(get('#posts').children[0].className,'feed-empty');
+get('#feed-reset').events.click();assert.equal(get('#posts').children.length,12);assert.equal(get('#feed-pin-input').value,'');
+get('#feed-pin').value='411057';get('#feed-pin').events.change();assert.equal(get('#feed-pin-input').value,'411057');assert.equal(get('#feed-area').value,'');assert.equal(get('#posts').children[0].className,'feed-empty');
+get('#feed-pin-input').value='123';get('#feed-pin-input').events.input();assert.match(get('#feed-location-help').textContent,/6-digit/);get('#feed-reset').events.click();
+const quick=get('#feed-quick-categories').children.slice(-5);assert.equal(quick.length,5);quick[0].events.click();assert.equal(get('#feed-category').value,'Grocery');assert.equal(get('#posts').children.length,6);quick[0].events.click();assert.equal(get('#posts').children.length,12);
+const feed=fs.readFileSync('dist/product-feed.html','utf8'),share=fs.readFileSync('dist/share-product.html','utf8');assert.ok(!feed.includes('id="composer"'));assert.ok(!feed.includes('Fresh finds, local shops.'));assert.ok(share.includes('Fresh finds, local shops.'));assert.ok(share.includes('id="post-form"'));
+page='composer';vm.runInNewContext(fs.readFileSync('dist/js/product-feed.js','utf8'),context);await choose([photo]);sessionStorage.setItem=()=>{throw Error('quota');};get('#post-form').events.submit({preventDefault(){}});assert.match(status.textContent,/form has been kept/);
+console.log('PASS: feed examples, 4-photo limit including incremental uploads, type/size rejection, removal, cross-page publishing, reload clearing, storage failure recovery, page separation and retailer catalogue routing.');
+})();

@@ -1,0 +1,22 @@
+# Active on every deploy via scripts/deploy-backend.sh, which sets
+# SPRING_PROFILES_ACTIVE=prod explicitly.
+spring:
+  datasource:
+    # No defaults at all here on purpose (not even DB_HOST/DB_PORT/DB_NAME,
+    # unlike application-local.yml) - the deployed database is not the local
+    # one, so falling back to a local-dev-shaped default would either fail
+    # loudly (good) or, worse, silently point at the wrong database. All of
+    # DB_HOST/DB_PORT/DB_NAME/DB_USER/DB_PASSWORD must be set on the Cloud
+    # Run service itself (Console > Variables & Secrets).
+    url: jdbc:postgresql://${DB_HOST:aws-0-ap-south-1.pooler.supabase.com}:${DB_PORT:5432}/${DB_NAME:postgres}
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}
+
+springdoc:
+  # Off by default now that this is a real public deployment - still
+  # overridable via SWAGGER_ENABLED=true if you need to re-enable it
+  # temporarily (e.g. to debug), without a code change/redeploy.
+  api-docs:
+    enabled: ${SWAGGER_ENABLED:false}
+  swagger-ui:
+    enabled: ${SWAGGER_ENABLED:false}

@@ -1,0 +1,3736 @@
+{
+  "root": "C:\\Users\\vishw\\Documents\\Veera Collections",
+  "files": [
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/.env.example",
+      "bytes": 149,
+      "sha256": "d0dc0ec8b05b0db5468e9a13eea486f95daeaecde89b81f7e06b29843da59712"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/.gitignore",
+      "bytes": 60,
+      "sha256": "e37f1eef557a2a119f20f1441a20c2b7ea3d9c124802ef54eb6afbc10c0ae999"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/404.html",
+      "bytes": 1710,
+      "sha256": "61b39b52ecd6c97e691f55e184ad542575c265a38455951c585897c8e742a32a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/apple-touch-icon.png",
+      "bytes": 43987,
+      "sha256": "b7251644d73f7121b637ec407cf7c524931372e3f16679b1b3d4c871d13f8e35"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/best-sellers.html",
+      "bytes": 3107,
+      "sha256": "5d8a3eb1b38285e1bc910b17b835790495db0d75a04f0351add3dd19f4ee4a3e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/collection.html",
+      "bytes": 3120,
+      "sha256": "fb22d15734a65718527f39775c1ede5bf509d12ff02cddb3b50ff4d4c14c94d0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/contact.html",
+      "bytes": 5208,
+      "sha256": "e215e08d151a6d0b14d8657ad0b057e7cb01ab8b7b501de976bf5521a8d7e47a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/ethnic-wear-pune.html",
+      "bytes": 3806,
+      "sha256": "47e5ff809739c0a82b02a469eeda50ee8b45b6bbf5a00ef2ee626effdb1f3243"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/favicon-64.png",
+      "bytes": 7583,
+      "sha256": "76df23e0ed2ac834ce221d7719639a3d7b2f1e05342ec311058422a332b21009"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/favicon.svg",
+      "bytes": 420,
+      "sha256": "a0a6e9612b9e55c4e6d983ae19bc7d02e334e194495a32da145bf628aaae97d2"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/festive-wear.html",
+      "bytes": 3557,
+      "sha256": "75c63ed229884107e5e805c91bceece27253e7e0c1ef89a885381eead4ce1621"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/IMAGE-AUDIT.md",
+      "bytes": 5012,
+      "sha256": "5c5982b14b1107207048ee4a08bb8d859c8d522090d41f764b197354a1a52b3b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/index.html",
+      "bytes": 14269,
+      "sha256": "2c479cd768cab52c37e5ffef91a172e98417f1623906d51ded3ce1b865a90eee"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/kurtis-pune.html",
+      "bytes": 3873,
+      "sha256": "1fd6a3d603376ce9708dab04d3e2e69c7853516482abfe9092e245b3846091fc"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/kurtis.html",
+      "bytes": 3657,
+      "sha256": "d81f9eb1e548660e90f5fbe161476586335bd1b124337e56ff5fe0a97b0677fa"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/ladies-dresses-pune.html",
+      "bytes": 3964,
+      "sha256": "fcc2fee3ca92732d2625d2943e5cecf34fd2001aeba6ad90bd1d3e419a5a4b42"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/ladies-wear-dange-chowk.html",
+      "bytes": 3809,
+      "sha256": "1714c1377ba1f675341bb6e4d11354391fc956dc53c840a5f757cc2de25799f1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/LEGAL-PRIVACY-SECURITY-AUDIT.md",
+      "bytes": 11009,
+      "sha256": "6fdd3e1d84e8476b3f50b0e13ad8c0cc081897f59a6c6159528c0dae62343e90"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/party-wear.html",
+      "bytes": 3513,
+      "sha256": "efb7db58e78113af7c216d059ac3385f575d81e4969e1c58b50421bde8170079"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/plus-size-dresses-pune.html",
+      "bytes": 4049,
+      "sha256": "257a2f9baf58211aa5c038f9d0e3a6bec75acffb358214c02f39ae43af8ae7c7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/plus-size-womens-clothing.html",
+      "bytes": 3929,
+      "sha256": "304ad17fe63091d3eb1291124581b6eebf5fac4fa858d97ea5386a780601effd"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/privacy.html",
+      "bytes": 4274,
+      "sha256": "1bbcc40dc58604c7bbcedd1a942953546b2cdf1334fe1c71e0d74b818bcf20a4"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/punjabi-suits.html",
+      "bytes": 3615,
+      "sha256": "eee61518e6154e7ae1f85c119fde175c009959156f66e3c5aba6d18efa587afb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/README.md",
+      "bytes": 931,
+      "sha256": "a28d6a4d667bf802d931385766b213a52a5a2be46892c0f7798fcd7f951915d7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/robots.txt",
+      "bytes": 77,
+      "sha256": "8bee25b6bbf8290fd708d3d5ae251986ce6e4dbd821eb6b1ad71e78b3e9935f5"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/site.webmanifest",
+      "bytes": 625,
+      "sha256": "d247618679f8d0ad40f25f5d8e694fc34876d88163e393b95869cdc49dad030c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/sitemap.xml",
+      "bytes": 1319,
+      "sha256": "e2c01a655fb6de9d4ceb0cbcd4ddbbb6efa9595e5d40ce47d4933d6bb41e67e6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/terms.html",
+      "bytes": 3148,
+      "sha256": "277f184f502221213bc3ee5672b0710659ff47f93d4b14fba4af6aecf4376ec7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/virtual-tryon.html",
+      "bytes": 7908,
+      "sha256": "93fedde1545a282c0013184b21c573377b978abb6facf1400579b009447daf93"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/visit-us.html",
+      "bytes": 3683,
+      "sha256": "6eb4615fba63c5598d71b8e1581855497f18b44bae2106e2508cf0d76f749969"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/western-wear.html",
+      "bytes": 3621,
+      "sha256": "a52fe7463dcbdfbc9f7229d4575f7dc29a4484fa8a57b24da93137eaf71a7ddb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/_headers",
+      "bytes": 2176,
+      "sha256": "c2a7210bc3ad1260f2e7bbb7dc28235087997e44f0e0f6da829ccae4abce0071"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/_redirects",
+      "bytes": 1024,
+      "sha256": "debfd50e731b8b441dbe16ca5a8d52c107d9c8f1435fda10a504ebcfab0e9339"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/components/footer.html",
+      "bytes": 1775,
+      "sha256": "a469880caed63fc1abab5b8ceb328e5c4598ded24397d96077837392ec0e0116"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/components/header.html",
+      "bytes": 1422,
+      "sha256": "fc6a41bd2eb638a706474940cf53b5369dcf1bbfcdcb24a36fc9da322bd60993"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/footer.css",
+      "bytes": 1218,
+      "sha256": "fd0054145038e39f3e17be1fa8a7cba1c5a82fd1c730d5400f24048a5b8a3666"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/global.css",
+      "bytes": 4886,
+      "sha256": "0f8238fd0d533e61b1c1f1efc7491137cf44badc46a293bfc5cd60441b4a0172"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/header.css",
+      "bytes": 1828,
+      "sha256": "42a543c0c498b51553d500a484f4eebb9fd6ace4409cb81e635d24a315b6dbe3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/responsive.css",
+      "bytes": 1070,
+      "sha256": "695e62805fec2214a46ae25605a144d437db01859a203461dd4368940483f557"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/virtual-tryon.css",
+      "bytes": 6858,
+      "sha256": "dcc142aea68ff035b1eb37ca007d80ec4495609bb9fbf12aef6b9a44f64337a7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/js/catalog.js",
+      "bytes": 2050,
+      "sha256": "f0f9fe34f229a98e39297c336093c5abe2499e1b52a76ca2db5ae703364f9f28"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/js/main.js",
+      "bytes": 2599,
+      "sha256": "21260f7e9f7162b558221c7824beb01d8b17ae2519b1faecb2a40364243bf899"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/js/site.js",
+      "bytes": 6629,
+      "sha256": "aeb6a814ceb10a2684b0d8942304d90e62984956efc4942cd7b3e1e9a8bdbb65"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/js/virtual-tryon.js",
+      "bytes": 9539,
+      "sha256": "34c53ef82f670851016831ce9596a8574a7d2e541810f5e4cf831ef069950f9b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/.env.example",
+      "bytes": 149,
+      "sha256": "d0dc0ec8b05b0db5468e9a13eea486f95daeaecde89b81f7e06b29843da59712"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/.gitignore",
+      "bytes": 60,
+      "sha256": "e37f1eef557a2a119f20f1441a20c2b7ea3d9c124802ef54eb6afbc10c0ae999"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/404.html",
+      "bytes": 1700,
+      "sha256": "47f00c6940056266c644211d364741c10a7769745b9c913a6bd8b93ebd99e38d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/apple-touch-icon.png",
+      "bytes": 43987,
+      "sha256": "b7251644d73f7121b637ec407cf7c524931372e3f16679b1b3d4c871d13f8e35"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/best-sellers.html",
+      "bytes": 3097,
+      "sha256": "daac4db529dfd0dad7f2f6739ca0c36cbb7b5475c8bd0ecb28333483c6ab8e54"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/collection.html",
+      "bytes": 3110,
+      "sha256": "4844a3123ef59d8f7aeec0a3d7939f23ecd1006073a4accbdf9e4a6362248310"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/contact.html",
+      "bytes": 5198,
+      "sha256": "29c43a48452e4a83bed58cc7d6b7d91c2fc91239a010a60834ab0b45245c788f"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/ethnic-wear-pune.html",
+      "bytes": 3796,
+      "sha256": "984878e58be3399d8e34cbafccd238ab5f4161c7eae1dc7f48851adadfd8a317"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/favicon-64.png",
+      "bytes": 7583,
+      "sha256": "76df23e0ed2ac834ce221d7719639a3d7b2f1e05342ec311058422a332b21009"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/favicon.svg",
+      "bytes": 420,
+      "sha256": "a0a6e9612b9e55c4e6d983ae19bc7d02e334e194495a32da145bf628aaae97d2"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/festive-wear.html",
+      "bytes": 3547,
+      "sha256": "6d94d6500e2d18367d6501e3857f0fb8e2d9a7e41a6a66c895628d8b518f52b8"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/IMAGE-AUDIT.md",
+      "bytes": 5012,
+      "sha256": "5c5982b14b1107207048ee4a08bb8d859c8d522090d41f764b197354a1a52b3b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/index.html",
+      "bytes": 14269,
+      "sha256": "2c479cd768cab52c37e5ffef91a172e98417f1623906d51ded3ce1b865a90eee"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/kurtis-pune.html",
+      "bytes": 3863,
+      "sha256": "5c9321d25b274ffb110f236fea69ff78215a0297194f88ce504e053ee1202e4e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/kurtis.html",
+      "bytes": 3647,
+      "sha256": "c09a36705bc4e3f21b96ab2c49618f6dc458df82bd0162fa57b1c1f566ca3f7c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/ladies-dresses-pune.html",
+      "bytes": 3954,
+      "sha256": "12cc953bf56818dd5ca123fd3433a0bd44447183a3ec36370f8743fcd23b8df7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/ladies-wear-dange-chowk.html",
+      "bytes": 4148,
+      "sha256": "25c01702434eefa44108ded81808498a60ab34fe4c3798e60cc239155f7804f0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/LEGAL-PRIVACY-SECURITY-AUDIT.md",
+      "bytes": 11009,
+      "sha256": "6fdd3e1d84e8476b3f50b0e13ad8c0cc081897f59a6c6159528c0dae62343e90"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/party-wear.html",
+      "bytes": 3503,
+      "sha256": "f3a1cebae457d8c2f62bb2afe73c978cdc0a16bc064bff9bcbefa7c8c7f6dffa"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/plus-size-dresses-pune.html",
+      "bytes": 4039,
+      "sha256": "8bb3d9b6bb3900b788c874b3ac40e2e699b6b5550e0f9778ef71b6e9279cd6e8"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/plus-size-womens-clothing.html",
+      "bytes": 3919,
+      "sha256": "5f214f5c960c6c68c815526650aa66ad19c2488cea8b155ce098431b401302eb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/privacy.html",
+      "bytes": 4269,
+      "sha256": "85ed140926832fb1a6bf268c3e8694cee8b3a30d7ff47dd5051bb4adc930704e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/punjabi-suits.html",
+      "bytes": 3605,
+      "sha256": "47acbe2f7039704df449f87f30ffb4ae8935a03400b05f78b361e05857806b40"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/README.md",
+      "bytes": 931,
+      "sha256": "a28d6a4d667bf802d931385766b213a52a5a2be46892c0f7798fcd7f951915d7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/robots.txt",
+      "bytes": 73,
+      "sha256": "436e62877af44a1c8222524ce8cee3e54b3600bbb7150b9a52b800468e40e58b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/site.webmanifest",
+      "bytes": 625,
+      "sha256": "d247618679f8d0ad40f25f5d8e694fc34876d88163e393b95869cdc49dad030c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/sitemap.xml",
+      "bytes": 944,
+      "sha256": "6d1cfe0d4ff7b70bf91d599740f0fb0e33447091510ca591e59ad0b0b22d1865"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/terms.html",
+      "bytes": 3143,
+      "sha256": "e9717645dd0d3e6991b99104a3ece40d3136207c2599f55b3d7a7e803ab5392c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/virtual-tryon.html",
+      "bytes": 7908,
+      "sha256": "93fedde1545a282c0013184b21c573377b978abb6facf1400579b009447daf93"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/visit-us.html",
+      "bytes": 3673,
+      "sha256": "8035df24f11fd15034cbeca890b84d431aa74e07d7e8006db62ce569703d89bd"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/western-wear.html",
+      "bytes": 3611,
+      "sha256": "c33a5636e9fbfd0dd39e296a8992a9396d54cad3e99221796f89721b4df33752"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/_headers",
+      "bytes": 2176,
+      "sha256": "c2a7210bc3ad1260f2e7bbb7dc28235087997e44f0e0f6da829ccae4abce0071"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/_redirects",
+      "bytes": 1024,
+      "sha256": "debfd50e731b8b441dbe16ca5a8d52c107d9c8f1435fda10a504ebcfab0e9339"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/404.html-1920-after.png",
+      "bytes": 267431,
+      "sha256": "90af4bda396aba6453aab2406f793c24da551ccb37713490f0d1c816a92ed912"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/404.html-1920-before.png",
+      "bytes": 267165,
+      "sha256": "ebe3949a2593d56f1923540ad8421899c05fd9e9d6ae043cd8a8c3b75d4c6cf2"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/404.html-360-after.png",
+      "bytes": 143341,
+      "sha256": "f44d00f2882e7e95b3e5f107d7bd75dbdc13baebb41a4b09fb4c8095603855e7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/404.html-360-before.png",
+      "bytes": 143160,
+      "sha256": "21fd2bc698e43b5753c8abd8b52464ddc54ebcd55540f5d760504ea94134415d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/404.html-768-after.png",
+      "bytes": 160839,
+      "sha256": "29cc68919584f3193e2b26a437daa2438046bf36793d79daa10f666f70f7936b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/404.html-768-before.png",
+      "bytes": 160771,
+      "sha256": "2dad4f2c17ff121224c1bdda682bea11365b8769514307d1fe49456e14975565"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/audit-before.json",
+      "bytes": 96633,
+      "sha256": "50c0beac4f570dbf090a483fda2fc318a3efe2a52fcea40cefc3348d71b29864"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/audit.cjs",
+      "bytes": 3922,
+      "sha256": "9e2c258a673532420dbec4d2f6780d9a3308735150ea3507516a08f26922077a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/audit.json",
+      "bytes": 94199,
+      "sha256": "ee11c5c9fc4ff2a2f94b2f5d051b0d068c1ea5cbf7ea0037e5a0101c8b8e5c9a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-1366-after.png",
+      "bytes": 1119615,
+      "sha256": "22fd1aebb297419ac7a48220c9fa4beaca6a4ce8f589b51042978fadacc828d3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-1366-before.png",
+      "bytes": 1115733,
+      "sha256": "f6218e5c0b21b9fe8866fe5eec993ee73e9c965cbd5ced818616d13336199837"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-1920-after.png",
+      "bytes": 1162698,
+      "sha256": "761f2715bfb05db916afa4a7014de8781430de584a90456368f8ff8a5cc9bd0c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-1920-before.png",
+      "bytes": 1154759,
+      "sha256": "92e994c0d20e640d08a27de0417d384b7ee7c4a72d92acf0f2b882de2cde8c7f"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-360-after.png",
+      "bytes": 424159,
+      "sha256": "825b9212598d5af9e50a07ebf7a5cc7426e337b87f8d5d76fcd000d620265818"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-360-before.png",
+      "bytes": 425833,
+      "sha256": "1cdba38c41b795b55a191fbb2cb13231a0dae183a83a1dca71fc0ef1fbb90b49"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-390-after.png",
+      "bytes": 470640,
+      "sha256": "ab897f378cb0aabe1aee45cb0994d118c1a4a3d901030a37065fd069b019a724"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-390-before.png",
+      "bytes": 464117,
+      "sha256": "979e40e7667de6f47027192d18be765bd224763513b249adb52070a76a4b30f0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-768-after.png",
+      "bytes": 1268395,
+      "sha256": "15545d13d7c9baaa7cf9f11c640ed625d1ac5e0d325734d778ba2712b8929c27"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/best-sellers.html-768-before.png",
+      "bytes": 1279811,
+      "sha256": "5b21d6156096ae0ac09fec757175ebcac28f77644cfd3918935798a64df2612f"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/changes.json",
+      "bytes": 6238,
+      "sha256": "11578cacaa37fec586b4b955da3110778b70ce4f29bc79b3212947b86d07b2b1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/CHANGES.md",
+      "bytes": 9197,
+      "sha256": "b8942cc86fd8ff08010fa77714db7cfcd1fd69d42ef8a6804f74fea8728dbf2c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/checksums.json",
+      "bytes": 4074,
+      "sha256": "a99c7d30d86acd703da582aa3e577c97e005fcbcc025a800f185821f45e13af5"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-1366-after.png",
+      "bytes": 974413,
+      "sha256": "a5165857ddbe65dd73a6b269f7c4eaa464c7b7f429f9474a2e7a99392cda9f7e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-1366-before.png",
+      "bytes": 973483,
+      "sha256": "25f23a76caa8b0ac6acb2cf38298e551fc709c6c2c5a2d6f0c8bd5e31cf3e93e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-1920-after.png",
+      "bytes": 1019681,
+      "sha256": "704dee1e23d353734cf51e7bcebe7c6d9743e13b210bed56d94b9ea7dd0c7b54"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-1920-before.png",
+      "bytes": 1019115,
+      "sha256": "e7e64a59a4745a9d8dcc1fd9099b7ec74876764c56e9e1d0d27dd6a3c1268abb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-360-after.png",
+      "bytes": 377318,
+      "sha256": "9d76210021e5e255fb04fba3808b5896518100d24287c89a2a8046196e25e5eb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-360-before.png",
+      "bytes": 377648,
+      "sha256": "fadc1ddde0c2c51ed86cce29d12a5c594333cf469bef87b8080673f6c7edcb92"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-390-after.png",
+      "bytes": 420412,
+      "sha256": "d2680e45ce9e7b9b36bc0619b5c12989bf006e3e47c83c6a38476a4f465e6c98"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-390-before.png",
+      "bytes": 420248,
+      "sha256": "671920765cff31d8abfc87e0b9e37fe0cd786b8069dd139c6ef4a03095716813"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-768-after.png",
+      "bytes": 1075659,
+      "sha256": "ebb44f06601994cb26784fbbfe8f84635b30a70634b65c6fc802bdcdfc936a4d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/collection.html-768-before.png",
+      "bytes": 1075223,
+      "sha256": "524e7a3a83e91ce392cdb11669aa77456e2d58d99c770d913810525675f62349"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/contact.html-390-after.png",
+      "bytes": 174433,
+      "sha256": "2fe159f3ff1dd1e7fec8851c4b036362a0b68df362278d9d5ac9dfff4efc1736"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/contact.html-390-before.png",
+      "bytes": 173971,
+      "sha256": "080540142056dad1c02d03f223229746ab2341e7f61ab7e454c4094936a93ab3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/contact.html-768-after.png",
+      "bytes": 208191,
+      "sha256": "2d4f76e6fd20ad92d011ba176ebf70b061c116f71a3185899ede9bdea96e18ae"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/contact.html-768-before.png",
+      "bytes": 208276,
+      "sha256": "7e1d7995ef2ab6b2ec899c6772e0e57b2bbd69e6af9820ab311f9375595d2621"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/controlled-visual.cjs",
+      "bytes": 4502,
+      "sha256": "b0fa1507384569e6b9d8e876227ab0b261adabd2318f80188ea96dc79fbce184"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-1366-after.png",
+      "bytes": 475929,
+      "sha256": "eb075eb162abcd9c843347e4a8cf297bca87063ad816b86ef339aef563e8b379"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-1366-before.png",
+      "bytes": 474819,
+      "sha256": "dc9af60d53ddbec96b3a0cf37461d0e470496dd1d8376e14d85905f9dae29226"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-1920-after.png",
+      "bytes": 521760,
+      "sha256": "8749f382bccae0e1c1afafaac37567e02ecf48fb5b25b57336846294b916e734"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-1920-before.png",
+      "bytes": 521854,
+      "sha256": "c0ba2d4559e17f408365c496e975bd196e12f565e266f0c1ca2a71b6a4a57eb0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-360-after.png",
+      "bytes": 200832,
+      "sha256": "ba2ecca9bb9e5efd827633e3346176266fd339cc0c0256ca45ac75c9299bd8e1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-360-before.png",
+      "bytes": 201794,
+      "sha256": "170dd22045a01e82af4b8aba4953bdc8172181fa5df8e4a19730c53d61120d29"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-390-after.png",
+      "bytes": 207496,
+      "sha256": "d74c3fe42abeb57e16fb64a1a1342e8c0714894f1881719ad1bb50673b350ab4"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-390-before.png",
+      "bytes": 206852,
+      "sha256": "432aaabfd531f54a658b25137d15bf2672d65b4c17fe9fa47036fffd857418db"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-768-after.png",
+      "bytes": 238263,
+      "sha256": "53b174da8d28381dd44410d457c4755b9f938b54f07d42f28bd1cc22a7750fc4"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ethnic-wear-pune.html-768-before.png",
+      "bytes": 236970,
+      "sha256": "1904929ca08d252707a02514835dacd9a65945026b5ff4eb1a6aa7906b1d6207"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/external-checks.json",
+      "bytes": 8383,
+      "sha256": "cec5fec7100b55ae42ce11d92dd13b8862c8a901bf48e66dfc460ea3e3057536"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-1366-after.png",
+      "bytes": 469875,
+      "sha256": "821752a99ef80fb75b263aa6c78efa4ff7576647717a5e5b26a1ad133f5866ac"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-1366-before.png",
+      "bytes": 469474,
+      "sha256": "b7b3093ac296fc1ef3aedbf1a7955afa9656c05746caf3c86750198e30ef073d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-1920-after.png",
+      "bytes": 518802,
+      "sha256": "bb3c09bf77fc7f3b4bff955a246aa92e6f8f0415f2876b392d5ddb851e904994"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-1920-before.png",
+      "bytes": 518338,
+      "sha256": "754d6090c0f458b99cd68ce6cc2e406b2e85f0b9c14c9c559db9febc25b1e70d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-360-after.png",
+      "bytes": 201395,
+      "sha256": "a5e1dfeaa8e563c459ea3dfe13bc7c222e274a59f5893e1befc0065ecf8d3052"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-360-before.png",
+      "bytes": 201109,
+      "sha256": "b32947ba22b1da2ab05b2864127d4f883ce356f8b11dd6c527b629a4199c5e2a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-390-after.png",
+      "bytes": 206608,
+      "sha256": "38104911b47894548405173fed5408bcedec33acc3a17e2616fba6c60a104dad"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-390-before.png",
+      "bytes": 207007,
+      "sha256": "c20349606ab3061ea7fbdabd283cc3485f8a227cd817c20effda0de43671e6bb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-768-after.png",
+      "bytes": 237451,
+      "sha256": "e03df2e79c683f51cca6f789f95751fdd45303b76f014b7d36eb4f53eec1d11b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/festive-wear.html-768-before.png",
+      "bytes": 237883,
+      "sha256": "c8950f2bf1c5584573d7733e32dc2f30f24ab8a0e1d8242497fae0c129545e83"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/finalize.cjs",
+      "bytes": 3793,
+      "sha256": "77face4e28559ee65edfb8c7b06bd946112f0069c8d7ab94e6e26b13e4c08fa3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/implement.cjs",
+      "bytes": 2618,
+      "sha256": "aedafcd1268094214b4149b97baff9bb9f72ba59f8c0e85177961ff7a6a17790"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-1366-after.png",
+      "bytes": 4947728,
+      "sha256": "a812a24a1785cd3c895cac5ea4c81a7ab471fc6e976d083160760299f8dc0697"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-1366-before.png",
+      "bytes": 4948150,
+      "sha256": "20826eafe2e67f073723e9ccbe49aac6db41bb5b5e4a0b1cd3bb57a4554258b4"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-1920-after.png",
+      "bytes": 7297043,
+      "sha256": "5e97abd7f255d940d3e43d8d0a8f89b5c08fee0b4bd7e23ff85d662ad53be316"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-1920-before.png",
+      "bytes": 7297043,
+      "sha256": "5e97abd7f255d940d3e43d8d0a8f89b5c08fee0b4bd7e23ff85d662ad53be316"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-360-after.png",
+      "bytes": 1565611,
+      "sha256": "2f46835cfce5ba0a49f54937628658b27cb8a7f3c992644a9ef9cab3258051b3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-360-before.png",
+      "bytes": 1565633,
+      "sha256": "ea93d4f405d7f671e93629966cb3fa1c98a0651d6abb936173be49f076848a98"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-390-after.png",
+      "bytes": 1729430,
+      "sha256": "1b139ac18a846b96f125b377fd190a72056e6f58d775853dbeb66469dcbe4a0e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-390-before.png",
+      "bytes": 1729430,
+      "sha256": "1b139ac18a846b96f125b377fd190a72056e6f58d775853dbeb66469dcbe4a0e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-768-after.png",
+      "bytes": 3496485,
+      "sha256": "3507dc82e2678e4d45a3e61d2374170e22ff9f6a38428d85b7ddc5439b9a67c3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/index.html-768-before.png",
+      "bytes": 3496485,
+      "sha256": "3507dc82e2678e4d45a3e61d2374170e22ff9f6a38428d85b7ddc5439b9a67c3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/interactions.cjs",
+      "bytes": 1433,
+      "sha256": "b198ea9a6f5fc2580a8bbf2e9c86a7398ee34d394da60a6420c304a3e6eaa39e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/interactions.json",
+      "bytes": 465,
+      "sha256": "60d96e2e23916c4a9c89c6a61db3520a6380a8bc2ba62e3ef715c9278f0cfbff"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-1366-after.png",
+      "bytes": 433468,
+      "sha256": "93e15b9b732233de522099a5f29e4323bb0e918b6a850a6c2f7f483d47e296bc"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-1366-before.png",
+      "bytes": 434027,
+      "sha256": "bc9306208af61c767bb04dcf4c89a90494c761b7f70d294df7065eb513442eb6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-1920-after.png",
+      "bytes": 467969,
+      "sha256": "3b1063f0e8019270a299c8eaf8a2e04df0e31b35002305d55d5ffda80837e408"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-1920-before.png",
+      "bytes": 467916,
+      "sha256": "ecab2aec150de804402cc6daeb19380b8b3cb54d64a62536f432dfcd87a825ae"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-360-after.png",
+      "bytes": 203103,
+      "sha256": "f4eddafef235e9cc661f5060697195828d59308675c3c40d9c17047b943e8a0e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-360-before.png",
+      "bytes": 202708,
+      "sha256": "924345c547eb26eb5c716f9d866c1d8936d1067acdd8fa30448122834d1e9bae"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-390-after.png",
+      "bytes": 209639,
+      "sha256": "9e0bc1c0d7bb0e7abb6bbfead3489f8fbdab8b48ce652e61c6def38fce73b4b3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-390-before.png",
+      "bytes": 208762,
+      "sha256": "b9bc1b07c3ff9b1665ba7c57fa0d25aa8beb78ef5f45b5cce72d41c74752e7c7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-768-after.png",
+      "bytes": 243531,
+      "sha256": "72e738069c669d2b3c019cb48e2bb0c939a902d413a2c47fa746fef0714ff34a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis-pune.html-768-before.png",
+      "bytes": 243063,
+      "sha256": "0916092a329e607e8be7d1ebf5e857d742c80089bdf97cb56ac22cd48c378963"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-1366-after.png",
+      "bytes": 463975,
+      "sha256": "810c9de79de4c884d219fd8053cccb3b9cd9a4ec89dc5a0025b813648d3452e5"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-1366-before.png",
+      "bytes": 463539,
+      "sha256": "f1ca9386abfa74c26f867db9a1c426467792af648e375a672028490a1294ede6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-1920-after.png",
+      "bytes": 516297,
+      "sha256": "0fad8e3e9308a14e4d43fcdd32c352f9e3633d2a687b333512efe121c67e9a19"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-1920-before.png",
+      "bytes": 508138,
+      "sha256": "d8fd5caf13c601c49446f912c42c20cf272f463aceca745c2051aeaf58c457f0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-360-after.png",
+      "bytes": 209113,
+      "sha256": "c6a1ad0cdd8da5119b3b314f4343671661996a432674839755a6604e522de656"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-360-before.png",
+      "bytes": 209155,
+      "sha256": "27b61e4be198243bdf62bc256a49b12e1757a31c07485e9aa21e1ac8620440a5"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-390-after.png",
+      "bytes": 218999,
+      "sha256": "8ba06bedf07aa3e2a54639f4cfed012b60a0b584ee790459c67ffaa14aadf791"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/kurtis.html-390-before.png",
+      "bytes": 218046,
+      "sha256": "64adf61f75cd84a7953091d80bfdae55a3681675d0cb42bb3610e3260b88e312"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-1366-after.png",
+      "bytes": 391113,
+      "sha256": "7b5423c383ba83b5a6180125e2f57b50c06077988ad1d5f09fe91d4f34701ed3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-1366-before.png",
+      "bytes": 390734,
+      "sha256": "faa622ffeac5ededa6c755b214b036ae7ee6b045c1b3d618da5cb554cb94a2fb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-1920-after.png",
+      "bytes": 427863,
+      "sha256": "e6cf78f9ffce88ba088a132c955a2a0845b2511d008977844d2af45566c635e6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-1920-before.png",
+      "bytes": 428762,
+      "sha256": "65bbb11b4c568e132b2b3f0dcb48670ba219f89a4ce62baa5c0d28319a13b88f"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-360-after.png",
+      "bytes": 198445,
+      "sha256": "483049d7ec46d79d81a71fdbddf2f84e1b54ed5803c7eb357504d78f2d1358a7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-360-before.png",
+      "bytes": 198038,
+      "sha256": "60101ca2933fc7c528729af5d0673911d02682d32fde5d797334a10f630e9400"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-390-after.png",
+      "bytes": 205070,
+      "sha256": "d0f3f6c085af3e2a0d8a3d5ee08caef764e7d40a4c030519bfd4a1a4c04880f3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-390-before.png",
+      "bytes": 205067,
+      "sha256": "fd1925a8ba41dd3b6bb6beaf832781057c3b4ed156e1f29b5e9201e0363334e3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-768-after.png",
+      "bytes": 232538,
+      "sha256": "9d98616a10b2cb3ffaf3de2a2c779110ff64c169d4fc7b20a120ca44b2116512"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-dresses-pune.html-768-before.png",
+      "bytes": 232539,
+      "sha256": "fe746e58df50687d8083c12bdd473c93e5489e6e2352795ce37e33519d076a4a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-1366-after.png",
+      "bytes": 434502,
+      "sha256": "a53bb356cf4b077f80357d87e3b118d795ec741387c8d96d112a8c289e2df9c6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-1366-before.png",
+      "bytes": 432764,
+      "sha256": "90d1ace47dc58591c3c29635139d82f9ff44cf07b7168e018f52698a9d23fe46"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-1920-after.png",
+      "bytes": 480243,
+      "sha256": "90f0cb6ef023bb72abfddbb7a83b39dd507fe641d739344eb5f47d75f53b3feb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-1920-before.png",
+      "bytes": 486010,
+      "sha256": "abfe2d59dfa7dd0299b96480719e64e4359d40a1c1b8d1296ab914cf0dd43987"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-390-after.png",
+      "bytes": 208378,
+      "sha256": "7792d8d0c0a781733970298f42a1574863e3d2d625028ee01f0400b944abad39"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-390-before.png",
+      "bytes": 209133,
+      "sha256": "e8d48fac1e9dff1814a49cebb69cf2228e6e010a939c781fdfebbf89b825af9d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-768-after.png",
+      "bytes": 240951,
+      "sha256": "ca601c31c37ad417fdbeb8ce94acceaaab884f23378f0e4b732f21dec6d770b9"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/ladies-wear-dange-chowk.html-768-before.png",
+      "bytes": 214956,
+      "sha256": "fbbb3520a8a1a07df6901e043953d659e3922d3a5c9ed38d98e7afac57039bcb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/live.json",
+      "bytes": 4383,
+      "sha256": "cb65e660946c497093572397c40b0343a989dcdb2a549891a81fdf38634f9f18"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/live.ps1",
+      "bytes": 419,
+      "sha256": "6d0708413ddb76ced34388d07b03bf9ace0519720c50550d3142aeb1d434007a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/OFF-PAGE-PLAN.md",
+      "bytes": 2749,
+      "sha256": "2e407b5bd77006494c496e20df38b378b7c2fa8ed2b9d7ca79199d2e14949b6c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-1366-after.png",
+      "bytes": 422577,
+      "sha256": "50e223eba408a56bba2cf6ba2f63c09e90fefdd84dee6b96fc3706897d3e5318"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-1366-before.png",
+      "bytes": 421885,
+      "sha256": "7b6e7d9294d854622ff6fe2e0d16f48b5ec4ea735979e00d232306c6b18d5fc6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-1920-after.png",
+      "bytes": 469965,
+      "sha256": "d852414a1101465e1e944c82d3b1b5dc610ee1ae7bf9eb4c33348f9e714e4ea3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-1920-before.png",
+      "bytes": 471067,
+      "sha256": "c8f35d4f50964d19be1b4c72174f274e9c564ce1506f93d8768e1108b16b216b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-360-after.png",
+      "bytes": 201419,
+      "sha256": "309a8697c77a23a49d50db5516e3cfc1865c0fc7d1654feb0e12d57fb6323daa"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-360-before.png",
+      "bytes": 201317,
+      "sha256": "5b2517faf3768ad3c77b32559635b659fc57eeacf4ae49012831eb5aa2272232"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-390-after.png",
+      "bytes": 201067,
+      "sha256": "3e6379c34958dba06057079a41b63d8aa05609df40c5b9db699b5a326711e021"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-390-before.png",
+      "bytes": 201036,
+      "sha256": "72297609033194c1715032b9021c1458e5234e20c15608cb9da268dbb964c282"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-768-after.png",
+      "bytes": 235405,
+      "sha256": "eede9b90b21bc2a61f3a487f613cc1fbe73b3ac3f20e0b6dd6dde0cbd719af7a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/party-wear.html-768-before.png",
+      "bytes": 234910,
+      "sha256": "980810e1ab2b4f8182230c80c031fca26ac3849a40301caa85eec716d08f00a1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/pixel-details.json",
+      "bytes": 4802,
+      "sha256": "de9157ae03868c61bb9cdb7b195307d1f535eb144407ca3152893a0eb0493896"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-1366-after.png",
+      "bytes": 430969,
+      "sha256": "127547d074bc2d9d49341cdc93d8cc71e2a735e543f24b5e98a827d737e6f669"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-1366-before.png",
+      "bytes": 430455,
+      "sha256": "c830059a3db430a3116ced3ea12607fc17ed263bbf8fc1ec5ef797cfbbd4726e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-1920-after.png",
+      "bytes": 468773,
+      "sha256": "cfbad2ef3d2d71cfec033a7afb5622088e9ef4c613bfb0500e5bf8a00b80a37b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-1920-before.png",
+      "bytes": 467515,
+      "sha256": "f9b6d0968a5e78f4e4940102f77c29e1a5a35e0f29edeff330f147fbc780357b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-360-after.png",
+      "bytes": 207267,
+      "sha256": "f762cc04c3f449578e50346345d895e54f27416c9637897d1670273f14c04153"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-360-before.png",
+      "bytes": 206924,
+      "sha256": "1c0b5f521fb4cb401bf939a890d3f3c480b403a7a8591c1e1f9d4ec4ff9b0458"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-390-after.png",
+      "bytes": 211054,
+      "sha256": "5a764400e28fbe9a7e7314dbfe3c0a131859dcbe3187ab2de7699a7d155ec6f8"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-390-before.png",
+      "bytes": 210993,
+      "sha256": "d77e651bf0e234c25d89f246f7567ece1742f73c9985db72d79972490835de2b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-768-after.png",
+      "bytes": 244178,
+      "sha256": "ffcbadab97f23477d88b57ea743d31459b4e04437f84e77a323c5d6e57f77704"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-dresses-pune.html-768-before.png",
+      "bytes": 244099,
+      "sha256": "1a3347534148f126a8adb6e10a7cfdf8ff4f41e868b6039552ba75e459981b69"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-1366-after.png",
+      "bytes": 481719,
+      "sha256": "fa9102f26081d0b84fdbc0078b23b31f581af1688b50911d57b26c23d549edfc"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-1366-before.png",
+      "bytes": 481214,
+      "sha256": "0b4caf303974f414ad46fea691b846159fa4f9d2be5ba205c49c81890a174fad"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-360-after.png",
+      "bytes": 218839,
+      "sha256": "39f018f7a688e926e1b277e2ea41ebbe288f509b0fc1426b880b3ea52f183fc0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-360-before.png",
+      "bytes": 219550,
+      "sha256": "524beafb54e1af4cd565043f83c80cc3ce1dfc11f89f888ba9569358eaaf474a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-390-after.png",
+      "bytes": 220115,
+      "sha256": "00b0e8f28046f826e7135b8b4f93bc6ad271c33558f78c4160802e57fd3a51da"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-390-before.png",
+      "bytes": 220857,
+      "sha256": "4dc25bde0b2d03d1dd9f597c4f938e3b51b93c9ac36e3f4fc559cc9a1e3d0dbe"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-768-after.png",
+      "bytes": 254920,
+      "sha256": "e5ff423cfdbe4812ea4acf2a78935d921500bc035f0c39dbff21ed2e9f6a77df"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/plus-size-womens-clothing.html-768-before.png",
+      "bytes": 254650,
+      "sha256": "5649358194c824948845e39a95a76888ba4d7db3c44a324fb660d8a43e0868f0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/privacy.html-1920-after.png",
+      "bytes": 371780,
+      "sha256": "c10cae49c0b4c79870ea77a2ebfcea8a65df77189b09d731399bf54d3de797a6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/privacy.html-1920-before.png",
+      "bytes": 372275,
+      "sha256": "f7beed46b3a896657299511b235aae323a1050b1b3f6d7bdf1e1b9cc3a7b7e4b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/privacy.html-768-after.png",
+      "bytes": 272501,
+      "sha256": "69500930863ebbcffce117c32eec5e1bfd7d2a5f74f4a8fd33431ddbb73fc365"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/privacy.html-768-before.png",
+      "bytes": 214357,
+      "sha256": "dab5f5a4e5686813c68da035ed6e31abe3c039f09b76290b80dc15607fb55f3a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-1366-after.png",
+      "bytes": 446256,
+      "sha256": "514a4f4b9b59b1524950ec4e7fdb984d96e021435d26f80d407f2170f9a86c28"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-1366-before.png",
+      "bytes": 445662,
+      "sha256": "72b869bd0fd9b059c4a5c538fec261d9ff5ddbbbf68b251e0615e383e538157f"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-360-after.png",
+      "bytes": 205072,
+      "sha256": "9d459a7d9ce508334baa22df5c21ab7a4fc3a41a6febb06fc2f49d9a24e4b773"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-360-before.png",
+      "bytes": 204678,
+      "sha256": "aa5d8eb0dd82dd94fdf8f338f42f61cf68218c02e5225ad5ef08972c3e745a1f"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-390-after.png",
+      "bytes": 215726,
+      "sha256": "fae8f5918284ba08240843c1a5da225f2095c18231829a6136fd01d2f8a782eb"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-390-before.png",
+      "bytes": 214086,
+      "sha256": "958a447091ab379f96d1a62942adb13db8ab167453e19a3d2a0500bd0c0b9474"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-768-after.png",
+      "bytes": 248654,
+      "sha256": "12e93c6a8034c77984dae570d58059bdb6120c87a512b9c742a170d15100aa86"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/punjabi-suits.html-768-before.png",
+      "bytes": 249840,
+      "sha256": "4def6388f26027c207892453ba2cfb834da541f9ed859eddcadab741129caf5a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/seo-changed-files.zip",
+      "bytes": 27341,
+      "sha256": "37b0eb9677e165be3a516856db377d2c2e54dc70c9d33ba717e432ecb81b19c0"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/SEO-REPORT.md",
+      "bytes": 13342,
+      "sha256": "b48d71991548327264771a87ba39d760d7584a30bc23c137fe78192ed004892d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/terms.html-390-after.png",
+      "bytes": 183909,
+      "sha256": "e40463c52c0d30cbadf4c277319ebc31ed5364975dfd650d1c69d5e514e16a2b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/terms.html-390-before.png",
+      "bytes": 182993,
+      "sha256": "ee44c7e00e7da808100a400b2032a756d6a2f98011f6efa2fef96251ced409dd"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/terms.html-768-after.png",
+      "bytes": 224150,
+      "sha256": "627dd777257d79a69185752e557cbfa84599bb40f19f25d8199dfc8c905760ad"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/terms.html-768-before.png",
+      "bytes": 224296,
+      "sha256": "ec5f3a5a285d9402ecdb2fab8ee96438637aebd534b7218967159e5ab5e339b5"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/validate.cjs",
+      "bytes": 2527,
+      "sha256": "0907f25b122a9f3c28cf04c4665db2ab9756c1cc2cfa6f508931735bfd8ffc28"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/validation-output.txt",
+      "bytes": 4802,
+      "sha256": "84af77dfdc7774c15b7da035d8a5c2d38a42af84dbc09cbcaee4dc5b2572c0fe"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/validation.json",
+      "bytes": 4724,
+      "sha256": "f11ca89fb526dc1354f4db3c609f8fc452eaadf97dd55c9696605eafc9a693b2"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-1366-after.png",
+      "bytes": 559437,
+      "sha256": "23f2b6236c1784bacccda71832659eb76481c6593135c98798d16e04aa604b3d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-1366-before.png",
+      "bytes": 560085,
+      "sha256": "b7530518b78b79565ba8487f6f78219a48da960568d5f2021797f43c5e0800ee"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-1920-after.png",
+      "bytes": 602472,
+      "sha256": "32335fc42e934453df21c5e45ec0bc5622ef39700da0157eb6daf8a130c46331"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-1920-before.png",
+      "bytes": 601920,
+      "sha256": "d69c3a110e145f2969b5cf14410ec66a3f29d6b106b72ffaaa39f18014141ee5"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-360-after.png",
+      "bytes": 276617,
+      "sha256": "24a01210b3d6ef7ea06215aed16e1d897521d75a69b16fbdd0c7c432615dfcf5"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-360-before.png",
+      "bytes": 276247,
+      "sha256": "c02a4db6fe01c1bc3f754f5c93b0e98843ba168038897f359e028320cf6f4e54"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-390-after.png",
+      "bytes": 294030,
+      "sha256": "5d17d4d5b599bb0da79e779efe8c30cf5bcf05c37a60bea17e707102541557e7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-390-before.png",
+      "bytes": 293698,
+      "sha256": "4b3877c40e7f5e10dd4b2ec88483cbd52002232497517a5bf6cfb9a77a15400e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-768-after.png",
+      "bytes": 586666,
+      "sha256": "04bc8288b9e97d3d4b2c34e9f5b67246c71bd8c9c43fd749bb00fc913facc50a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/virtual-tryon.html-768-before.png",
+      "bytes": 586645,
+      "sha256": "c1dd5a199531144c7dffff1ef740e688328438433108e0fbb63bb96854752506"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visit-us.html-1366-after.png",
+      "bytes": 251204,
+      "sha256": "cd5d4e07ad8092aa3271273e58d0fdf7f6afa380494df45cb4a4bfb56fc274b7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visit-us.html-1366-before.png",
+      "bytes": 251525,
+      "sha256": "5196e981de749223fd52b627fbfcafe793bc165728798a03281d28d52056c56c"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visit-us.html-1920-after.png",
+      "bytes": 283958,
+      "sha256": "9f7b0835931befeb4853e96c5bbe17a2f7d634e4dcae537a34424a7bec1e1310"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visit-us.html-1920-before.png",
+      "bytes": 283738,
+      "sha256": "c65e6ca57ad1fe6df57b82227430c2a96025d289ba969750ba0c99a5f62de0c4"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visit-us.html-360-after.png",
+      "bytes": 158208,
+      "sha256": "d05c48eb80deeec1c44e28df66f9b0ff518a5f420d3c430f4bb910ddf48cfb81"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visit-us.html-360-before.png",
+      "bytes": 157728,
+      "sha256": "8edd527b31e9dc4a734a1a8a91ebb60f73fdec54fabd55a5c1f15c2617355a7a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visual-first-pass.json",
+      "bytes": 13827,
+      "sha256": "600682a753a19e9a24fee3ef63525bd1641205fc4817ab553dea4047c7d039ef"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visual-reload-pass.json",
+      "bytes": 13844,
+      "sha256": "33603330910cc3c687926cc848191a1040009045fb631d0d70f43fba7b0f6799"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/VISUAL-VERIFICATION.md",
+      "bytes": 2078,
+      "sha256": "81411853ca54bcfd44fb50aa27310ad7136738cf088c5bd5beb8d3a16e75e837"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/visual.json",
+      "bytes": 13801,
+      "sha256": "24b12038a8d5423d03c1c7be86ce502d45ea8c4f77b31633d751651ba7c210b6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-1366-after.png",
+      "bytes": 399973,
+      "sha256": "c0ec6166697e12cf4d3f1e4c9bc782c5245a30c7067043161dd5ad08cbbbf763"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-1366-before.png",
+      "bytes": 390515,
+      "sha256": "349c14c3a7c93a01e94bbdeac1d11c56684bf3986bf356b11692ec1426729fa1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-1920-after.png",
+      "bytes": 449502,
+      "sha256": "95775676c3fe7ec1df52afde87f4829c85b6f952e0f3f4900543b43228de9758"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-1920-before.png",
+      "bytes": 450481,
+      "sha256": "b46e7bb5b20b40d57317f3f7dbccf466b0c1c9789c7a0459dadc994ebea2f34a"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-360-after.png",
+      "bytes": 198399,
+      "sha256": "ab5e1554016f86701e833beaa180658a5f8af411f04dc4164e10fe529a23c442"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-360-before.png",
+      "bytes": 195722,
+      "sha256": "b19b2b31d638f87de292a0254ed322b6f3c83caa381e784d7bf17ac7c05bf054"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-390-after.png",
+      "bytes": 196017,
+      "sha256": "77202d2a9c749dd9cc8f7ec984e3b3d07b91484b15390e320c88281d7121ab77"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-390-before.png",
+      "bytes": 196463,
+      "sha256": "634966c69c5f32567dda9df16dace86414d22bbc737724d0adddb6135030f02b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-768-after.png",
+      "bytes": 226820,
+      "sha256": "c76c9f95ab6dc4b653988820a576935b13c5ba9b5bf6b11e3d359bf9c31d80aa"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-review/western-wear.html-768-before.png",
+      "bytes": 227676,
+      "sha256": "f6a674344f715aefb52b74a14cf159aef0efa6051aba3d9c272f991b541360d1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/brand/veera-collections-icon-192.png",
+      "bytes": 49295,
+      "sha256": "0ad7d98d025baca7420aed8b1d7ba68b5d78db7d6fbf71932d7cbaf29a9cafea"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/brand/veera-collections-icon-512.png",
+      "bytes": 317530,
+      "sha256": "7bb962fdc993b71ecfbf6a1e66cd40a1bb6029007a4d3cb4cdba7a76945173b8"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/brand/veera-collections-logo-final.png",
+      "bytes": 212097,
+      "sha256": "74e7b32173b6245257d66d3363ef7b108e0c7cab37cfae57bb52d6919870217d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/brand/veera-collections-official-logo.png",
+      "bytes": 1521326,
+      "sha256": "b4e1b93d59bea96f6f3e3f491b97557f55bbe31a80d18145261d26a251953afc"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/brand/veera-collections-official-logo.webp",
+      "bytes": 205900,
+      "sha256": "848a45fc7c51b245d1578fbada4d6e3f7940c0e149c579015ec7c82aa6653e8e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/campaign/veera-inclusive-boutique-campaign-v2.jpg",
+      "bytes": 284385,
+      "sha256": "094fd06c9627b666dc5c19ede886d365bb99e0a50e2a4c425949a77349c25fc2"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/campaign/veera-inclusive-size-editorial-v2.jpg",
+      "bytes": 211403,
+      "sha256": "1b61b931826c2f7ea02922740051b6587f6bfbba15b633f92e3d55fe0db916b6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/abstract-print-kaftan-dress.jpeg",
+      "bytes": 143628,
+      "sha256": "65aa7cbd986542e1ff9f1f935da99aa59b4910d3a6caee2deafdeb8926b12009"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/black-belted-coord-set.jpeg",
+      "bytes": 74273,
+      "sha256": "9bbe9682edc3c4afbbb4f1da05571411bbfc843ee65a5326af59c6c9aec58631"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/black-floral-embroidered-coord-set.jpeg",
+      "bytes": 102953,
+      "sha256": "20400e2a14556e88857dffcd7149dcf9b656d38930e2832b7634cba9fab709f1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/black-satin-maxi-dress.jpeg",
+      "bytes": 73412,
+      "sha256": "beea4c4f0797037bbc629c5814841e8840d4bed5187d0ddc022381a956f48e27"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/blue-layered-dress-set.jpeg",
+      "bytes": 130741,
+      "sha256": "5873d800393ae9c12cebdf0c58fe5d00d5feb7adf6a2442af6f59de397afe4dd"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/burgundy-draped-maxi-dress.jpeg",
+      "bytes": 81474,
+      "sha256": "7482fdbb1a6316c666e0d08ca114b6a8f1faddf413d96439cbee8c2579914d97"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/floral-embellished-palazzo-set.jpeg",
+      "bytes": 133243,
+      "sha256": "01a206ece4e5c721229fd8ca532d46a4f160ef98d96633eb883e4525aa7c511e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/ivory-gold-print-kurta-set.jpeg",
+      "bytes": 157993,
+      "sha256": "ba355fb1ea395d9f438aeb7b803b243d6ef6647b03b191ff0a7c6dbb4baee0b3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/marble-print-midi-dress.jpeg",
+      "bytes": 152924,
+      "sha256": "e633198453e232e83430366e0bbeb01871eb5bb0551700ce1dffafa483cb2527"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/maroon-strappy-maxi-dress.jpeg",
+      "bytes": 99148,
+      "sha256": "b558b731279cec8c6081f7ad00cddc0b8a8f27d846f4b491be660c4a37845fa3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/midnight-floral-kaftan-dress.jpeg",
+      "bytes": 172451,
+      "sha256": "b988bc742b03a3b7cb91e32d5f1462f0dfab4cb4ebbf1b849c1de94ecf1edc4e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/mint-embroidered-anarkali-set.jpeg",
+      "bytes": 162054,
+      "sha256": "92c6c2a527dc583f6ff39f3bace2e5a2b20ed57b9ae26bcc0da4c2a8d872f1cd"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/peacock-floral-kurta-set.jpeg",
+      "bytes": 253247,
+      "sha256": "30a046e59bd2b0b04a7c2d6eefae4ba52adb9bdcbc8e5a47eb6ac526bf2a1966"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/powder-blue-kurta.jpeg",
+      "bytes": 67069,
+      "sha256": "02b7c634bb267af34d072acb5f49040f995846cdba15a2713e67383fb7b94e24"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/rose-gold-kurta-set.jpeg",
+      "bytes": 90114,
+      "sha256": "d00b31dd86c0663411c89423b9ecb3124a2f293f64ac88b9d37d14514af415ed"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/rose-pink-floral-kurta-set.jpeg",
+      "bytes": 137844,
+      "sha256": "a2a446f3816e0efbe8111efe3862ab697b95d3762e2e13e34c20e978e3aa5158"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/catalog/teal-satin-midi-dress.jpeg",
+      "bytes": 93030,
+      "sha256": "5bb5f7e7941b448f6b7914ad56d285e3596e273b43e0f3e14362b25216776b02"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/assets/virtual-tryon/teal-satin-midi-overlay.png",
+      "bytes": 1595342,
+      "sha256": "d80c34c97f928f6472c003b0ee8cb8d83104ee138ecb6a4b5983dfb242672978"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/pages/catalog.css",
+      "bytes": 1732,
+      "sha256": "39b004e9094f3c2590c9a0cf4704eee5da7762f81641b5aaaf075fabb255ad08"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/pages/content.css",
+      "bytes": 3039,
+      "sha256": "8e6182ab0e704f0eb3135f946c9fdcc94439f62fdd9abe77a5a7f9a563ab2836"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/css/pages/home.css",
+      "bytes": 9495,
+      "sha256": "d0e7f9cee1293d376ec440debcee77ff8a861c36d163de7f515b4465dac82ff7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/components/footer.html",
+      "bytes": 1775,
+      "sha256": "a469880caed63fc1abab5b8ceb328e5c4598ded24397d96077837392ec0e0116"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/components/header.html",
+      "bytes": 1422,
+      "sha256": "fc6a41bd2eb638a706474940cf53b5369dcf1bbfcdcb24a36fc9da322bd60993"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/footer.css",
+      "bytes": 1218,
+      "sha256": "fd0054145038e39f3e17be1fa8a7cba1c5a82fd1c730d5400f24048a5b8a3666"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/global.css",
+      "bytes": 4886,
+      "sha256": "0f8238fd0d533e61b1c1f1efc7491137cf44badc46a293bfc5cd60441b4a0172"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/header.css",
+      "bytes": 1828,
+      "sha256": "42a543c0c498b51553d500a484f4eebb9fd6ace4409cb81e635d24a315b6dbe3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/responsive.css",
+      "bytes": 1070,
+      "sha256": "695e62805fec2214a46ae25605a144d437db01859a203461dd4368940483f557"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/virtual-tryon.css",
+      "bytes": 6858,
+      "sha256": "dcc142aea68ff035b1eb37ca007d80ec4495609bb9fbf12aef6b9a44f64337a7"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/js/catalog.js",
+      "bytes": 2050,
+      "sha256": "f0f9fe34f229a98e39297c336093c5abe2499e1b52a76ca2db5ae703364f9f28"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/js/main.js",
+      "bytes": 2599,
+      "sha256": "21260f7e9f7162b558221c7824beb01d8b17ae2519b1faecb2a40364243bf899"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/js/site.js",
+      "bytes": 6629,
+      "sha256": "aeb6a814ceb10a2684b0d8942304d90e62984956efc4942cd7b3e1e9a8bdbb65"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/js/virtual-tryon.js",
+      "bytes": 9539,
+      "sha256": "34c53ef82f670851016831ce9596a8574a7d2e541810f5e4cf831ef069950f9b"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/brand/veera-collections-icon-192.png",
+      "bytes": 49295,
+      "sha256": "0ad7d98d025baca7420aed8b1d7ba68b5d78db7d6fbf71932d7cbaf29a9cafea"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/brand/veera-collections-icon-512.png",
+      "bytes": 317530,
+      "sha256": "7bb962fdc993b71ecfbf6a1e66cd40a1bb6029007a4d3cb4cdba7a76945173b8"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/brand/veera-collections-logo-final.png",
+      "bytes": 212097,
+      "sha256": "74e7b32173b6245257d66d3363ef7b108e0c7cab37cfae57bb52d6919870217d"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/brand/veera-collections-official-logo.png",
+      "bytes": 1521326,
+      "sha256": "b4e1b93d59bea96f6f3e3f491b97557f55bbe31a80d18145261d26a251953afc"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/brand/veera-collections-official-logo.webp",
+      "bytes": 205900,
+      "sha256": "848a45fc7c51b245d1578fbada4d6e3f7940c0e149c579015ec7c82aa6653e8e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/campaign/veera-inclusive-boutique-campaign-v2.jpg",
+      "bytes": 284385,
+      "sha256": "094fd06c9627b666dc5c19ede886d365bb99e0a50e2a4c425949a77349c25fc2"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/campaign/veera-inclusive-size-editorial-v2.jpg",
+      "bytes": 211403,
+      "sha256": "1b61b931826c2f7ea02922740051b6587f6bfbba15b633f92e3d55fe0db916b6"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/abstract-print-kaftan-dress.jpeg",
+      "bytes": 143628,
+      "sha256": "65aa7cbd986542e1ff9f1f935da99aa59b4910d3a6caee2deafdeb8926b12009"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/black-belted-coord-set.jpeg",
+      "bytes": 74273,
+      "sha256": "9bbe9682edc3c4afbbb4f1da05571411bbfc843ee65a5326af59c6c9aec58631"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/black-floral-embroidered-coord-set.jpeg",
+      "bytes": 102953,
+      "sha256": "20400e2a14556e88857dffcd7149dcf9b656d38930e2832b7634cba9fab709f1"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/black-satin-maxi-dress.jpeg",
+      "bytes": 73412,
+      "sha256": "beea4c4f0797037bbc629c5814841e8840d4bed5187d0ddc022381a956f48e27"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/blue-layered-dress-set.jpeg",
+      "bytes": 130741,
+      "sha256": "5873d800393ae9c12cebdf0c58fe5d00d5feb7adf6a2442af6f59de397afe4dd"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/burgundy-draped-maxi-dress.jpeg",
+      "bytes": 81474,
+      "sha256": "7482fdbb1a6316c666e0d08ca114b6a8f1faddf413d96439cbee8c2579914d97"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/floral-embellished-palazzo-set.jpeg",
+      "bytes": 133243,
+      "sha256": "01a206ece4e5c721229fd8ca532d46a4f160ef98d96633eb883e4525aa7c511e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/ivory-gold-print-kurta-set.jpeg",
+      "bytes": 157993,
+      "sha256": "ba355fb1ea395d9f438aeb7b803b243d6ef6647b03b191ff0a7c6dbb4baee0b3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/marble-print-midi-dress.jpeg",
+      "bytes": 152924,
+      "sha256": "e633198453e232e83430366e0bbeb01871eb5bb0551700ce1dffafa483cb2527"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/maroon-strappy-maxi-dress.jpeg",
+      "bytes": 99148,
+      "sha256": "b558b731279cec8c6081f7ad00cddc0b8a8f27d846f4b491be660c4a37845fa3"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/midnight-floral-kaftan-dress.jpeg",
+      "bytes": 172451,
+      "sha256": "b988bc742b03a3b7cb91e32d5f1462f0dfab4cb4ebbf1b849c1de94ecf1edc4e"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/mint-embroidered-anarkali-set.jpeg",
+      "bytes": 162054,
+      "sha256": "92c6c2a527dc583f6ff39f3bace2e5a2b20ed57b9ae26bcc0da4c2a8d872f1cd"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/peacock-floral-kurta-set.jpeg",
+      "bytes": 253247,
+      "sha256": "30a046e59bd2b0b04a7c2d6eefae4ba52adb9bdcbc8e5a47eb6ac526bf2a1966"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/powder-blue-kurta.jpeg",
+      "bytes": 67069,
+      "sha256": "02b7c634bb267af34d072acb5f49040f995846cdba15a2713e67383fb7b94e24"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/rose-gold-kurta-set.jpeg",
+      "bytes": 90114,
+      "sha256": "d00b31dd86c0663411c89423b9ecb3124a2f293f64ac88b9d37d14514af415ed"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/rose-pink-floral-kurta-set.jpeg",
+      "bytes": 137844,
+      "sha256": "a2a446f3816e0efbe8111efe3862ab697b95d3762e2e13e34c20e978e3aa5158"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/catalog/teal-satin-midi-dress.jpeg",
+      "bytes": 93030,
+      "sha256": "5bb5f7e7941b448f6b7914ad56d285e3596e273b43e0f3e14362b25216776b02"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/assets/virtual-tryon/teal-satin-midi-overlay.png",
+      "bytes": 1595342,
+      "sha256": "d80c34c97f928f6472c003b0ee8cb8d83104ee138ecb6a4b5983dfb242672978"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/pages/catalog.css",
+      "bytes": 1732,
+      "sha256": "39b004e9094f3c2590c9a0cf4704eee5da7762f81641b5aaaf075fabb255ad08"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/pages/content.css",
+      "bytes": 3039,
+      "sha256": "8e6182ab0e704f0eb3135f946c9fdcc94439f62fdd9abe77a5a7f9a563ab2836"
+    },
+    {
+      "path": "backup-before-final-seo-verification-20260907-160428/seo-backup-20260907-130524/css/pages/home.css",
+      "bytes": 9495,
+      "sha256": "d0e7f9cee1293d376ec440debcee77ff8a861c36d163de7f515b4465dac82ff7"
+    },
+    {
+      "path": "seo-backup-20260907-130524/.env.example",
+      "bytes": 149,
+      "sha256": "d0dc0ec8b05b0db5468e9a13eea486f95daeaecde89b81f7e06b29843da59712"
+    },
+    {
+      "path": "seo-backup-20260907-130524/.gitignore",
+      "bytes": 60,
+      "sha256": "e37f1eef557a2a119f20f1441a20c2b7ea3d9c124802ef54eb6afbc10c0ae999"
+    },
+    {
+      "path": "seo-backup-20260907-130524/404.html",
+      "bytes": 1700,
+      "sha256": "47f00c6940056266c644211d364741c10a7769745b9c913a6bd8b93ebd99e38d"
+    },
+    {
+      "path": "seo-backup-20260907-130524/apple-touch-icon.png",
+      "bytes": 43987,
+      "sha256": "b7251644d73f7121b637ec407cf7c524931372e3f16679b1b3d4c871d13f8e35"
+    },
+    {
+      "path": "seo-backup-20260907-130524/best-sellers.html",
+      "bytes": 3097,
+      "sha256": "daac4db529dfd0dad7f2f6739ca0c36cbb7b5475c8bd0ecb28333483c6ab8e54"
+    },
+    {
+      "path": "seo-backup-20260907-130524/collection.html",
+      "bytes": 3110,
+      "sha256": "4844a3123ef59d8f7aeec0a3d7939f23ecd1006073a4accbdf9e4a6362248310"
+    },
+    {
+      "path": "seo-backup-20260907-130524/contact.html",
+      "bytes": 5198,
+      "sha256": "29c43a48452e4a83bed58cc7d6b7d91c2fc91239a010a60834ab0b45245c788f"
+    },
+    {
+      "path": "seo-backup-20260907-130524/ethnic-wear-pune.html",
+      "bytes": 3796,
+      "sha256": "984878e58be3399d8e34cbafccd238ab5f4161c7eae1dc7f48851adadfd8a317"
+    },
+    {
+      "path": "seo-backup-20260907-130524/favicon-64.png",
+      "bytes": 7583,
+      "sha256": "76df23e0ed2ac834ce221d7719639a3d7b2f1e05342ec311058422a332b21009"
+    },
+    {
+      "path": "seo-backup-20260907-130524/favicon.svg",
+      "bytes": 420,
+      "sha256": "a0a6e9612b9e55c4e6d983ae19bc7d02e334e194495a32da145bf628aaae97d2"
+    },
+    {
+      "path": "seo-backup-20260907-130524/festive-wear.html",
+      "bytes": 3547,
+      "sha256": "6d94d6500e2d18367d6501e3857f0fb8e2d9a7e41a6a66c895628d8b518f52b8"
+    },
+    {
+      "path": "seo-backup-20260907-130524/IMAGE-AUDIT.md",
+      "bytes": 5012,
+      "sha256": "5c5982b14b1107207048ee4a08bb8d859c8d522090d41f764b197354a1a52b3b"
+    },
+    {
+      "path": "seo-backup-20260907-130524/index.html",
+      "bytes": 14269,
+      "sha256": "2c479cd768cab52c37e5ffef91a172e98417f1623906d51ded3ce1b865a90eee"
+    },
+    {
+      "path": "seo-backup-20260907-130524/kurtis-pune.html",
+      "bytes": 3863,
+      "sha256": "5c9321d25b274ffb110f236fea69ff78215a0297194f88ce504e053ee1202e4e"
+    },
+    {
+      "path": "seo-backup-20260907-130524/kurtis.html",
+      "bytes": 3647,
+      "sha256": "c09a36705bc4e3f21b96ab2c49618f6dc458df82bd0162fa57b1c1f566ca3f7c"
+    },
+    {
+      "path": "seo-backup-20260907-130524/ladies-dresses-pune.html",
+      "bytes": 3954,
+      "sha256": "12cc953bf56818dd5ca123fd3433a0bd44447183a3ec36370f8743fcd23b8df7"
+    },
+    {
+      "path": "seo-backup-20260907-130524/ladies-wear-dange-chowk.html",
+      "bytes": 4148,
+      "sha256": "25c01702434eefa44108ded81808498a60ab34fe4c3798e60cc239155f7804f0"
+    },
+    {
+      "path": "seo-backup-20260907-130524/LEGAL-PRIVACY-SECURITY-AUDIT.md",
+      "bytes": 11009,
+      "sha256": "6fdd3e1d84e8476b3f50b0e13ad8c0cc081897f59a6c6159528c0dae62343e90"
+    },
+    {
+      "path": "seo-backup-20260907-130524/party-wear.html",
+      "bytes": 3503,
+      "sha256": "f3a1cebae457d8c2f62bb2afe73c978cdc0a16bc064bff9bcbefa7c8c7f6dffa"
+    },
+    {
+      "path": "seo-backup-20260907-130524/plus-size-dresses-pune.html",
+      "bytes": 4039,
+      "sha256": "8bb3d9b6bb3900b788c874b3ac40e2e699b6b5550e0f9778ef71b6e9279cd6e8"
+    },
+    {
+      "path": "seo-backup-20260907-130524/plus-size-womens-clothing.html",
+      "bytes": 3919,
+      "sha256": "5f214f5c960c6c68c815526650aa66ad19c2488cea8b155ce098431b401302eb"
+    },
+    {
+      "path": "seo-backup-20260907-130524/privacy.html",
+      "bytes": 4269,
+      "sha256": "85ed140926832fb1a6bf268c3e8694cee8b3a30d7ff47dd5051bb4adc930704e"
+    },
+    {
+      "path": "seo-backup-20260907-130524/punjabi-suits.html",
+      "bytes": 3605,
+      "sha256": "47acbe2f7039704df449f87f30ffb4ae8935a03400b05f78b361e05857806b40"
+    },
+    {
+      "path": "seo-backup-20260907-130524/README.md",
+      "bytes": 931,
+      "sha256": "a28d6a4d667bf802d931385766b213a52a5a2be46892c0f7798fcd7f951915d7"
+    },
+    {
+      "path": "seo-backup-20260907-130524/robots.txt",
+      "bytes": 73,
+      "sha256": "436e62877af44a1c8222524ce8cee3e54b3600bbb7150b9a52b800468e40e58b"
+    },
+    {
+      "path": "seo-backup-20260907-130524/site.webmanifest",
+      "bytes": 625,
+      "sha256": "d247618679f8d0ad40f25f5d8e694fc34876d88163e393b95869cdc49dad030c"
+    },
+    {
+      "path": "seo-backup-20260907-130524/sitemap.xml",
+      "bytes": 944,
+      "sha256": "6d1cfe0d4ff7b70bf91d599740f0fb0e33447091510ca591e59ad0b0b22d1865"
+    },
+    {
+      "path": "seo-backup-20260907-130524/terms.html",
+      "bytes": 3143,
+      "sha256": "e9717645dd0d3e6991b99104a3ece40d3136207c2599f55b3d7a7e803ab5392c"
+    },
+    {
+      "path": "seo-backup-20260907-130524/virtual-tryon.html",
+      "bytes": 7908,
+      "sha256": "93fedde1545a282c0013184b21c573377b978abb6facf1400579b009447daf93"
+    },
+    {
+      "path": "seo-backup-20260907-130524/visit-us.html",
+      "bytes": 3673,
+      "sha256": "8035df24f11fd15034cbeca890b84d431aa74e07d7e8006db62ce569703d89bd"
+    },
+    {
+      "path": "seo-backup-20260907-130524/western-wear.html",
+      "bytes": 3611,
+      "sha256": "c33a5636e9fbfd0dd39e296a8992a9396d54cad3e99221796f89721b4df33752"
+    },
+    {
+      "path": "seo-backup-20260907-130524/_headers",
+      "bytes": 2176,
+      "sha256": "c2a7210bc3ad1260f2e7bbb7dc28235087997e44f0e0f6da829ccae4abce0071"
+    },
+    {
+      "path": "seo-backup-20260907-130524/_redirects",
+      "bytes": 1024,
+      "sha256": "debfd50e731b8b441dbe16ca5a8d52c107d9c8f1435fda10a504ebcfab0e9339"
+    },
+    {
+      "path": "seo-backup-20260907-130524/components/footer.html",
+      "bytes": 1775,
+      "sha256": "a469880caed63fc1abab5b8ceb328e5c4598ded24397d96077837392ec0e0116"
+    },
+    {
+      "path": "seo-backup-20260907-130524/components/header.html",
+      "bytes": 1422,
+      "sha256": "fc6a41bd2eb638a706474940cf53b5369dcf1bbfcdcb24a36fc9da322bd60993"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/footer.css",
+      "bytes": 1218,
+      "sha256": "fd0054145038e39f3e17be1fa8a7cba1c5a82fd1c730d5400f24048a5b8a3666"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/global.css",
+      "bytes": 4886,
+      "sha256": "0f8238fd0d533e61b1c1f1efc7491137cf44badc46a293bfc5cd60441b4a0172"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/header.css",
+      "bytes": 1828,
+      "sha256": "42a543c0c498b51553d500a484f4eebb9fd6ace4409cb81e635d24a315b6dbe3"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/responsive.css",
+      "bytes": 1070,
+      "sha256": "695e62805fec2214a46ae25605a144d437db01859a203461dd4368940483f557"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/virtual-tryon.css",
+      "bytes": 6858,
+      "sha256": "dcc142aea68ff035b1eb37ca007d80ec4495609bb9fbf12aef6b9a44f64337a7"
+    },
+    {
+      "path": "seo-backup-20260907-130524/js/catalog.js",
+      "bytes": 2050,
+      "sha256": "f0f9fe34f229a98e39297c336093c5abe2499e1b52a76ca2db5ae703364f9f28"
+    },
+    {
+      "path": "seo-backup-20260907-130524/js/main.js",
+      "bytes": 2599,
+      "sha256": "21260f7e9f7162b558221c7824beb01d8b17ae2519b1faecb2a40364243bf899"
+    },
+    {
+      "path": "seo-backup-20260907-130524/js/site.js",
+      "bytes": 6629,
+      "sha256": "aeb6a814ceb10a2684b0d8942304d90e62984956efc4942cd7b3e1e9a8bdbb65"
+    },
+    {
+      "path": "seo-backup-20260907-130524/js/virtual-tryon.js",
+      "bytes": 9539,
+      "sha256": "34c53ef82f670851016831ce9596a8574a7d2e541810f5e4cf831ef069950f9b"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/brand/veera-collections-icon-192.png",
+      "bytes": 49295,
+      "sha256": "0ad7d98d025baca7420aed8b1d7ba68b5d78db7d6fbf71932d7cbaf29a9cafea"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/brand/veera-collections-icon-512.png",
+      "bytes": 317530,
+      "sha256": "7bb962fdc993b71ecfbf6a1e66cd40a1bb6029007a4d3cb4cdba7a76945173b8"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/brand/veera-collections-logo-final.png",
+      "bytes": 212097,
+      "sha256": "74e7b32173b6245257d66d3363ef7b108e0c7cab37cfae57bb52d6919870217d"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/brand/veera-collections-official-logo.png",
+      "bytes": 1521326,
+      "sha256": "b4e1b93d59bea96f6f3e3f491b97557f55bbe31a80d18145261d26a251953afc"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/brand/veera-collections-official-logo.webp",
+      "bytes": 205900,
+      "sha256": "848a45fc7c51b245d1578fbada4d6e3f7940c0e149c579015ec7c82aa6653e8e"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/campaign/veera-inclusive-boutique-campaign-v2.jpg",
+      "bytes": 284385,
+      "sha256": "094fd06c9627b666dc5c19ede886d365bb99e0a50e2a4c425949a77349c25fc2"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/campaign/veera-inclusive-size-editorial-v2.jpg",
+      "bytes": 211403,
+      "sha256": "1b61b931826c2f7ea02922740051b6587f6bfbba15b633f92e3d55fe0db916b6"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/abstract-print-kaftan-dress.jpeg",
+      "bytes": 143628,
+      "sha256": "65aa7cbd986542e1ff9f1f935da99aa59b4910d3a6caee2deafdeb8926b12009"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/black-belted-coord-set.jpeg",
+      "bytes": 74273,
+      "sha256": "9bbe9682edc3c4afbbb4f1da05571411bbfc843ee65a5326af59c6c9aec58631"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/black-floral-embroidered-coord-set.jpeg",
+      "bytes": 102953,
+      "sha256": "20400e2a14556e88857dffcd7149dcf9b656d38930e2832b7634cba9fab709f1"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/black-satin-maxi-dress.jpeg",
+      "bytes": 73412,
+      "sha256": "beea4c4f0797037bbc629c5814841e8840d4bed5187d0ddc022381a956f48e27"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/blue-layered-dress-set.jpeg",
+      "bytes": 130741,
+      "sha256": "5873d800393ae9c12cebdf0c58fe5d00d5feb7adf6a2442af6f59de397afe4dd"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/burgundy-draped-maxi-dress.jpeg",
+      "bytes": 81474,
+      "sha256": "7482fdbb1a6316c666e0d08ca114b6a8f1faddf413d96439cbee8c2579914d97"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/floral-embellished-palazzo-set.jpeg",
+      "bytes": 133243,
+      "sha256": "01a206ece4e5c721229fd8ca532d46a4f160ef98d96633eb883e4525aa7c511e"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/ivory-gold-print-kurta-set.jpeg",
+      "bytes": 157993,
+      "sha256": "ba355fb1ea395d9f438aeb7b803b243d6ef6647b03b191ff0a7c6dbb4baee0b3"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/marble-print-midi-dress.jpeg",
+      "bytes": 152924,
+      "sha256": "e633198453e232e83430366e0bbeb01871eb5bb0551700ce1dffafa483cb2527"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/maroon-strappy-maxi-dress.jpeg",
+      "bytes": 99148,
+      "sha256": "b558b731279cec8c6081f7ad00cddc0b8a8f27d846f4b491be660c4a37845fa3"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/midnight-floral-kaftan-dress.jpeg",
+      "bytes": 172451,
+      "sha256": "b988bc742b03a3b7cb91e32d5f1462f0dfab4cb4ebbf1b849c1de94ecf1edc4e"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/mint-embroidered-anarkali-set.jpeg",
+      "bytes": 162054,
+      "sha256": "92c6c2a527dc583f6ff39f3bace2e5a2b20ed57b9ae26bcc0da4c2a8d872f1cd"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/peacock-floral-kurta-set.jpeg",
+      "bytes": 253247,
+      "sha256": "30a046e59bd2b0b04a7c2d6eefae4ba52adb9bdcbc8e5a47eb6ac526bf2a1966"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/powder-blue-kurta.jpeg",
+      "bytes": 67069,
+      "sha256": "02b7c634bb267af34d072acb5f49040f995846cdba15a2713e67383fb7b94e24"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/rose-gold-kurta-set.jpeg",
+      "bytes": 90114,
+      "sha256": "d00b31dd86c0663411c89423b9ecb3124a2f293f64ac88b9d37d14514af415ed"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/rose-pink-floral-kurta-set.jpeg",
+      "bytes": 137844,
+      "sha256": "a2a446f3816e0efbe8111efe3862ab697b95d3762e2e13e34c20e978e3aa5158"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/catalog/teal-satin-midi-dress.jpeg",
+      "bytes": 93030,
+      "sha256": "5bb5f7e7941b448f6b7914ad56d285e3596e273b43e0f3e14362b25216776b02"
+    },
+    {
+      "path": "seo-backup-20260907-130524/assets/virtual-tryon/teal-satin-midi-overlay.png",
+      "bytes": 1595342,
+      "sha256": "d80c34c97f928f6472c003b0ee8cb8d83104ee138ecb6a4b5983dfb242672978"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/pages/catalog.css",
+      "bytes": 1732,
+      "sha256": "39b004e9094f3c2590c9a0cf4704eee5da7762f81641b5aaaf075fabb255ad08"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/pages/content.css",
+      "bytes": 3039,
+      "sha256": "8e6182ab0e704f0eb3135f946c9fdcc94439f62fdd9abe77a5a7f9a563ab2836"
+    },
+    {
+      "path": "seo-backup-20260907-130524/css/pages/home.css",
+      "bytes": 9495,
+      "sha256": "d0e7f9cee1293d376ec440debcee77ff8a861c36d163de7f515b4465dac82ff7"
+    },
+    {
+      "path": "seo-review/404.html-1920-after.png",
+      "bytes": 267431,
+      "sha256": "90af4bda396aba6453aab2406f793c24da551ccb37713490f0d1c816a92ed912"
+    },
+    {
+      "path": "seo-review/404.html-1920-before.png",
+      "bytes": 267165,
+      "sha256": "ebe3949a2593d56f1923540ad8421899c05fd9e9d6ae043cd8a8c3b75d4c6cf2"
+    },
+    {
+      "path": "seo-review/404.html-360-after.png",
+      "bytes": 143341,
+      "sha256": "f44d00f2882e7e95b3e5f107d7bd75dbdc13baebb41a4b09fb4c8095603855e7"
+    },
+    {
+      "path": "seo-review/404.html-360-before.png",
+      "bytes": 143160,
+      "sha256": "21fd2bc698e43b5753c8abd8b52464ddc54ebcd55540f5d760504ea94134415d"
+    },
+    {
+      "path": "seo-review/404.html-768-after.png",
+      "bytes": 160839,
+      "sha256": "29cc68919584f3193e2b26a437daa2438046bf36793d79daa10f666f70f7936b"
+    },
+    {
+      "path": "seo-review/404.html-768-before.png",
+      "bytes": 160771,
+      "sha256": "2dad4f2c17ff121224c1bdda682bea11365b8769514307d1fe49456e14975565"
+    },
+    {
+      "path": "seo-review/audit-before.json",
+      "bytes": 96633,
+      "sha256": "50c0beac4f570dbf090a483fda2fc318a3efe2a52fcea40cefc3348d71b29864"
+    },
+    {
+      "path": "seo-review/audit.cjs",
+      "bytes": 3922,
+      "sha256": "9e2c258a673532420dbec4d2f6780d9a3308735150ea3507516a08f26922077a"
+    },
+    {
+      "path": "seo-review/audit.json",
+      "bytes": 94199,
+      "sha256": "ee11c5c9fc4ff2a2f94b2f5d051b0d068c1ea5cbf7ea0037e5a0101c8b8e5c9a"
+    },
+    {
+      "path": "seo-review/best-sellers.html-1366-after.png",
+      "bytes": 1119615,
+      "sha256": "22fd1aebb297419ac7a48220c9fa4beaca6a4ce8f589b51042978fadacc828d3"
+    },
+    {
+      "path": "seo-review/best-sellers.html-1366-before.png",
+      "bytes": 1115733,
+      "sha256": "f6218e5c0b21b9fe8866fe5eec993ee73e9c965cbd5ced818616d13336199837"
+    },
+    {
+      "path": "seo-review/best-sellers.html-1920-after.png",
+      "bytes": 1162698,
+      "sha256": "761f2715bfb05db916afa4a7014de8781430de584a90456368f8ff8a5cc9bd0c"
+    },
+    {
+      "path": "seo-review/best-sellers.html-1920-before.png",
+      "bytes": 1154759,
+      "sha256": "92e994c0d20e640d08a27de0417d384b7ee7c4a72d92acf0f2b882de2cde8c7f"
+    },
+    {
+      "path": "seo-review/best-sellers.html-360-after.png",
+      "bytes": 424159,
+      "sha256": "825b9212598d5af9e50a07ebf7a5cc7426e337b87f8d5d76fcd000d620265818"
+    },
+    {
+      "path": "seo-review/best-sellers.html-360-before.png",
+      "bytes": 425833,
+      "sha256": "1cdba38c41b795b55a191fbb2cb13231a0dae183a83a1dca71fc0ef1fbb90b49"
+    },
+    {
+      "path": "seo-review/best-sellers.html-390-after.png",
+      "bytes": 470640,
+      "sha256": "ab897f378cb0aabe1aee45cb0994d118c1a4a3d901030a37065fd069b019a724"
+    },
+    {
+      "path": "seo-review/best-sellers.html-390-before.png",
+      "bytes": 464117,
+      "sha256": "979e40e7667de6f47027192d18be765bd224763513b249adb52070a76a4b30f0"
+    },
+    {
+      "path": "seo-review/best-sellers.html-768-after.png",
+      "bytes": 1268395,
+      "sha256": "15545d13d7c9baaa7cf9f11c640ed625d1ac5e0d325734d778ba2712b8929c27"
+    },
+    {
+      "path": "seo-review/best-sellers.html-768-before.png",
+      "bytes": 1279811,
+      "sha256": "5b21d6156096ae0ac09fec757175ebcac28f77644cfd3918935798a64df2612f"
+    },
+    {
+      "path": "seo-review/changes.json",
+      "bytes": 6238,
+      "sha256": "11578cacaa37fec586b4b955da3110778b70ce4f29bc79b3212947b86d07b2b1"
+    },
+    {
+      "path": "seo-review/CHANGES.md",
+      "bytes": 9197,
+      "sha256": "b8942cc86fd8ff08010fa77714db7cfcd1fd69d42ef8a6804f74fea8728dbf2c"
+    },
+    {
+      "path": "seo-review/checksums.json",
+      "bytes": 4074,
+      "sha256": "a99c7d30d86acd703da582aa3e577c97e005fcbcc025a800f185821f45e13af5"
+    },
+    {
+      "path": "seo-review/collection.html-1366-after.png",
+      "bytes": 974413,
+      "sha256": "a5165857ddbe65dd73a6b269f7c4eaa464c7b7f429f9474a2e7a99392cda9f7e"
+    },
+    {
+      "path": "seo-review/collection.html-1366-before.png",
+      "bytes": 973483,
+      "sha256": "25f23a76caa8b0ac6acb2cf38298e551fc709c6c2c5a2d6f0c8bd5e31cf3e93e"
+    },
+    {
+      "path": "seo-review/collection.html-1920-after.png",
+      "bytes": 1019681,
+      "sha256": "704dee1e23d353734cf51e7bcebe7c6d9743e13b210bed56d94b9ea7dd0c7b54"
+    },
+    {
+      "path": "seo-review/collection.html-1920-before.png",
+      "bytes": 1019115,
+      "sha256": "e7e64a59a4745a9d8dcc1fd9099b7ec74876764c56e9e1d0d27dd6a3c1268abb"
+    },
+    {
+      "path": "seo-review/collection.html-360-after.png",
+      "bytes": 377318,
+      "sha256": "9d76210021e5e255fb04fba3808b5896518100d24287c89a2a8046196e25e5eb"
+    },
+    {
+      "path": "seo-review/collection.html-360-before.png",
+      "bytes": 377648,
+      "sha256": "fadc1ddde0c2c51ed86cce29d12a5c594333cf469bef87b8080673f6c7edcb92"
+    },
+    {
+      "path": "seo-review/collection.html-390-after.png",
+      "bytes": 420412,
+      "sha256": "d2680e45ce9e7b9b36bc0619b5c12989bf006e3e47c83c6a38476a4f465e6c98"
+    },
+    {
+      "path": "seo-review/collection.html-390-before.png",
+      "bytes": 420248,
+      "sha256": "671920765cff31d8abfc87e0b9e37fe0cd786b8069dd139c6ef4a03095716813"
+    },
+    {
+      "path": "seo-review/collection.html-768-after.png",
+      "bytes": 1075659,
+      "sha256": "ebb44f06601994cb26784fbbfe8f84635b30a70634b65c6fc802bdcdfc936a4d"
+    },
+    {
+      "path": "seo-review/collection.html-768-before.png",
+      "bytes": 1075223,
+      "sha256": "524e7a3a83e91ce392cdb11669aa77456e2d58d99c770d913810525675f62349"
+    },
+    {
+      "path": "seo-review/contact.html-390-after.png",
+      "bytes": 174433,
+      "sha256": "2fe159f3ff1dd1e7fec8851c4b036362a0b68df362278d9d5ac9dfff4efc1736"
+    },
+    {
+      "path": "seo-review/contact.html-390-before.png",
+      "bytes": 173971,
+      "sha256": "080540142056dad1c02d03f223229746ab2341e7f61ab7e454c4094936a93ab3"
+    },
+    {
+      "path": "seo-review/contact.html-768-after.png",
+      "bytes": 208191,
+      "sha256": "2d4f76e6fd20ad92d011ba176ebf70b061c116f71a3185899ede9bdea96e18ae"
+    },
+    {
+      "path": "seo-review/contact.html-768-before.png",
+      "bytes": 208276,
+      "sha256": "7e1d7995ef2ab6b2ec899c6772e0e57b2bbd69e6af9820ab311f9375595d2621"
+    },
+    {
+      "path": "seo-review/controlled-visual.cjs",
+      "bytes": 4502,
+      "sha256": "b0fa1507384569e6b9d8e876227ab0b261adabd2318f80188ea96dc79fbce184"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-1366-after.png",
+      "bytes": 475929,
+      "sha256": "eb075eb162abcd9c843347e4a8cf297bca87063ad816b86ef339aef563e8b379"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-1366-before.png",
+      "bytes": 474819,
+      "sha256": "dc9af60d53ddbec96b3a0cf37461d0e470496dd1d8376e14d85905f9dae29226"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-1920-after.png",
+      "bytes": 521760,
+      "sha256": "8749f382bccae0e1c1afafaac37567e02ecf48fb5b25b57336846294b916e734"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-1920-before.png",
+      "bytes": 521854,
+      "sha256": "c0ba2d4559e17f408365c496e975bd196e12f565e266f0c1ca2a71b6a4a57eb0"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-360-after.png",
+      "bytes": 200832,
+      "sha256": "ba2ecca9bb9e5efd827633e3346176266fd339cc0c0256ca45ac75c9299bd8e1"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-360-before.png",
+      "bytes": 201794,
+      "sha256": "170dd22045a01e82af4b8aba4953bdc8172181fa5df8e4a19730c53d61120d29"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-390-after.png",
+      "bytes": 207496,
+      "sha256": "d74c3fe42abeb57e16fb64a1a1342e8c0714894f1881719ad1bb50673b350ab4"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-390-before.png",
+      "bytes": 206852,
+      "sha256": "432aaabfd531f54a658b25137d15bf2672d65b4c17fe9fa47036fffd857418db"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-768-after.png",
+      "bytes": 238263,
+      "sha256": "53b174da8d28381dd44410d457c4755b9f938b54f07d42f28bd1cc22a7750fc4"
+    },
+    {
+      "path": "seo-review/ethnic-wear-pune.html-768-before.png",
+      "bytes": 236970,
+      "sha256": "1904929ca08d252707a02514835dacd9a65945026b5ff4eb1a6aa7906b1d6207"
+    },
+    {
+      "path": "seo-review/external-checks.json",
+      "bytes": 8383,
+      "sha256": "cec5fec7100b55ae42ce11d92dd13b8862c8a901bf48e66dfc460ea3e3057536"
+    },
+    {
+      "path": "seo-review/festive-wear.html-1366-after.png",
+      "bytes": 469875,
+      "sha256": "821752a99ef80fb75b263aa6c78efa4ff7576647717a5e5b26a1ad133f5866ac"
+    },
+    {
+      "path": "seo-review/festive-wear.html-1366-before.png",
+      "bytes": 469474,
+      "sha256": "b7b3093ac296fc1ef3aedbf1a7955afa9656c05746caf3c86750198e30ef073d"
+    },
+    {
+      "path": "seo-review/festive-wear.html-1920-after.png",
+      "bytes": 518802,
+      "sha256": "bb3c09bf77fc7f3b4bff955a246aa92e6f8f0415f2876b392d5ddb851e904994"
+    },
+    {
+      "path": "seo-review/festive-wear.html-1920-before.png",
+      "bytes": 518338,
+      "sha256": "754d6090c0f458b99cd68ce6cc2e406b2e85f0b9c14c9c559db9febc25b1e70d"
+    },
+    {
+      "path": "seo-review/festive-wear.html-360-after.png",
+      "bytes": 201395,
+      "sha256": "a5e1dfeaa8e563c459ea3dfe13bc7c222e274a59f5893e1befc0065ecf8d3052"
+    },
+    {
+      "path": "seo-review/festive-wear.html-360-before.png",
+      "bytes": 201109,
+      "sha256": "b32947ba22b1da2ab05b2864127d4f883ce356f8b11dd6c527b629a4199c5e2a"
+    },
+    {
+      "path": "seo-review/festive-wear.html-390-after.png",
+      "bytes": 206608,
+      "sha256": "38104911b47894548405173fed5408bcedec33acc3a17e2616fba6c60a104dad"
+    },
+    {
+      "path": "seo-review/festive-wear.html-390-before.png",
+      "bytes": 207007,
+      "sha256": "c20349606ab3061ea7fbdabd283cc3485f8a227cd817c20effda0de43671e6bb"
+    },
+    {
+      "path": "seo-review/festive-wear.html-768-after.png",
+      "bytes": 237451,
+      "sha256": "e03df2e79c683f51cca6f789f95751fdd45303b76f014b7d36eb4f53eec1d11b"
+    },
+    {
+      "path": "seo-review/festive-wear.html-768-before.png",
+      "bytes": 237883,
+      "sha256": "c8950f2bf1c5584573d7733e32dc2f30f24ab8a0e1d8242497fae0c129545e83"
+    },
+    {
+      "path": "seo-review/finalize.cjs",
+      "bytes": 3793,
+      "sha256": "77face4e28559ee65edfb8c7b06bd946112f0069c8d7ab94e6e26b13e4c08fa3"
+    },
+    {
+      "path": "seo-review/implement.cjs",
+      "bytes": 2618,
+      "sha256": "aedafcd1268094214b4149b97baff9bb9f72ba59f8c0e85177961ff7a6a17790"
+    },
+    {
+      "path": "seo-review/index.html-1366-after.png",
+      "bytes": 4947728,
+      "sha256": "a812a24a1785cd3c895cac5ea4c81a7ab471fc6e976d083160760299f8dc0697"
+    },
+    {
+      "path": "seo-review/index.html-1366-before.png",
+      "bytes": 4948150,
+      "sha256": "20826eafe2e67f073723e9ccbe49aac6db41bb5b5e4a0b1cd3bb57a4554258b4"
+    },
+    {
+      "path": "seo-review/index.html-1920-after.png",
+      "bytes": 7297043,
+      "sha256": "5e97abd7f255d940d3e43d8d0a8f89b5c08fee0b4bd7e23ff85d662ad53be316"
+    },
+    {
+      "path": "seo-review/index.html-1920-before.png",
+      "bytes": 7297043,
+      "sha256": "5e97abd7f255d940d3e43d8d0a8f89b5c08fee0b4bd7e23ff85d662ad53be316"
+    },
+    {
+      "path": "seo-review/index.html-360-after.png",
+      "bytes": 1565611,
+      "sha256": "2f46835cfce5ba0a49f54937628658b27cb8a7f3c992644a9ef9cab3258051b3"
+    },
+    {
+      "path": "seo-review/index.html-360-before.png",
+      "bytes": 1565633,
+      "sha256": "ea93d4f405d7f671e93629966cb3fa1c98a0651d6abb936173be49f076848a98"
+    },
+    {
+      "path": "seo-review/index.html-390-after.png",
+      "bytes": 1729430,
+      "sha256": "1b139ac18a846b96f125b377fd190a72056e6f58d775853dbeb66469dcbe4a0e"
+    },
+    {
+      "path": "seo-review/index.html-390-before.png",
+      "bytes": 1729430,
+      "sha256": "1b139ac18a846b96f125b377fd190a72056e6f58d775853dbeb66469dcbe4a0e"
+    },
+    {
+      "path": "seo-review/index.html-768-after.png",
+      "bytes": 3496485,
+      "sha256": "3507dc82e2678e4d45a3e61d2374170e22ff9f6a38428d85b7ddc5439b9a67c3"
+    },
+    {
+      "path": "seo-review/index.html-768-before.png",
+      "bytes": 3496485,
+      "sha256": "3507dc82e2678e4d45a3e61d2374170e22ff9f6a38428d85b7ddc5439b9a67c3"
+    },
+    {
+      "path": "seo-review/interactions.cjs",
+      "bytes": 1433,
+      "sha256": "b198ea9a6f5fc2580a8bbf2e9c86a7398ee34d394da60a6420c304a3e6eaa39e"
+    },
+    {
+      "path": "seo-review/interactions.json",
+      "bytes": 465,
+      "sha256": "60d96e2e23916c4a9c89c6a61db3520a6380a8bc2ba62e3ef715c9278f0cfbff"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-1366-after.png",
+      "bytes": 433468,
+      "sha256": "93e15b9b732233de522099a5f29e4323bb0e918b6a850a6c2f7f483d47e296bc"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-1366-before.png",
+      "bytes": 434027,
+      "sha256": "bc9306208af61c767bb04dcf4c89a90494c761b7f70d294df7065eb513442eb6"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-1920-after.png",
+      "bytes": 467969,
+      "sha256": "3b1063f0e8019270a299c8eaf8a2e04df0e31b35002305d55d5ffda80837e408"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-1920-before.png",
+      "bytes": 467916,
+      "sha256": "ecab2aec150de804402cc6daeb19380b8b3cb54d64a62536f432dfcd87a825ae"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-360-after.png",
+      "bytes": 203103,
+      "sha256": "f4eddafef235e9cc661f5060697195828d59308675c3c40d9c17047b943e8a0e"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-360-before.png",
+      "bytes": 202708,
+      "sha256": "924345c547eb26eb5c716f9d866c1d8936d1067acdd8fa30448122834d1e9bae"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-390-after.png",
+      "bytes": 209639,
+      "sha256": "9e0bc1c0d7bb0e7abb6bbfead3489f8fbdab8b48ce652e61c6def38fce73b4b3"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-390-before.png",
+      "bytes": 208762,
+      "sha256": "b9bc1b07c3ff9b1665ba7c57fa0d25aa8beb78ef5f45b5cce72d41c74752e7c7"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-768-after.png",
+      "bytes": 243531,
+      "sha256": "72e738069c669d2b3c019cb48e2bb0c939a902d413a2c47fa746fef0714ff34a"
+    },
+    {
+      "path": "seo-review/kurtis-pune.html-768-before.png",
+      "bytes": 243063,
+      "sha256": "0916092a329e607e8be7d1ebf5e857d742c80089bdf97cb56ac22cd48c378963"
+    },
+    {
+      "path": "seo-review/kurtis.html-1366-after.png",
+      "bytes": 463975,
+      "sha256": "810c9de79de4c884d219fd8053cccb3b9cd9a4ec89dc5a0025b813648d3452e5"
+    },
+    {
+      "path": "seo-review/kurtis.html-1366-before.png",
+      "bytes": 463539,
+      "sha256": "f1ca9386abfa74c26f867db9a1c426467792af648e375a672028490a1294ede6"
+    },
+    {
+      "path": "seo-review/kurtis.html-1920-after.png",
+      "bytes": 516297,
+      "sha256": "0fad8e3e9308a14e4d43fcdd32c352f9e3633d2a687b333512efe121c67e9a19"
+    },
+    {
+      "path": "seo-review/kurtis.html-1920-before.png",
+      "bytes": 508138,
+      "sha256": "d8fd5caf13c601c49446f912c42c20cf272f463aceca745c2051aeaf58c457f0"
+    },
+    {
+      "path": "seo-review/kurtis.html-360-after.png",
+      "bytes": 209113,
+      "sha256": "c6a1ad0cdd8da5119b3b314f4343671661996a432674839755a6604e522de656"
+    },
+    {
+      "path": "seo-review/kurtis.html-360-before.png",
+      "bytes": 209155,
+      "sha256": "27b61e4be198243bdf62bc256a49b12e1757a31c07485e9aa21e1ac8620440a5"
+    },
+    {
+      "path": "seo-review/kurtis.html-390-after.png",
+      "bytes": 218999,
+      "sha256": "8ba06bedf07aa3e2a54639f4cfed012b60a0b584ee790459c67ffaa14aadf791"
+    },
+    {
+      "path": "seo-review/kurtis.html-390-before.png",
+      "bytes": 218046,
+      "sha256": "64adf61f75cd84a7953091d80bfdae55a3681675d0cb42bb3610e3260b88e312"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-1366-after.png",
+      "bytes": 391113,
+      "sha256": "7b5423c383ba83b5a6180125e2f57b50c06077988ad1d5f09fe91d4f34701ed3"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-1366-before.png",
+      "bytes": 390734,
+      "sha256": "faa622ffeac5ededa6c755b214b036ae7ee6b045c1b3d618da5cb554cb94a2fb"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-1920-after.png",
+      "bytes": 427863,
+      "sha256": "e6cf78f9ffce88ba088a132c955a2a0845b2511d008977844d2af45566c635e6"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-1920-before.png",
+      "bytes": 428762,
+      "sha256": "65bbb11b4c568e132b2b3f0dcb48670ba219f89a4ce62baa5c0d28319a13b88f"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-360-after.png",
+      "bytes": 198445,
+      "sha256": "483049d7ec46d79d81a71fdbddf2f84e1b54ed5803c7eb357504d78f2d1358a7"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-360-before.png",
+      "bytes": 198038,
+      "sha256": "60101ca2933fc7c528729af5d0673911d02682d32fde5d797334a10f630e9400"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-390-after.png",
+      "bytes": 205070,
+      "sha256": "d0f3f6c085af3e2a0d8a3d5ee08caef764e7d40a4c030519bfd4a1a4c04880f3"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-390-before.png",
+      "bytes": 205067,
+      "sha256": "fd1925a8ba41dd3b6bb6beaf832781057c3b4ed156e1f29b5e9201e0363334e3"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-768-after.png",
+      "bytes": 232538,
+      "sha256": "9d98616a10b2cb3ffaf3de2a2c779110ff64c169d4fc7b20a120ca44b2116512"
+    },
+    {
+      "path": "seo-review/ladies-dresses-pune.html-768-before.png",
+      "bytes": 232539,
+      "sha256": "fe746e58df50687d8083c12bdd473c93e5489e6e2352795ce37e33519d076a4a"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-1366-after.png",
+      "bytes": 434502,
+      "sha256": "a53bb356cf4b077f80357d87e3b118d795ec741387c8d96d112a8c289e2df9c6"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-1366-before.png",
+      "bytes": 432764,
+      "sha256": "90d1ace47dc58591c3c29635139d82f9ff44cf07b7168e018f52698a9d23fe46"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-1920-after.png",
+      "bytes": 480243,
+      "sha256": "90f0cb6ef023bb72abfddbb7a83b39dd507fe641d739344eb5f47d75f53b3feb"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-1920-before.png",
+      "bytes": 486010,
+      "sha256": "abfe2d59dfa7dd0299b96480719e64e4359d40a1c1b8d1296ab914cf0dd43987"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-390-after.png",
+      "bytes": 208378,
+      "sha256": "7792d8d0c0a781733970298f42a1574863e3d2d625028ee01f0400b944abad39"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-390-before.png",
+      "bytes": 209133,
+      "sha256": "e8d48fac1e9dff1814a49cebb69cf2228e6e010a939c781fdfebbf89b825af9d"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-768-after.png",
+      "bytes": 240951,
+      "sha256": "ca601c31c37ad417fdbeb8ce94acceaaab884f23378f0e4b732f21dec6d770b9"
+    },
+    {
+      "path": "seo-review/ladies-wear-dange-chowk.html-768-before.png",
+      "bytes": 214956,
+      "sha256": "fbbb3520a8a1a07df6901e043953d659e3922d3a5c9ed38d98e7afac57039bcb"
+    },
+    {
+      "path": "seo-review/live.json",
+      "bytes": 4383,
+      "sha256": "cb65e660946c497093572397c40b0343a989dcdb2a549891a81fdf38634f9f18"
+    },
+    {
+      "path": "seo-review/live.ps1",
+      "bytes": 419,
+      "sha256": "6d0708413ddb76ced34388d07b03bf9ace0519720c50550d3142aeb1d434007a"
+    },
+    {
+      "path": "seo-review/OFF-PAGE-PLAN.md",
+      "bytes": 2749,
+      "sha256": "2e407b5bd77006494c496e20df38b378b7c2fa8ed2b9d7ca79199d2e14949b6c"
+    },
+    {
+      "path": "seo-review/party-wear.html-1366-after.png",
+      "bytes": 422577,
+      "sha256": "50e223eba408a56bba2cf6ba2f63c09e90fefdd84dee6b96fc3706897d3e5318"
+    },
+    {
+      "path": "seo-review/party-wear.html-1366-before.png",
+      "bytes": 421885,
+      "sha256": "7b6e7d9294d854622ff6fe2e0d16f48b5ec4ea735979e00d232306c6b18d5fc6"
+    },
+    {
+      "path": "seo-review/party-wear.html-1920-after.png",
+      "bytes": 469965,
+      "sha256": "d852414a1101465e1e944c82d3b1b5dc610ee1ae7bf9eb4c33348f9e714e4ea3"
+    },
+    {
+      "path": "seo-review/party-wear.html-1920-before.png",
+      "bytes": 471067,
+      "sha256": "c8f35d4f50964d19be1b4c72174f274e9c564ce1506f93d8768e1108b16b216b"
+    },
+    {
+      "path": "seo-review/party-wear.html-360-after.png",
+      "bytes": 201419,
+      "sha256": "309a8697c77a23a49d50db5516e3cfc1865c0fc7d1654feb0e12d57fb6323daa"
+    },
+    {
+      "path": "seo-review/party-wear.html-360-before.png",
+      "bytes": 201317,
+      "sha256": "5b2517faf3768ad3c77b32559635b659fc57eeacf4ae49012831eb5aa2272232"
+    },
+    {
+      "path": "seo-review/party-wear.html-390-after.png",
+      "bytes": 201067,
+      "sha256": "3e6379c34958dba06057079a41b63d8aa05609df40c5b9db699b5a326711e021"
+    },
+    {
+      "path": "seo-review/party-wear.html-390-before.png",
+      "bytes": 201036,
+      "sha256": "72297609033194c1715032b9021c1458e5234e20c15608cb9da268dbb964c282"
+    },
+    {
+      "path": "seo-review/party-wear.html-768-after.png",
+      "bytes": 235405,
+      "sha256": "eede9b90b21bc2a61f3a487f613cc1fbe73b3ac3f20e0b6dd6dde0cbd719af7a"
+    },
+    {
+      "path": "seo-review/party-wear.html-768-before.png",
+      "bytes": 234910,
+      "sha256": "980810e1ab2b4f8182230c80c031fca26ac3849a40301caa85eec716d08f00a1"
+    },
+    {
+      "path": "seo-review/pixel-details.json",
+      "bytes": 4802,
+      "sha256": "de9157ae03868c61bb9cdb7b195307d1f535eb144407ca3152893a0eb0493896"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-1366-after.png",
+      "bytes": 430969,
+      "sha256": "127547d074bc2d9d49341cdc93d8cc71e2a735e543f24b5e98a827d737e6f669"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-1366-before.png",
+      "bytes": 430455,
+      "sha256": "c830059a3db430a3116ced3ea12607fc17ed263bbf8fc1ec5ef797cfbbd4726e"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-1920-after.png",
+      "bytes": 468773,
+      "sha256": "cfbad2ef3d2d71cfec033a7afb5622088e9ef4c613bfb0500e5bf8a00b80a37b"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-1920-before.png",
+      "bytes": 467515,
+      "sha256": "f9b6d0968a5e78f4e4940102f77c29e1a5a35e0f29edeff330f147fbc780357b"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-360-after.png",
+      "bytes": 207267,
+      "sha256": "f762cc04c3f449578e50346345d895e54f27416c9637897d1670273f14c04153"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-360-before.png",
+      "bytes": 206924,
+      "sha256": "1c0b5f521fb4cb401bf939a890d3f3c480b403a7a8591c1e1f9d4ec4ff9b0458"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-390-after.png",
+      "bytes": 211054,
+      "sha256": "5a764400e28fbe9a7e7314dbfe3c0a131859dcbe3187ab2de7699a7d155ec6f8"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-390-before.png",
+      "bytes": 210993,
+      "sha256": "d77e651bf0e234c25d89f246f7567ece1742f73c9985db72d79972490835de2b"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-768-after.png",
+      "bytes": 244178,
+      "sha256": "ffcbadab97f23477d88b57ea743d31459b4e04437f84e77a323c5d6e57f77704"
+    },
+    {
+      "path": "seo-review/plus-size-dresses-pune.html-768-before.png",
+      "bytes": 244099,
+      "sha256": "1a3347534148f126a8adb6e10a7cfdf8ff4f41e868b6039552ba75e459981b69"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-1366-after.png",
+      "bytes": 481719,
+      "sha256": "fa9102f26081d0b84fdbc0078b23b31f581af1688b50911d57b26c23d549edfc"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-1366-before.png",
+      "bytes": 481214,
+      "sha256": "0b4caf303974f414ad46fea691b846159fa4f9d2be5ba205c49c81890a174fad"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-360-after.png",
+      "bytes": 218839,
+      "sha256": "39f018f7a688e926e1b277e2ea41ebbe288f509b0fc1426b880b3ea52f183fc0"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-360-before.png",
+      "bytes": 219550,
+      "sha256": "524beafb54e1af4cd565043f83c80cc3ce1dfc11f89f888ba9569358eaaf474a"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-390-after.png",
+      "bytes": 220115,
+      "sha256": "00b0e8f28046f826e7135b8b4f93bc6ad271c33558f78c4160802e57fd3a51da"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-390-before.png",
+      "bytes": 220857,
+      "sha256": "4dc25bde0b2d03d1dd9f597c4f938e3b51b93c9ac36e3f4fc559cc9a1e3d0dbe"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-768-after.png",
+      "bytes": 254920,
+      "sha256": "e5ff423cfdbe4812ea4acf2a78935d921500bc035f0c39dbff21ed2e9f6a77df"
+    },
+    {
+      "path": "seo-review/plus-size-womens-clothing.html-768-before.png",
+      "bytes": 254650,
+      "sha256": "5649358194c824948845e39a95a76888ba4d7db3c44a324fb660d8a43e0868f0"
+    },
+    {
+      "path": "seo-review/privacy.html-1920-after.png",
+      "bytes": 371780,
+      "sha256": "c10cae49c0b4c79870ea77a2ebfcea8a65df77189b09d731399bf54d3de797a6"
+    },
+    {
+      "path": "seo-review/privacy.html-1920-before.png",
+      "bytes": 372275,
+      "sha256": "f7beed46b3a896657299511b235aae323a1050b1b3f6d7bdf1e1b9cc3a7b7e4b"
+    },
+    {
+      "path": "seo-review/privacy.html-768-after.png",
+      "bytes": 272501,
+      "sha256": "69500930863ebbcffce117c32eec5e1bfd7d2a5f74f4a8fd33431ddbb73fc365"
+    },
+    {
+      "path": "seo-review/privacy.html-768-before.png",
+      "bytes": 214357,
+      "sha256": "dab5f5a4e5686813c68da035ed6e31abe3c039f09b76290b80dc15607fb55f3a"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-1366-after.png",
+      "bytes": 446256,
+      "sha256": "514a4f4b9b59b1524950ec4e7fdb984d96e021435d26f80d407f2170f9a86c28"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-1366-before.png",
+      "bytes": 445662,
+      "sha256": "72b869bd0fd9b059c4a5c538fec261d9ff5ddbbbf68b251e0615e383e538157f"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-360-after.png",
+      "bytes": 205072,
+      "sha256": "9d459a7d9ce508334baa22df5c21ab7a4fc3a41a6febb06fc2f49d9a24e4b773"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-360-before.png",
+      "bytes": 204678,
+      "sha256": "aa5d8eb0dd82dd94fdf8f338f42f61cf68218c02e5225ad5ef08972c3e745a1f"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-390-after.png",
+      "bytes": 215726,
+      "sha256": "fae8f5918284ba08240843c1a5da225f2095c18231829a6136fd01d2f8a782eb"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-390-before.png",
+      "bytes": 214086,
+      "sha256": "958a447091ab379f96d1a62942adb13db8ab167453e19a3d2a0500bd0c0b9474"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-768-after.png",
+      "bytes": 248654,
+      "sha256": "12e93c6a8034c77984dae570d58059bdb6120c87a512b9c742a170d15100aa86"
+    },
+    {
+      "path": "seo-review/punjabi-suits.html-768-before.png",
+      "bytes": 249840,
+      "sha256": "4def6388f26027c207892453ba2cfb834da541f9ed859eddcadab741129caf5a"
+    },
+    {
+      "path": "seo-review/seo-changed-files.zip",
+      "bytes": 27341,
+      "sha256": "37b0eb9677e165be3a516856db377d2c2e54dc70c9d33ba717e432ecb81b19c0"
+    },
+    {
+      "path": "seo-review/SEO-REPORT.md",
+      "bytes": 13342,
+      "sha256": "b48d71991548327264771a87ba39d760d7584a30bc23c137fe78192ed004892d"
+    },
+    {
+      "path": "seo-review/terms.html-390-after.png",
+      "bytes": 183909,
+      "sha256": "e40463c52c0d30cbadf4c277319ebc31ed5364975dfd650d1c69d5e514e16a2b"
+    },
+    {
+      "path": "seo-review/terms.html-390-before.png",
+      "bytes": 182993,
+      "sha256": "ee44c7e00e7da808100a400b2032a756d6a2f98011f6efa2fef96251ced409dd"
+    },
+    {
+      "path": "seo-review/terms.html-768-after.png",
+      "bytes": 224150,
+      "sha256": "627dd777257d79a69185752e557cbfa84599bb40f19f25d8199dfc8c905760ad"
+    },
+    {
+      "path": "seo-review/terms.html-768-before.png",
+      "bytes": 224296,
+      "sha256": "ec5f3a5a285d9402ecdb2fab8ee96438637aebd534b7218967159e5ab5e339b5"
+    },
+    {
+      "path": "seo-review/validate.cjs",
+      "bytes": 2527,
+      "sha256": "0907f25b122a9f3c28cf04c4665db2ab9756c1cc2cfa6f508931735bfd8ffc28"
+    },
+    {
+      "path": "seo-review/validation-output.txt",
+      "bytes": 4802,
+      "sha256": "84af77dfdc7774c15b7da035d8a5c2d38a42af84dbc09cbcaee4dc5b2572c0fe"
+    },
+    {
+      "path": "seo-review/validation.json",
+      "bytes": 4724,
+      "sha256": "f11ca89fb526dc1354f4db3c609f8fc452eaadf97dd55c9696605eafc9a693b2"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-1366-after.png",
+      "bytes": 559437,
+      "sha256": "23f2b6236c1784bacccda71832659eb76481c6593135c98798d16e04aa604b3d"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-1366-before.png",
+      "bytes": 560085,
+      "sha256": "b7530518b78b79565ba8487f6f78219a48da960568d5f2021797f43c5e0800ee"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-1920-after.png",
+      "bytes": 602472,
+      "sha256": "32335fc42e934453df21c5e45ec0bc5622ef39700da0157eb6daf8a130c46331"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-1920-before.png",
+      "bytes": 601920,
+      "sha256": "d69c3a110e145f2969b5cf14410ec66a3f29d6b106b72ffaaa39f18014141ee5"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-360-after.png",
+      "bytes": 276617,
+      "sha256": "24a01210b3d6ef7ea06215aed16e1d897521d75a69b16fbdd0c7c432615dfcf5"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-360-before.png",
+      "bytes": 276247,
+      "sha256": "c02a4db6fe01c1bc3f754f5c93b0e98843ba168038897f359e028320cf6f4e54"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-390-after.png",
+      "bytes": 294030,
+      "sha256": "5d17d4d5b599bb0da79e779efe8c30cf5bcf05c37a60bea17e707102541557e7"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-390-before.png",
+      "bytes": 293698,
+      "sha256": "4b3877c40e7f5e10dd4b2ec88483cbd52002232497517a5bf6cfb9a77a15400e"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-768-after.png",
+      "bytes": 586666,
+      "sha256": "04bc8288b9e97d3d4b2c34e9f5b67246c71bd8c9c43fd749bb00fc913facc50a"
+    },
+    {
+      "path": "seo-review/virtual-tryon.html-768-before.png",
+      "bytes": 586645,
+      "sha256": "c1dd5a199531144c7dffff1ef740e688328438433108e0fbb63bb96854752506"
+    },
+    {
+      "path": "seo-review/visit-us.html-1366-after.png",
+      "bytes": 251204,
+      "sha256": "cd5d4e07ad8092aa3271273e58d0fdf7f6afa380494df45cb4a4bfb56fc274b7"
+    },
+    {
+      "path": "seo-review/visit-us.html-1366-before.png",
+      "bytes": 251525,
+      "sha256": "5196e981de749223fd52b627fbfcafe793bc165728798a03281d28d52056c56c"
+    },
+    {
+      "path": "seo-review/visit-us.html-1920-after.png",
+      "bytes": 283958,
+      "sha256": "9f7b0835931befeb4853e96c5bbe17a2f7d634e4dcae537a34424a7bec1e1310"
+    },
+    {
+      "path": "seo-review/visit-us.html-1920-before.png",
+      "bytes": 283738,
+      "sha256": "c65e6ca57ad1fe6df57b82227430c2a96025d289ba969750ba0c99a5f62de0c4"
+    },
+    {
+      "path": "seo-review/visit-us.html-360-after.png",
+      "bytes": 158208,
+      "sha256": "d05c48eb80deeec1c44e28df66f9b0ff518a5f420d3c430f4bb910ddf48cfb81"
+    },
+    {
+      "path": "seo-review/visit-us.html-360-before.png",
+      "bytes": 157728,
+      "sha256": "8edd527b31e9dc4a734a1a8a91ebb60f73fdec54fabd55a5c1f15c2617355a7a"
+    },
+    {
+      "path": "seo-review/visual-first-pass.json",
+      "bytes": 13827,
+      "sha256": "600682a753a19e9a24fee3ef63525bd1641205fc4817ab553dea4047c7d039ef"
+    },
+    {
+      "path": "seo-review/visual-reload-pass.json",
+      "bytes": 13844,
+      "sha256": "33603330910cc3c687926cc848191a1040009045fb631d0d70f43fba7b0f6799"
+    },
+    {
+      "path": "seo-review/VISUAL-VERIFICATION.md",
+      "bytes": 2078,
+      "sha256": "81411853ca54bcfd44fb50aa27310ad7136738cf088c5bd5beb8d3a16e75e837"
+    },
+    {
+      "path": "seo-review/visual.json",
+      "bytes": 13801,
+      "sha256": "24b12038a8d5423d03c1c7be86ce502d45ea8c4f77b31633d751651ba7c210b6"
+    },
+    {
+      "path": "seo-review/western-wear.html-1366-after.png",
+      "bytes": 399973,
+      "sha256": "c0ec6166697e12cf4d3f1e4c9bc782c5245a30c7067043161dd5ad08cbbbf763"
+    },
+    {
+      "path": "seo-review/western-wear.html-1366-before.png",
+      "bytes": 390515,
+      "sha256": "349c14c3a7c93a01e94bbdeac1d11c56684bf3986bf356b11692ec1426729fa1"
+    },
+    {
+      "path": "seo-review/western-wear.html-1920-after.png",
+      "bytes": 449502,
+      "sha256": "95775676c3fe7ec1df52afde87f4829c85b6f952e0f3f4900543b43228de9758"
+    },
+    {
+      "path": "seo-review/western-wear.html-1920-before.png",
+      "bytes": 450481,
+      "sha256": "b46e7bb5b20b40d57317f3f7dbccf466b0c1c9789c7a0459dadc994ebea2f34a"
+    },
+    {
+      "path": "seo-review/western-wear.html-360-after.png",
+      "bytes": 198399,
+      "sha256": "ab5e1554016f86701e833beaa180658a5f8af411f04dc4164e10fe529a23c442"
+    },
+    {
+      "path": "seo-review/western-wear.html-360-before.png",
+      "bytes": 195722,
+      "sha256": "b19b2b31d638f87de292a0254ed322b6f3c83caa381e784d7bf17ac7c05bf054"
+    },
+    {
+      "path": "seo-review/western-wear.html-390-after.png",
+      "bytes": 196017,
+      "sha256": "77202d2a9c749dd9cc8f7ec984e3b3d07b91484b15390e320c88281d7121ab77"
+    },
+    {
+      "path": "seo-review/western-wear.html-390-before.png",
+      "bytes": 196463,
+      "sha256": "634966c69c5f32567dda9df16dace86414d22bbc737724d0adddb6135030f02b"
+    },
+    {
+      "path": "seo-review/western-wear.html-768-after.png",
+      "bytes": 226820,
+      "sha256": "c76c9f95ab6dc4b653988820a576935b13c5ba9b5bf6b11e3d359bf9c31d80aa"
+    },
+    {
+      "path": "seo-review/western-wear.html-768-before.png",
+      "bytes": 227676,
+      "sha256": "f6a674344f715aefb52b74a14cf159aef0efa6051aba3d9c272f991b541360d1"
+    },
+    {
+      "path": "final-seo-verification/before-contact.html-1024.png",
+      "bytes": 312658,
+      "sha256": "46971c8b84b3505f71a6b1095927bce52f45dc4bd74121229280bcd58ef4b154"
+    },
+    {
+      "path": "final-seo-verification/before-contact.html-1366.png",
+      "bytes": 373054,
+      "sha256": "20d5e21a72b78150ffeda2f61ea2997a22f39c852c7ad1f19167eeb891d217ee"
+    },
+    {
+      "path": "final-seo-verification/before-contact.html-1920.png",
+      "bytes": 438096,
+      "sha256": "8cf58e7817f97e767bee12b1d9bf08ff3cfbb9f3caa15962b8d4066132427fab"
+    },
+    {
+      "path": "final-seo-verification/before-contact.html-360.png",
+      "bytes": 187693,
+      "sha256": "6be723da1b82c523945907a334442a15b327d4d73163d9ed61f394a05ff76d66"
+    },
+    {
+      "path": "final-seo-verification/before-contact.html-390.png",
+      "bytes": 191293,
+      "sha256": "8e3894ce6e865c3603bff698ea6b6f26f7ed40176591070254f0d7cdeee8722c"
+    },
+    {
+      "path": "final-seo-verification/before-contact.html-430.png",
+      "bytes": 195194,
+      "sha256": "204c737369a00274f37c0a2faeb5270f598d85a20c59c077ceb51bf4eec3fc3d"
+    },
+    {
+      "path": "final-seo-verification/before-contact.html-768.png",
+      "bytes": 260540,
+      "sha256": "4809d7cbc0979ca3cd5ec34d86a0e7c3868c71fcb6e1d5bf871f2be45a744c3d"
+    },
+    {
+      "path": "final-seo-verification/before-index.html-1024.png",
+      "bytes": 3199341,
+      "sha256": "bcf718c13f7d95334ae56fe4ff5b5ccc64454cf084a70fc7c55a5e935bdab0a0"
+    },
+    {
+      "path": "final-seo-verification/before-index.html-1366.png",
+      "bytes": 4839793,
+      "sha256": "7aa57c48b29c5b0df82247decb3ef8170dfaa575e2a241178842e0ccdf1ea8fb"
+    },
+    {
+      "path": "final-seo-verification/before-index.html-1920.png",
+      "bytes": 7141888,
+      "sha256": "f878fcfbc0a3d120869d5d04c48cbc81216c9eb8d32a6b3283042c0ce8603adf"
+    },
+    {
+      "path": "final-seo-verification/before-index.html-360.png",
+      "bytes": 1540927,
+      "sha256": "2ad937b98f1bf998a4442e0a2ec0d99b7b325cb47be32c61fa6a2421e78ed214"
+    },
+    {
+      "path": "final-seo-verification/before-index.html-390.png",
+      "bytes": 1686418,
+      "sha256": "048b1626bff94ea3afb0dcae2800d662abcd66ef88de1737fb1b926f128a9f8d"
+    },
+    {
+      "path": "final-seo-verification/before-index.html-430.png",
+      "bytes": 1891539,
+      "sha256": "c4cc3706a100fe9fc0d495f7050e32844c53b552fa5478e90ddf6e93f315f875"
+    },
+    {
+      "path": "final-seo-verification/before-index.html-768.png",
+      "bytes": 3438996,
+      "sha256": "52d57607f85414e5222cc2ed1bda34adedff415163970510ea9d6d6f07867604"
+    },
+    {
+      "path": "final-seo-verification/browser-before.json",
+      "bytes": 2569857,
+      "sha256": "fa04e0c11e8031756878b0d1a5bef521e4aebd19e124a9458be0f86fff98e0af"
+    },
+    {
+      "path": "final-seo-verification/browser-qa.cjs",
+      "bytes": 6648,
+      "sha256": "9733725a914824c89970fc885e8fc7549a53f585b6d71885f6454c02cbcf694a"
+    },
+    {
+      "path": "final-seo-verification/inspect.py",
+      "bytes": 4511,
+      "sha256": "9699e0b5230dff0d5a3ebf88057414c75a5e3f4029b9e0452c48e0da4822963f"
+    },
+    {
+      "path": "final-seo-verification/inspection-before.json",
+      "bytes": 97790,
+      "sha256": "3b96950b949fb3ae40b44aa497ce978213ff7e52c6911d6afa2dc5de87bb936a"
+    },
+    {
+      "path": "category-review/baseline.json",
+      "bytes": 96531,
+      "sha256": "13204734c3e530173c63f42af31fb3191d84529718350de218e6607109b199d3"
+    },
+    {
+      "path": "category-review/header-baseline.json",
+      "bytes": 146188,
+      "sha256": "d86498ebb93cdb41c5a11756ad2e384f821d6ded80f9601660ec32a69a06e431"
+    },
+    {
+      "path": "category-review/browser-and-delivery-checks.json",
+      "bytes": 388,
+      "sha256": "e78ab08750555fa46b3dac8c3d02dbc395ecf0bc69e7aa8fbbbf432d31d498e8"
+    },
+    {
+      "path": "category-review/HEADER-UPDATE.md",
+      "bytes": 422,
+      "sha256": "d81fb5ef123aad5a2132a98669558fa98f6fc2840252995b54d6be640856e9e6"
+    },
+    {
+      "path": "category-review/verification.json",
+      "bytes": 462,
+      "sha256": "40709f054e773dcb711b3b818269a3acf9909702d3227be76e034b8a8b6c1f1a"
+    },
+    {
+      "path": "category-review/verify_catalogue.py",
+      "bytes": 3450,
+      "sha256": "a379f0fe52dd0763003ab289cb4a60f6b15d24421724ccf72a95f81814f64f3d"
+    },
+    {
+      "path": "category-review/verify_header.py",
+      "bytes": 1566,
+      "sha256": "077e435a96c4c0f9423d5c5165ddfca9da00e9adf82bdb3b73f6dd2cafbc204d"
+    },
+    {
+      "path": "category-review/check_local_delivery.py",
+      "bytes": 1285,
+      "sha256": "44a0f52a443db96a18ef23ad35bddd67004c10ea79dd68b802103589c154148a"
+    },
+    {
+      "path": "category-review/group_header.py",
+      "bytes": 1199,
+      "sha256": "7a02e2164e81df74c9f226aeb727d53c720c7f3d4882979b59cc9c6183bb5f6b"
+    },
+    {
+      "path": "category-review/update_header.py",
+      "bytes": 2059,
+      "sha256": "7cc226d5434d06a99fdcaa172b30aaadd973acae98d281e0f39096ed309ec073"
+    },
+    {
+      "path": "category-review/inspect.py",
+      "bytes": 1110,
+      "sha256": "877ea67b18a7baf4a4974d534db68ef916540ce35fd554ab372237b76804a5ec"
+    },
+    {
+      "path": "category-review/unused-scan.json",
+      "bytes": 975,
+      "sha256": "dc985a37d5a52112eed9756d17f4903227b079df7ff86e92ecc7ab8e5465cc43"
+    },
+    {
+      "path": "category-review/sheet-01.jpg",
+      "bytes": 262597,
+      "sha256": "56d4c3317923b84dd051c8d34ed84f83c53d7b9de46c5ffd98e51f48c31b9da4"
+    },
+    {
+      "path": "category-review/sheet-02.jpg",
+      "bytes": 213081,
+      "sha256": "a68ee683fc01ac89f63fe39b20572918e4014bc0240dad28c0f3a866ec51dda6"
+    },
+    {
+      "path": "category-review/sheet-03.jpg",
+      "bytes": 211539,
+      "sha256": "689f16d5e46b3524ef68d7b4e42c1650d140cd594e00a0e45004a8c57c8e770e"
+    },
+    {
+      "path": "category-review/sheet-04.jpg",
+      "bytes": 221671,
+      "sha256": "d44f1995f734d94404fc12e49f1857e3a509d0e3322c3ae346fbfb3a4cfd0e8b"
+    },
+    {
+      "path": "category-review/sheet-05.jpg",
+      "bytes": 206978,
+      "sha256": "dfa923ccbf19c15f10e81b6e9dfa6ac35563d21cf18080ceac67d521023e6c19"
+    },
+    {
+      "path": "category-review/sheet-06.jpg",
+      "bytes": 231745,
+      "sha256": "c27bbdcbbfda65e982f6c1622292a3654e1fb42a8af9871db95f02d9d1eb7380"
+    },
+    {
+      "path": "category-review/sheet-07.jpg",
+      "bytes": 259334,
+      "sha256": "bd74338e649caca9598aeb6040c6d5d1e39c4cb03e9a3e5439ae9c7145285832"
+    },
+    {
+      "path": "category-review/sheet-08.jpg",
+      "bytes": 245785,
+      "sha256": "73f6aabb9f0640a6f63274fe0c1dc7e05c47c30fa38838ea9cea5d61d991c9aa"
+    },
+    {
+      "path": "category-review/sheet-09.jpg",
+      "bytes": 226850,
+      "sha256": "3add86312c22f6e408c1effd28abbf8ac7f68efb22ca4a51f81d64c605ba48d5"
+    },
+    {
+      "path": "category-review/sheet-10.jpg",
+      "bytes": 237936,
+      "sha256": "6ae32d31d68bb7eb01355446d902bf7e26119ff71b0f7fdd8d9966a64f811605"
+    },
+    {
+      "path": "category-review/sheet-11.jpg",
+      "bytes": 244665,
+      "sha256": "e0d498b83da68d67c507b2e6e0fe469e0b3aecd86fc08c15d03ab7b32943cc47"
+    },
+    {
+      "path": "category-review/sheet-12.jpg",
+      "bytes": 215424,
+      "sha256": "e2a2738228740c9c76f0742cb0936cd7cc729cf15add8817bae6ec5806d32f61"
+    },
+    {
+      "path": "category-review/sheet-13.jpg",
+      "bytes": 241275,
+      "sha256": "4aae17f7b89377445e0d3c95b5d75ee62dd670c5157873cdc651485e5ce0eb08"
+    },
+    {
+      "path": "category-review/sheet-14.jpg",
+      "bytes": 204475,
+      "sha256": "e0e1eb4879ffefb61a0a77d862002e1487ceecafe43ca02ec7d4cfa2b0fddc94"
+    },
+    {
+      "path": "category-review/sheet-15.jpg",
+      "bytes": 229869,
+      "sha256": "2d28bfaf80b4cdc0c1b269082c7d35a1beb6147bfd65220ccc69ef645e768f38"
+    },
+    {
+      "path": "category-review/sheet-16.jpg",
+      "bytes": 197526,
+      "sha256": "0940a1b1b1dfbdd88646da3bfe49fbce54774016cdea3d70810a1214bc2e0a6b"
+    },
+    {
+      "path": "category-review/sheet-17.jpg",
+      "bytes": 155042,
+      "sha256": "98bde6bff221c367048083ab2f39491c380ef8fdf113defeb788127c818bd8e7"
+    },
+    {
+      "path": "assets/brand/veera-collections-logo-final.png",
+      "bytes": 212097,
+      "sha256": "74e7b32173b6245257d66d3363ef7b108e0c7cab37cfae57bb52d6919870217d"
+    }
+  ],
+  "removeDirectories": [
+    "backup-before-final-seo-verification-20260907-160428",
+    "seo-backup-20260907-130524",
+    "seo-review",
+    "final-seo-verification"
+  ],
+  "preserveHashes": {
+    ".env.example": "d0dc0ec8b05b0db5468e9a13eea486f95daeaecde89b81f7e06b29843da59712",
+    ".gitignore": "e37f1eef557a2a119f20f1441a20c2b7ea3d9c124802ef54eb6afbc10c0ae999",
+    "404.html": "61b39b52ecd6c97e691f55e184ad542575c265a38455951c585897c8e742a32a",
+    "anarkali-dresses.html": "c8b49a3222d02c7efd9c33ba81ac1fe7b0d3ac0617a32fc519ec9395e478c40d",
+    "apple-touch-icon.png": "b7251644d73f7121b637ec407cf7c524931372e3f16679b1b3d4c871d13f8e35",
+    "best-sellers.html": "5d8a3eb1b38285e1bc910b17b835790495db0d75a04f0351add3dd19f4ee4a3e",
+    "co-ord-sets.html": "af59bc5e5b4afe9eb3a1aa85ccdda0ea4cfc8e77741f06cb4e13c7a34e0fb8b5",
+    "collection.html": "f4031b16d4e9bf0be29e51b864c1251bbd6f6d8a1026da177c234e58fbd9798d",
+    "contact.html": "e215e08d151a6d0b14d8657ad0b057e7cb01ab8b7b501de976bf5521a8d7e47a",
+    "ethnic-wear-pune.html": "4433fd89921abf2decbf6594f592a6f795d265c9ba29f961666886899a593378",
+    "favicon-64.png": "76df23e0ed2ac834ce221d7719639a3d7b2f1e05342ec311058422a332b21009",
+    "favicon.svg": "a0a6e9612b9e55c4e6d983ae19bc7d02e334e194495a32da145bf628aaae97d2",
+    "festive-wear.html": "75c63ed229884107e5e805c91bceece27253e7e0c1ef89a885381eead4ce1621",
+    "formals.html": "5a81159ab3c7ca0d6a5f03d77a15250e89b8e2d3cf94de00f92c6e6eef9c0445",
+    "IMAGE-AUDIT.md": "5c5982b14b1107207048ee4a08bb8d859c8d522090d41f764b197354a1a52b3b",
+    "index.html": "2c479cd768cab52c37e5ffef91a172e98417f1623906d51ded3ce1b865a90eee",
+    "indo-western.html": "86db4b2dc4ae729c6626805ca5277774f4914a6b5846be295c959765a10f099d",
+    "kurtis-pune.html": "1fd6a3d603376ce9708dab04d3e2e69c7853516482abfe9092e245b3846091fc",
+    "kurtis.html": "ccc1708fbd1ec7397ae5f017e332b53fafd482dea8a7dc17221c87378a9362bd",
+    "ladies-dresses-pune.html": "fcc2fee3ca92732d2625d2943e5cecf34fd2001aeba6ad90bd1d3e419a5a4b42",
+    "ladies-wear-dange-chowk.html": "1714c1377ba1f675341bb6e4d11354391fc956dc53c840a5f757cc2de25799f1",
+    "LEGAL-PRIVACY-SECURITY-AUDIT.md": "6fdd3e1d84e8476b3f50b0e13ad8c0cc081897f59a6c6159528c0dae62343e90",
+    "more.html": "ed0159f7d1895faa732f9bf0c82cc43ebfb438b978b5bb512e437be11da92fc3",
+    "night-dress.html": "a5e18ab0475bc599acd40e374697fa404ab121c6392eb864dba1e4bd9c058d9b",
+    "party-wear.html": "efb7db58e78113af7c216d059ac3385f575d81e4969e1c58b50421bde8170079",
+    "plus-size-dresses-pune.html": "257a2f9baf58211aa5c038f9d0e3a6bec75acffb358214c02f39ae43af8ae7c7",
+    "plus-size-womens-clothing.html": "ec769dfd228a46e7a245fea37975cc754c6db19b3c8b9f5bd58c872d0cdafb0f",
+    "privacy.html": "1bbcc40dc58604c7bbcedd1a942953546b2cdf1334fe1c71e0d74b818bcf20a4",
+    "punjabi-dress.html": "f9939aebcd48239601473378a765f1208abe2fc47e30bea73d1f375600ac345d",
+    "punjabi-suits.html": "eee61518e6154e7ae1f85c119fde175c009959156f66e3c5aba6d18efa587afb",
+    "README.md": "a28d6a4d667bf802d931385766b213a52a5a2be46892c0f7798fcd7f951915d7",
+    "robots.txt": "8bee25b6bbf8290fd708d3d5ae251986ce6e4dbd821eb6b1ad71e78b3e9935f5",
+    "sharara-sets.html": "1e33c626aa9ac7c42c5d004df99b6a4147338008f71e99a86a9ea907c6bf1179",
+    "site.webmanifest": "d247618679f8d0ad40f25f5d8e694fc34876d88163e393b95869cdc49dad030c",
+    "sitemap.xml": "e2c01a655fb6de9d4ceb0cbcd4ddbbb6efa9595e5d40ce47d4933d6bb41e67e6",
+    "skirt-and-tops.html": "56cae2993728fecc7a7466dab3882c96ea3e27240e4553c7af6e91f4ed979a37",
+    "terms.html": "277f184f502221213bc3ee5672b0710659ff47f93d4b14fba4af6aecf4376ec7",
+    "virtual-tryon.html": "93fedde1545a282c0013184b21c573377b978abb6facf1400579b009447daf93",
+    "visit-us.html": "6eb4615fba63c5598d71b8e1581855497f18b44bae2106e2508cf0d76f749969",
+    "western-wear.html": "b4edbee6029de0e26a70db12cf894ee611ef8d636479d6a1faf36ed048a5a3c7",
+    "_headers": "c2a7210bc3ad1260f2e7bbb7dc28235087997e44f0e0f6da829ccae4abce0071",
+    "_redirects": "debfd50e731b8b441dbe16ca5a8d52c107d9c8f1435fda10a504ebcfab0e9339",
+    "components/footer.html": "a469880caed63fc1abab5b8ceb328e5c4598ded24397d96077837392ec0e0116",
+    "components/header.html": "e022c16f0aeb78dc25c96f172af62657f40d1259c00327e74706502d89c463bf",
+    "css/footer.css": "fd0054145038e39f3e17be1fa8a7cba1c5a82fd1c730d5400f24048a5b8a3666",
+    "css/global.css": "0f8238fd0d533e61b1c1f1efc7491137cf44badc46a293bfc5cd60441b4a0172",
+    "css/header.css": "bfa70ca32ab7e174b129773a4b48ac48ed6aa9717c836d605cd387c8e3747dfa",
+    "css/responsive.css": "695e62805fec2214a46ae25605a144d437db01859a203461dd4368940483f557",
+    "css/virtual-tryon.css": "dcc142aea68ff035b1eb37ca007d80ec4495609bb9fbf12aef6b9a44f64337a7",
+    "data/category-products.json": "9313e7af0cf835c6fe0718a729ffa9d0b12ea1fb16f3eb9bd783175cdb952a59",
+    "js/catalog.js": "f0f9fe34f229a98e39297c336093c5abe2499e1b52a76ca2db5ae703364f9f28",
+    "js/main.js": "21260f7e9f7162b558221c7824beb01d8b17ae2519b1faecb2a40364243bf899",
+    "js/more.js": "7de017598141bb004e433ef99965774f348da825f47d48423f71866a1e16d39e",
+    "js/site.js": "13fa3f71161d9322b8ebf7bbc195f7bdde51af7a91bf4d15feac164336f9efc9",
+    "js/virtual-tryon.js": "34c53ef82f670851016831ce9596a8574a7d2e541810f5e4cf831ef069950f9b",
+    "assets/brand/veera-collections-icon-192.png": "0ad7d98d025baca7420aed8b1d7ba68b5d78db7d6fbf71932d7cbaf29a9cafea",
+    "assets/brand/veera-collections-icon-512.png": "7bb962fdc993b71ecfbf6a1e66cd40a1bb6029007a4d3cb4cdba7a76945173b8",
+    "assets/brand/veera-collections-official-logo.png": "b4e1b93d59bea96f6f3e3f491b97557f55bbe31a80d18145261d26a251953afc",
+    "assets/brand/veera-collections-official-logo.webp": "848a45fc7c51b245d1578fbada4d6e3f7940c0e149c579015ec7c82aa6653e8e",
+    "assets/campaign/veera-inclusive-boutique-campaign-v2.jpg": "094fd06c9627b666dc5c19ede886d365bb99e0a50e2a4c425949a77349c25fc2",
+    "assets/campaign/veera-inclusive-size-editorial-v2.jpg": "1b61b931826c2f7ea02922740051b6587f6bfbba15b633f92e3d55fe0db916b6",
+    "assets/catalog/abstract-print-kaftan-dress.jpeg": "65aa7cbd986542e1ff9f1f935da99aa59b4910d3a6caee2deafdeb8926b12009",
+    "assets/catalog/black-belted-coord-set.jpeg": "9bbe9682edc3c4afbbb4f1da05571411bbfc843ee65a5326af59c6c9aec58631",
+    "assets/catalog/black-floral-embroidered-coord-set.jpeg": "20400e2a14556e88857dffcd7149dcf9b656d38930e2832b7634cba9fab709f1",
+    "assets/catalog/black-satin-maxi-dress.jpeg": "beea4c4f0797037bbc629c5814841e8840d4bed5187d0ddc022381a956f48e27",
+    "assets/catalog/blue-layered-dress-set.jpeg": "5873d800393ae9c12cebdf0c58fe5d00d5feb7adf6a2442af6f59de397afe4dd",
+    "assets/catalog/burgundy-draped-maxi-dress.jpeg": "7482fdbb1a6316c666e0d08ca114b6a8f1faddf413d96439cbee8c2579914d97",
+    "assets/catalog/floral-embellished-palazzo-set.jpeg": "01a206ece4e5c721229fd8ca532d46a4f160ef98d96633eb883e4525aa7c511e",
+    "assets/catalog/ivory-gold-print-kurta-set.jpeg": "ba355fb1ea395d9f438aeb7b803b243d6ef6647b03b191ff0a7c6dbb4baee0b3",
+    "assets/catalog/marble-print-midi-dress.jpeg": "e633198453e232e83430366e0bbeb01871eb5bb0551700ce1dffafa483cb2527",
+    "assets/catalog/maroon-strappy-maxi-dress.jpeg": "b558b731279cec8c6081f7ad00cddc0b8a8f27d846f4b491be660c4a37845fa3",
+    "assets/catalog/midnight-floral-kaftan-dress.jpeg": "b988bc742b03a3b7cb91e32d5f1462f0dfab4cb4ebbf1b849c1de94ecf1edc4e",
+    "assets/catalog/mint-embroidered-anarkali-set.jpeg": "92c6c2a527dc583f6ff39f3bace2e5a2b20ed57b9ae26bcc0da4c2a8d872f1cd",
+    "assets/catalog/peacock-floral-kurta-set.jpeg": "30a046e59bd2b0b04a7c2d6eefae4ba52adb9bdcbc8e5a47eb6ac526bf2a1966",
+    "assets/catalog/powder-blue-kurta.jpeg": "02b7c634bb267af34d072acb5f49040f995846cdba15a2713e67383fb7b94e24",
+    "assets/catalog/rose-gold-kurta-set.jpeg": "d00b31dd86c0663411c89423b9ecb3124a2f293f64ac88b9d37d14514af415ed",
+    "assets/catalog/rose-pink-floral-kurta-set.jpeg": "a2a446f3816e0efbe8111efe3862ab697b95d3762e2e13e34c20e978e3aa5158",
+    "assets/catalog/teal-satin-midi-dress.jpeg": "5bb5f7e7941b448f6b7914ad56d285e3596e273b43e0f3e14362b25216776b02",
+    "assets/category-products/vc-0149a83c4a6c-480.webp": "97e0f5da42a775dfa4fab2e38ca9f3e3abeee22713171ef6cec7141cf47a4934",
+    "assets/category-products/vc-0149a83c4a6c.webp": "ca9da7f361f1822414c7cdc50ef0378f54c853fcaf34c400582d8e55651f66b8",
+    "assets/category-products/vc-0524a1e5dd9b-480.webp": "b513e1d4cbab46b21d9d49fe9c0a869d94ac802c79816fe861f08b933bb51be3",
+    "assets/category-products/vc-0524a1e5dd9b.webp": "14b08a5e08116b3917acc756f07650f66117b705c1f864de72151804584c3167",
+    "assets/category-products/vc-056c72b53245-480.webp": "8138dd16373f09d3579911c874495c466d28792e1854b666f1117c7f4888346d",
+    "assets/category-products/vc-056c72b53245.webp": "39b11494841c71bdd8ebccd9ad0ab3cf8f7b8dcae91e960d8ecbab1c561d2288",
+    "assets/category-products/vc-05c02ee7f399-480.webp": "999a71e781ddd94abe04e49f09acfc1b1b9d0956fe65d8213b498f64c4f30a62",
+    "assets/category-products/vc-05c02ee7f399.webp": "0f0f6ee62baa14fe394675e42917e14da5da77395dd931e323377338f3c1e6e1",
+    "assets/category-products/vc-0637cd4813fc-480.webp": "f757a4f31fabbea6af9eeb29c04c2c554b2d79ff7b0737f09c103d504f45a100",
+    "assets/category-products/vc-0637cd4813fc.webp": "681ab049383cf4e18107bdd096ca82b8529d6aaf032e5e8f30f1e437adef7050",
+    "assets/category-products/vc-071157cd5ea7-480.webp": "ca062d803be9c3039e195fdd0c1bd88054c0165596d8ecc1c10b1e7ec485f68c",
+    "assets/category-products/vc-071157cd5ea7.webp": "75c20fd0f371f0b7f9b4bd65f459e709f9204a7a1e6c994be40dc1867f4f970d",
+    "assets/category-products/vc-0b2cd003480f-480.webp": "1d9df61f3a86bb15360547b36e671134f68a2afd8d9a6db8260b82d8cb508a9d",
+    "assets/category-products/vc-0b2cd003480f.webp": "ceb8423be5f86e511a13442e7a29ad7191cf2b02d3feaa68f1b09eb62524c313",
+    "assets/category-products/vc-0c4dabc6d1e4-480.webp": "a06f4fe5b822d797a00cd807c95b672c3ddc52c54cda9d7cbf8e00736c3caec9",
+    "assets/category-products/vc-0c4dabc6d1e4.webp": "76437967746f8d7aad23fbd6b04f18a2ffbc5ecba5c2d34d272b93604397cc2b",
+    "assets/category-products/vc-0cad4902cd84-480.webp": "d738599ccb73e6df54dce6c41d874fa031c63f21139fc2a4df7f863f9782eb3b",
+    "assets/category-products/vc-0cad4902cd84.webp": "460977214ac079d1fc9bbbd4901bcd205a83423cd6c39d7ed2a32a5efe97e93f",
+    "assets/category-products/vc-0de23af135be-480.webp": "266a12d9a48bd878c94d0d1c11a94bd539ba4c3ab380b6d9d5f0ad2c5b5f76c1",
+    "assets/category-products/vc-0de23af135be.webp": "1d7f6051ef1fb66c3efbe887a456c7c6343b705c2716f77bf8b4855772591705",
+    "assets/category-products/vc-0e975ae37867-480.webp": "046e10e8dd9c28c6d1379700d695e30a241252916f6b778b97c8980779fd3783",
+    "assets/category-products/vc-0e975ae37867.webp": "1bd6aca7d13562ff49429a28ca70f49233cd65415346c391d499f44f6f5d3477",
+    "assets/category-products/vc-0ebffb654c40-480.webp": "a92d1e9a7defd0546d3b3a5730f59dc4da646c39a5ad79f19e2e24d95729370b",
+    "assets/category-products/vc-0ebffb654c40.webp": "e59340ba6e020b444d81eb426fb3302f5f7e5bb065e9473a99cedbd0d25edcc1",
+    "assets/category-products/vc-109870ff866a-480.webp": "8c205131a21216f1b4cce72d07fb8867a788a1a0b1f7b7738c447fe6708a5b14",
+    "assets/category-products/vc-109870ff866a.webp": "b47189657f900736ce9f2f4c99d70db934a3bd8bde05e03dd19b5ac6428afc54",
+    "assets/category-products/vc-10e447373961-480.webp": "d4509e56efe7a7478d33a9aaedc320aedf052a5eb7d9925096e3f62a9c92a5ad",
+    "assets/category-products/vc-10e447373961.webp": "15ef62aa97e416a8da0d6bb5e355ac4d621e288c13086763132f2a64b761154b",
+    "assets/category-products/vc-113519a2bfe9-480.webp": "1a0bacaf9b9df7b197e4b91dbc31c72352b309226125675f2bfb642447c7cce8",
+    "assets/category-products/vc-113519a2bfe9.webp": "a717088891d897970fdd630c833c278cb381e1226e759ff5849b674179326c59",
+    "assets/category-products/vc-11a32b18257b-480.webp": "2ef7432775fd82294524440991144a89aa227fea685079523d4477755dd89f5e",
+    "assets/category-products/vc-11a32b18257b.webp": "eb6b127af45251d1a777215bb00695de050ea8d841f7cc004f6d87067433f48f",
+    "assets/category-products/vc-12ebf5bad31a-480.webp": "c2d3755571ba9c19839ed5f6083e70a0357b3bf2749b629c8dec584f744860b2",
+    "assets/category-products/vc-12ebf5bad31a.webp": "d2e91bc1b60eb35dd64f131e4cbbd5ace7f1bfd37f4b6246641cb024e45a096b",
+    "assets/category-products/vc-16a2ec20773c-480.webp": "2caf1295a50d50e22d218df896e89a8936863f90171327c8d09da2bd5c8bd7a7",
+    "assets/category-products/vc-16a2ec20773c.webp": "dd1242c14fc1cf1f4364eae79d8ed0a4699b2b3089b11f91828f160e118bb33a",
+    "assets/category-products/vc-199468006b3e-480.webp": "6adadc810aad2c99d7c1467857ac2038a146260a342a30777bc96726e51b9202",
+    "assets/category-products/vc-199468006b3e.webp": "1b0a96363b75267b442196673d3d474b6bec0adcc0a59b1e6c3971f372be6d0f",
+    "assets/category-products/vc-1aa6c21c4bcf-480.webp": "c625b90830985e5e44c2a046cb9587e93f721e11de5e572ec88c05a66f94010f",
+    "assets/category-products/vc-1aa6c21c4bcf.webp": "76aee5d031d2b8343926b08293392001da4fe67ca87a61eb8cb914d961e9e134",
+    "assets/category-products/vc-1b4d55e90011-480.webp": "b71d23988cdb097299d8fe9fe30cb2a7786bfbd656dd1db4721e10f919b0993e",
+    "assets/category-products/vc-1b4d55e90011.webp": "4c228e508e09aad011cdcf87ad2574920a049a40fb8af4adea3b711cbbfa4afb",
+    "assets/category-products/vc-1c3b1fe9ecab-480.webp": "49aa72d31b645a6d8335788808e3757d6d9d1889531e74a4b4746c47a41a808f",
+    "assets/category-products/vc-1c3b1fe9ecab.webp": "172d2db84b368d4230494d7572df875220211196be8b5fb43a0f40e4ca4ae643",
+    "assets/category-products/vc-1ce7eee70eca-480.webp": "c88a79589cf7cd78ec592120fabec15712c2966a39808bbf495f65ed16d61407",
+    "assets/category-products/vc-1ce7eee70eca.webp": "bb97e176d925b9f24bd99523f93db8a7bc0c8bc1e900545e9770b4c4f8f84c90",
+    "assets/category-products/vc-1d849595fb7e-480.webp": "8f5387a8e58cbe8a7733a3c706ef04a8d0dde0d913d99fd34eeb6454aa4a1107",
+    "assets/category-products/vc-1d849595fb7e.webp": "6d65f634d82b3fdad93eac4228ff2b8ce65b7490b339bf64bf6fa6f39ad6a11a",
+    "assets/category-products/vc-1dee5d675287-480.webp": "573fa820c619ac15f0447a208fb599673613a19a8b0b674ae1409c659f8d3cff",
+    "assets/category-products/vc-1dee5d675287.webp": "39b31758affd4d4baef3887adecff3555b61d95bbab6f6a80c5e0ca42b081d41",
+    "assets/category-products/vc-1eebd6767076-480.webp": "e0fd6eca7b27528e76c066e69a30f6311c1090001013aa43ce1892f39dec67d7",
+    "assets/category-products/vc-1eebd6767076.webp": "bcafcfad9acce2f86c364871dd2cc0d500adacd4f5aa625ab74ddb33cfc67bfa",
+    "assets/category-products/vc-203dfdb0df8c-480.webp": "265193d8006f4efcaa19a02181c32e4b82efd612181e70b430afd9362b2f8eb5",
+    "assets/category-products/vc-203dfdb0df8c.webp": "aa835ab3e9c9cec01fd10769ac99f947bb3d45f66490268a274c50d7aff70507",
+    "assets/category-products/vc-21731053753e-480.webp": "cb9c6474519fa983f6cf71fe198ba7b114cca2a9001b76d4edf1702c64d61112",
+    "assets/category-products/vc-21731053753e.webp": "8af4538d7d187efe49e29ce0bba3c12f25ee1c5b55c5f9c8fb35dab14b187951",
+    "assets/category-products/vc-247688cdd9ce-480.webp": "60df7d5446c5e2e38a9f590b06f0365aa97c53492a49dcf158ea45eb6346e0c1",
+    "assets/category-products/vc-247688cdd9ce.webp": "6159dc145b2f1629a6ff7d3fd02eb8c1ada553e5c7ec04ca2b87935078fa4192",
+    "assets/category-products/vc-24fc04a9b151-480.webp": "3943d1a98a5b7adf042b5b7e312a8e47d578daafa5184f85d9117a822dc15c9b",
+    "assets/category-products/vc-24fc04a9b151.webp": "fae16debf37556d6312289eaa015c537f99c2be1355be980e13519c4bac4ffb6",
+    "assets/category-products/vc-27bc992c39c8-480.webp": "175b96696329b207dc33a64696d5557e7440cb1697adf3b4dabb40d30de63697",
+    "assets/category-products/vc-27bc992c39c8.webp": "4e948d96d09f4ded69867e8f7114c8ef25d1328684c0d36117f57049b04a3e3d",
+    "assets/category-products/vc-2b79447e52a2-480.webp": "3d2a4e614a6283f949e31988dccb8de5815bc71851ae91ffa335aced75217944",
+    "assets/category-products/vc-2b79447e52a2.webp": "aa6f01284861af1401a276cdc21248327f6d5fd82e7930b1541d34316ac451f1",
+    "assets/category-products/vc-2c3032f9eba4-480.webp": "6fe1c39ec130dfc39456a2e9e7737bf890d2d3544006e629dbbba62d68fb3220",
+    "assets/category-products/vc-2c3032f9eba4.webp": "f004a804cfd01e422c500a16a8689d88a7a6aef8f14bd6d3e8cc3be3d05639d6",
+    "assets/category-products/vc-2e180546b6a7-480.webp": "18e7240fe4870a407fb721ab621d837141b2e67308f03b2693b2e82d34bedb35",
+    "assets/category-products/vc-2e180546b6a7.webp": "e2ce2342928c91754db0d74af2045b2e494046774c3fe7327d6f301cc624519d",
+    "assets/category-products/vc-2f78af775eaf-480.webp": "6bd6ac99e38fd9c55204e4433b1aa8bb173c45d804db318fbafd29a943fc8663",
+    "assets/category-products/vc-2f78af775eaf.webp": "440805011526e6f8e9089af9c2e27784297e144a5f66b42e58edf455cb2a7d48",
+    "assets/category-products/vc-2fec4c2e5bb4-480.webp": "c672f725111a1bb9e2462cfe5d6033c000d222a8a7fc53ce70a2d4a34b6bb8b4",
+    "assets/category-products/vc-2fec4c2e5bb4.webp": "11177decce00e5434b1a705026360ce2ca96c72aa3513fa45902478807c5ee7a",
+    "assets/category-products/vc-3340251f6635-480.webp": "aa0f2c6f79d0e2c169f11fc37377196a36a3b5d428702ca5bb4bf75ca57d3850",
+    "assets/category-products/vc-3340251f6635.webp": "8cdb6f75d1bec7e20880f027e5a27244d509b39fa22755f988685a9f3cbaef29",
+    "assets/category-products/vc-358127942c83-480.webp": "76140d1d115847cfcb8f4cffbfa7cc8186e3c7d9de4786040217cf78ac4b9943",
+    "assets/category-products/vc-358127942c83.webp": "1e3169a922e2d1241ffdcfebc991b6b3854195fe8afc1634acf1f1ce0fc2dabb",
+    "assets/category-products/vc-3674611395cb-480.webp": "d85d67e4ab4643aacbc4c32dff8ff5cfd56178a99316a1c2aa6bf0541460ff82",
+    "assets/category-products/vc-3674611395cb.webp": "816cfb1eaccdc20c0fe41cac8a6ebde86e89433dbfc71740ed9fd7dc300611f0",
+    "assets/category-products/vc-378709a8fac8-480.webp": "5e1f85e62f79622e9493771a2653637f9bf9fc48c097cdced56e2d97794e044f",
+    "assets/category-products/vc-378709a8fac8.webp": "0dab22b426f21935d242f8d0b4c707e03217acbe9984111f6fa0c6d0edc19759",
+    "assets/category-products/vc-3aa037dbc537-480.webp": "bbb41dc767bae08b784eac815151050c19f1e71427f2cd6b4ba6bf45f2422d7e",
+    "assets/category-products/vc-3aa037dbc537.webp": "52117fa928f75aa52cb16cabfe54800dea403b5b4853faf4d0160d50cd8847d5",
+    "assets/category-products/vc-3b2f7631ecf8-480.webp": "fb099e11bc60352abe146862e4d2ac92f15c27ae66ff0a7b3c49cc47147e150a",
+    "assets/category-products/vc-3b2f7631ecf8.webp": "6a51474b03411a98f724053d7bdc42b393b916d0b3260335ace207c89306177c",
+    "assets/category-products/vc-3c3aa4a9cb79-480.webp": "baf5cd52be6ce60a400b3bce362b387053d3f425d64ab44feb541e96854d6350",
+    "assets/category-products/vc-3c3aa4a9cb79.webp": "104cc5a7248ea0ee8b1130585e2aa7a453259d61c412c17d8729da69fbf0df2b",
+    "assets/category-products/vc-3c4da636720c-480.webp": "436146200de6ad4204ab03c98729f7465701e03513b316e1cb6126745a0f998e",
+    "assets/category-products/vc-3c4da636720c.webp": "79cb6683c6b9222fb25b719e61bc9b421da676e1c62a864774633e8d762e8742",
+    "assets/category-products/vc-3c7b469d9562-480.webp": "5a541633ced3dcbfacd76f13f864ec8bae56928def7f643b8622c1e6c03c8be7",
+    "assets/category-products/vc-3c7b469d9562.webp": "8fe2e7290f003fed39d75e551a302f2feb72f7d761e20701cb23d1846e8f2c63",
+    "assets/category-products/vc-3ef15654056a-480.webp": "2e81073129a85164a45056aec318144c6c6241ed4d3ce08c7bd84d5a0487ccfb",
+    "assets/category-products/vc-3ef15654056a.webp": "80bd40ede411d0d42b60f9fb3376dabf590f0b25279ac8595a6b8ab3cf57d764",
+    "assets/category-products/vc-3ff40002e59e-480.webp": "0cb8d8a0829d301bbde5472d17efd40089898451dc9a69d063fb9ea0143e603c",
+    "assets/category-products/vc-3ff40002e59e.webp": "a40a5a724b511824d1dee67e0455f48e732ac5d8a7250c2d52c695101585f1cf",
+    "assets/category-products/vc-44c82941a5a7-480.webp": "e0cfda6fe34db1b2c20226ebdccc264065139a02559ac2dfddc35feee2b01a3f",
+    "assets/category-products/vc-44c82941a5a7.webp": "91b4ba1c9d18be129c4f532ab6fa272d0bc2c4596bab9fa17023f8c4610cf7c4",
+    "assets/category-products/vc-4723406626a0-480.webp": "459c806e90665772fd94c8e564415cc053789475ab3a1b3c512d62ce4b4f1ef8",
+    "assets/category-products/vc-4723406626a0.webp": "690a364cf1aa6a9e9bbe1588632395e2aed72707e8c2f7c7ae678d9ab5372e01",
+    "assets/category-products/vc-490ed59fe063-480.webp": "ecbbbd7f5fefeb7745e16c6b965ae9e12c165c0d87a8f42f1742dcdc81fa6d79",
+    "assets/category-products/vc-490ed59fe063.webp": "40c97b10a44a474b14a5138f8ec37c35b669173ca413de30a6c51dc26865b10b",
+    "assets/category-products/vc-49f97e849524-480.webp": "872ccb9d85494b8c05745a747cb77a3d6b8860fc188ae735703f26878c5f0ac5",
+    "assets/category-products/vc-49f97e849524.webp": "93fa43d2d9a78638af62bdf60e459fd7e2f863fa125946c6f808e830283781f0",
+    "assets/category-products/vc-4ad72f5b3b7d-480.webp": "af7c5aff8485e0f421feab6913185e5aa91883a63d0b6e7c102d4e241afea239",
+    "assets/category-products/vc-4ad72f5b3b7d.webp": "82e88f585f76f126f4dbb69be1e8168fe062e8b11809567dc04cdeaca14a21e6",
+    "assets/category-products/vc-4d806d83471e-480.webp": "e7ef677e0cead4992d94b887b5ab0387b4fe416e4fb85fed12c0dd0044742b70",
+    "assets/category-products/vc-4d806d83471e.webp": "f85ef218645062eb90cda5751d05a4a8bfe2a60b574aade50c835cae7ca0db8c",
+    "assets/category-products/vc-4e51bc8afb20-480.webp": "27b11d361a6ef13076e66c2a35dcb112a4dac0f3d7bcaab03174b9170926c801",
+    "assets/category-products/vc-4e51bc8afb20.webp": "a94bb5e8dc597938a895eb7118bc9f49c49e3ac9277956304bc6b66a7b47eeca",
+    "assets/category-products/vc-4f0ebb93714e-480.webp": "79c691840adffa8da456e48e8725129c26b52c5a8d18ef27d49fcb9279fe3fc3",
+    "assets/category-products/vc-4f0ebb93714e.webp": "388c283bebe78d0cf2bbea81b376743d349d8219edb24277b5b2bf2ec7d65eae",
+    "assets/category-products/vc-53b30ba559c1-480.webp": "a2e20af32ceab3ead663c0982ae48287ba3e1345a958bf143aaadd547d02bda1",
+    "assets/category-products/vc-53b30ba559c1.webp": "8068b184365c76265254c14ad9d6671cf324767dd269c7310ff553eb08f7a619",
+    "assets/category-products/vc-5409403372b3-480.webp": "95db89ff899d0d8cfd0c07b8f26ff880d8d80a14c490de7f437284c7790d0b04",
+    "assets/category-products/vc-5409403372b3.webp": "efccba66c83c6a90ace2fb6d4c6973c793f4bf5f8e268716523518189f311c5a",
+    "assets/category-products/vc-56d928b4bd6b-480.webp": "f77261fca65ef9f565c233ca03e393d1b2f9c08adfee2776e2e1e6fdf66134d0",
+    "assets/category-products/vc-56d928b4bd6b.webp": "10684b3c545d7a701b17d3543b81c9d2d801cd8bb9e196d9c66f0a8057f0bdcb",
+    "assets/category-products/vc-57671aaa3e6c-480.webp": "7a05a312160bf566d24685debd1aabcf23353f4b488be84b6eb7a7e7500c3624",
+    "assets/category-products/vc-57671aaa3e6c.webp": "460857b0ad3ac6aa2d3712fef378ad3f16275a0438b49a537fcdabebe89e5d22",
+    "assets/category-products/vc-5848e3bfe5ff-480.webp": "e56991c084a06cc96ee5abf33564264e8579eae1ff50ccd57fac394fbbab099f",
+    "assets/category-products/vc-5848e3bfe5ff.webp": "29f9734b8f03f4f8b2abc640b73878be886e9dbfd1c213ec9259bdb243278879",
+    "assets/category-products/vc-5981c123c622-480.webp": "4250fc3042640812892e202f100ebf744b04b5eef983100389113a188ca1c131",
+    "assets/category-products/vc-5981c123c622.webp": "471bae5b6b309f65700af0797352817a91130a6fe6c30a6ef191bb02ae33cef7",
+    "assets/category-products/vc-5bea98d9d301-480.webp": "2feff8caabc94a40c07e2a998d75731a15eaaafbb668576b89f56c4fdaaa04dc",
+    "assets/category-products/vc-5bea98d9d301.webp": "c50411a20760f8056d717958ceca9040b6bcee4c4be2cb40da4c54088aa583cf",
+    "assets/category-products/vc-5cae574ad359-480.webp": "b96e99a40d79f675ab6f36cfb751207fbec9d4e1b4b6db3100e8f6a2e45cc90a",
+    "assets/category-products/vc-5cae574ad359.webp": "1e14460a69f8b7045137a63252ed96b1366fc7c42bed7b6285c2d56c29a2b41a",
+    "assets/category-products/vc-5d3ae4b750cf-480.webp": "aa801400b4a58a18dba0c2556ba90d7d30af92b2c3d6d531fd747f577de0eff2",
+    "assets/category-products/vc-5d3ae4b750cf.webp": "1a2469d2f1e96d3aae50025b81889010064407b4dbc3c360a12d18e7814f7185",
+    "assets/category-products/vc-5e113ce4a3d1-480.webp": "a71ddd6224b95c27acb888e3d434cfbc16b5166037ed92e0699f31244d42a78c",
+    "assets/category-products/vc-5e113ce4a3d1.webp": "5cd975b56de8404793f8d21e8edd87a92eecd72c1f4f5a433436dd774074b89f",
+    "assets/category-products/vc-5e17d699858d-480.webp": "37582cce0584d32642c70383856f23630a23e07277eacd455325fc3838685ca3",
+    "assets/category-products/vc-5e17d699858d.webp": "678d09b8c4853b106d229807ef03e5b102bfa5101be5321a082728258e8787d1",
+    "assets/category-products/vc-61a121785dd6-480.webp": "77891a0ecf9215073e30d7d4fa4724a24ccfa3a3674fe3dfc02a575a5d5d18b3",
+    "assets/category-products/vc-61a121785dd6.webp": "b72dc84ce86caa4c0036605fb65faea151672abf9daa8491f2cb58eaffc0321c",
+    "assets/category-products/vc-64f6106f243d-480.webp": "58af74ece6f978a938908cc45ce98b3e6fcb12b89c5d33a92f3ba9c264248b0d",
+    "assets/category-products/vc-64f6106f243d.webp": "2c5c8ca0a2c3acd5c3b72b2d3c94f19fc0b5ba7b30df0f97cc27c4c52d75a954",
+    "assets/category-products/vc-6a1df525b573-480.webp": "fb503a4c48d5f30e8d44da5e7d41a2f141a974fde97f11815408221ea7c2dcf3",
+    "assets/category-products/vc-6a1df525b573.webp": "67cd0dc172608ed80a22ff8cd0da563fe26ee3809ddf5050de16a174c2605fc9",
+    "assets/category-products/vc-6a75966583d5-480.webp": "1623347851f8a7bca2a25ff3bba087c30dd98808a7a55049e0580b9b6eced07a",
+    "assets/category-products/vc-6a75966583d5.webp": "ddeda4658d39fbb4cb30b2ed43244429bf31eb2cfca1dd0be43a76544f2f2ebe",
+    "assets/category-products/vc-6c1fd5e6cf50-480.webp": "9a556f1adb58b0c8292b825af90dcf0dba36276a1d6b60034a30526c50023721",
+    "assets/category-products/vc-6c1fd5e6cf50.webp": "a9ae9677a46de9d958f7d18a7301353a061a0e1211fe782dbd0499a9cbfc9999",
+    "assets/category-products/vc-6f1b80ada327-480.webp": "0aee28cbe9c654cc25a372cc6d46434128c2c1e6cc1d9e29445c64ddd5500e2d",
+    "assets/category-products/vc-6f1b80ada327.webp": "240ffc3ab1d44e1ae5234b0303e9625a26e1e3276a6572d3448cd0798e7b8320",
+    "assets/category-products/vc-6f37a1d50c24-480.webp": "731a4fb2c308219b2bef345bd2364c1ddafbb45486fa5b7b63d99256cebfa7d6",
+    "assets/category-products/vc-6f37a1d50c24.webp": "97786ae2c54d1dedc57b580d0b2e3721bf93d72b2d12be197cd7c817c27be74c",
+    "assets/category-products/vc-6f4679fe6b49-480.webp": "c640c085b4c24c877ef25b76353e5ae0e5d8c9c43f766f9fdb99eef73cd74bee",
+    "assets/category-products/vc-6f4679fe6b49.webp": "68eea6a4395d6d315bc793f433bef6c49827245ad190c3e88084bce0a277e6aa",
+    "assets/category-products/vc-7071c9d9e328-480.webp": "aedff83e4d8c1bfa81782d5ff353a44ee91d1525b484811caf19afc947759a2f",
+    "assets/category-products/vc-7071c9d9e328.webp": "2bd7e4ae61e0d386a164084db360693cab471471f2abd2bb96acd5427dcb9248",
+    "assets/category-products/vc-716caec29f5d-480.webp": "7df5f165d25750c21473018b4896797d8ee08930041f2da4cbc734c98e787dbe",
+    "assets/category-products/vc-716caec29f5d.webp": "9d62909bb677aed4dcc69a7879cdf3fd7876d868c2115bff272c28471f23e64c",
+    "assets/category-products/vc-7190fdb7701d-480.webp": "59e88fb83939d8fe425847a4e8b3fcd87446bfef9302594ff8394647b36bbcf0",
+    "assets/category-products/vc-7190fdb7701d.webp": "57649f55e23a36bb6c421038193dbc886af57defa92423767a758357416863f6",
+    "assets/category-products/vc-71e508682b71-480.webp": "dcac6fa4a657f87f82f980ab56273d971ccc4d77f2af4a76a1e3e8415481ce37",
+    "assets/category-products/vc-71e508682b71.webp": "378cecd4e5660bcc4ced9bc615086e2d43e14f55f10239b343861b23328019ec",
+    "assets/category-products/vc-73c910c89646-480.webp": "c13b156e4a34a6937714130d6e85f9f07f67fa4842db3007c58892b493572b4f",
+    "assets/category-products/vc-73c910c89646.webp": "2f91c3b1d087e1a7ff352298cbd6d8199b09d7d7c396498afa197d3b0b6370cd",
+    "assets/category-products/vc-73f9e38c7d81-480.webp": "f7c20219ea395e7f335a1462ff0c6ac42222531a302ce65530531b6e96d05608",
+    "assets/category-products/vc-73f9e38c7d81.webp": "cc2c4f5366eff414671a577e22b4462e3df2e957f129117d9a41ea0676c56da2",
+    "assets/category-products/vc-75609d25f7cc-480.webp": "b475729657d2853c7e820af6b9658e7ea9d5fd42e23c349e841feb6fd7a21483",
+    "assets/category-products/vc-75609d25f7cc.webp": "45d8a4af17507cc8052174b5ae0c77df0aa53e45fa5a548d51446ad72b63825c",
+    "assets/category-products/vc-7563a08a2726-480.webp": "75fae493ab503efa39dd6605ba28466afd915cb5e3be3e818c2c652a93c008ac",
+    "assets/category-products/vc-7563a08a2726.webp": "89de8c0a99cb442efa2a7afe18e8ae1418df5610862315a9d79abb81d001a54d",
+    "assets/category-products/vc-7973df5f3b41-480.webp": "bee3c4ae28716f1cc57d00a18a46369957bf452d8dfb4bcf9dbbce2c6b7662d6",
+    "assets/category-products/vc-7973df5f3b41.webp": "0f247b841971793993ee16ac6e060ef47c15fcf4989de15b647afdc7b1c2275c",
+    "assets/category-products/vc-79d0d41fb1be-480.webp": "c9cce67bda717708698d17b609de2d16a4cdca161ce7322cee79afa1dadde518",
+    "assets/category-products/vc-79d0d41fb1be.webp": "b6225af4116dfda5773a46324e5c058ce3d9e5899fe4ee41881822b53d1a4e9b",
+    "assets/category-products/vc-7c4057012777-480.webp": "1a4da95f8f7fda7cd0d8cbb5b41a2f2561f15b646477e4f8de8fd82d8c3835bd",
+    "assets/category-products/vc-7c4057012777.webp": "a05ea35224c7746ff310ee01daf2d16b4e4bf18e9bc249cd015cd6954246bc92",
+    "assets/category-products/vc-7e0d9a1de303-480.webp": "e56c953d26776cb8fe23744ea5b14910631003d7f0f1906c1d2481884179e70b",
+    "assets/category-products/vc-7e0d9a1de303.webp": "46cecb3eb659a2a04e6abe85e1ae3219c8b00ea79c6f2791677c8960f5682940",
+    "assets/category-products/vc-7e73762fd493-480.webp": "91292c9365fda23bd74059b3f4d94dabc91e6bf407b46ad4bcb2d858fca836e3",
+    "assets/category-products/vc-7e73762fd493.webp": "e6f754c293e38e917485b5b39d226e57fed994bc863a0c1143a8db6ca12ff9ff",
+    "assets/category-products/vc-7f675e56b40e-480.webp": "c1eed34cd5011ccf3190353f7e8cb259dee57174d8b14b2680f631ca6b02acbe",
+    "assets/category-products/vc-7f675e56b40e.webp": "1d3a6d7aaa13dd3ab0897e854435a18e23328198f5ba2f527b64a001d34a4be9",
+    "assets/category-products/vc-80ae5d3749c5-480.webp": "c868595250265a944b384978f773228ef40cf6176dd7cd9c7f61fc0241d18ff9",
+    "assets/category-products/vc-80ae5d3749c5.webp": "b7b96d55ae8d30227547674fc2866287f27a73bf4a4cd173c6768a2e6582e07c",
+    "assets/category-products/vc-80bf57dc3c99-480.webp": "d58296ee7ab7b9085b6a2e20245db1f5cd4fd90754bdac63c4eb58a9d49f4939",
+    "assets/category-products/vc-80bf57dc3c99.webp": "3794b4fb11e5eed683e9deb9a066bf2f33d1e32ec74a59ce58001588112719f2",
+    "assets/category-products/vc-87395a12b59c-480.webp": "2258548301215542041f53f96a3ffd966022fb78924067ecf281fba4f9573646",
+    "assets/category-products/vc-87395a12b59c.webp": "f5537cfa06ee1fa2a81b2cf4cb99f5fc7468f5ae3f3b046bfce4c4fe53b3c8c2",
+    "assets/category-products/vc-883a2e3553a4-480.webp": "b63557d1e4ba318661177d83c10456963c457cef2ce6958530559ebc0a061bb1",
+    "assets/category-products/vc-883a2e3553a4.webp": "3ff70ef5959046b73df178e0b897e86fea1a490f9bcd71f9ae5fd0d46d5802d1",
+    "assets/category-products/vc-883e47383d16-480.webp": "1deef52c66272e643c828009bc68e8bde8a560a5bc8735ce14862bcb1055e5d0",
+    "assets/category-products/vc-883e47383d16.webp": "f7bcc9b76d4df7f9967dd6b073ddccdee45a80e385ad10e4979f02496c8d352b",
+    "assets/category-products/vc-888fd10785c2-480.webp": "4d7f5fc164e5a328e21f4f1fedf0151c1fe014b76e7304757c665eb7921a5acb",
+    "assets/category-products/vc-888fd10785c2.webp": "23864dd5f9af92e1a97b57b11ce0b2f1a4c555d956f0432399d894c58edad8b7",
+    "assets/category-products/vc-88eb6765c171-480.webp": "976de724aebba7cf13df2037a54787c7503e0593b2721a90231be0c0fc78df4f",
+    "assets/category-products/vc-88eb6765c171.webp": "3a3cdbdffc57fcc2db3a21489ed15f26d6a2804f6a118860958747cd55f033d6",
+    "assets/category-products/vc-8bcdbc9a824b-480.webp": "fa8a8138620b2ff8aea6b2167f8749e2e8083b07014b698516f2f3b82d3a1cad",
+    "assets/category-products/vc-8bcdbc9a824b.webp": "d921c9daf36bc5c8605f1c26b0998cbe18d0e112ce111f60e317458a2456d6db",
+    "assets/category-products/vc-8deaac2b0433-480.webp": "62c8581841c7c7d2dc5b42d6ed978ae6f6236a99dd21f045b789369ff274fb4c",
+    "assets/category-products/vc-8deaac2b0433.webp": "10cbc8a32affd48e2b0d753da733f361228b80bc369e715b632eee91c016f59e",
+    "assets/category-products/vc-8eb34cb7971f-480.webp": "d5087210b1ae2196f0fcba3bf828e2ad4b4deefceff57d617e6421ac0e9cf1fe",
+    "assets/category-products/vc-8eb34cb7971f.webp": "d41f950b74f4a811c4452b53553ecababe3b650ec3274fe6e9264eac35cada6d",
+    "assets/category-products/vc-8ed04f5f9e59-480.webp": "7a4eb3dda378ecf15e3bd3535cc48ef67e295cbdace5c263b14abe4151a1593d",
+    "assets/category-products/vc-8ed04f5f9e59.webp": "13797eeb896168b800aef4cca3252a01bda9401d3bddfcac25a1d688a0fa8669",
+    "assets/category-products/vc-8fa3eea7e89b-480.webp": "7451c2b47d834ca2fde3b220627fac674fad44af03cd7d8831d3beb653a1f0df",
+    "assets/category-products/vc-8fa3eea7e89b.webp": "41f5fc39e78e6f42686273b0a8874cac9b502b7dd618b9de41102877ffe2a367",
+    "assets/category-products/vc-90b6a7c5ebba-480.webp": "051940de988fd24e2eea4be9bcb28dc06a91ff8a7f5ea1341f29dd2eb4095b64",
+    "assets/category-products/vc-90b6a7c5ebba.webp": "bd4345b1da284475b74fa34008ebd30f2d4fee50e0712fba5275c01bc7cee45e",
+    "assets/category-products/vc-9225956d1c42-480.webp": "b41fe5aaf4c256138a86a36f8efe3fd701416f03c9cf293188b8432021d7bbfa",
+    "assets/category-products/vc-9225956d1c42.webp": "6e1149ca41f4b7fb9cc9e2e58369e1c32d180f3e8bf91fdb03541c7ce644e067",
+    "assets/category-products/vc-92c29fc4fe92-480.webp": "394c24e269c009ebcbbf9c93e6225f77a0068a0a2eae2680ed4cc3ab674b7ef9",
+    "assets/category-products/vc-92c29fc4fe92.webp": "44c8235592182fe1cdd49f1e3f7162063ccca039f6f3660dfa500b386dcb3d3b",
+    "assets/category-products/vc-932d27b30683-480.webp": "b54b62648d1eae52ce820d48ff1204d5bb1421f3d2c1a43b8505d89bcb30714a",
+    "assets/category-products/vc-932d27b30683.webp": "aec9b0e40aeebcf76193283a2314dc61eaef373eb6ddf436f36e79cd766c88d0",
+    "assets/category-products/vc-941fdaaf7657-480.webp": "311e49858157fbdb62c21a0da422b14fe8f616945dd12d05a414ed3923fef22b",
+    "assets/category-products/vc-941fdaaf7657.webp": "13afc1bd46218fd0be4a5acc4dfb7ff13841c155c09fa99edd946ac88c941333",
+    "assets/category-products/vc-94c25215924b-480.webp": "5e2222b3b901cce883cb206353d7c5f0a8b05ef708b7991cf42e1ac50ec5be26",
+    "assets/category-products/vc-94c25215924b.webp": "04c665e67e2b772c9bc66a909fd76034cdedc08e5722be71d4cbbff766cec0e6",
+    "assets/category-products/vc-956263c20f74-480.webp": "76529aace17b43e85a44e89ade7e0e2d46adbc527bf547b2a679157e05f94da4",
+    "assets/category-products/vc-956263c20f74.webp": "f5a622e2cd5b539cf91177b2bfe768775ade561768462e4707a3c51d952a05c5",
+    "assets/category-products/vc-9568250d3443-480.webp": "c9b11b00c42fa69f3e011bd02d2d9b4e1a03f2d9a0ad15e05434931aea624e2e",
+    "assets/category-products/vc-9568250d3443.webp": "59c94a6f311d1728ca28668264b4b14d3f0457ba96ccb91bb60cd128c2c88365",
+    "assets/category-products/vc-95fd061203cb-480.webp": "248fb9d213926994f3217e79b8f35ea58e673db3c75008c8eed874be5748f67d",
+    "assets/category-products/vc-95fd061203cb.webp": "273396cfc79b09ab26f6e222553f99e5d584126a11ee0d744e961dee63edb80e",
+    "assets/category-products/vc-9613257581c4-480.webp": "5d709577d89e351886f4b34c3917e16ba9ed602249f443b8522c335adfe3ae29",
+    "assets/category-products/vc-9613257581c4.webp": "9151490002cf13a24e7c2f7e1a3242be73095afe25fc971aee9384ae857bd1da",
+    "assets/category-products/vc-9704357ab2bb-480.webp": "ec87c995a1fc66f046fa12ca48191f08d046ae5b3ec5a25607f476b125917d66",
+    "assets/category-products/vc-9704357ab2bb.webp": "3650b96933b37146514247d0bc2406767c7998fa893547728f33d27181d59ecb",
+    "assets/category-products/vc-9745102b3d39-480.webp": "9c438d4f3a7ea80d0db85beffca3ad593858940cfe419a964385af8b85e73467",
+    "assets/category-products/vc-9745102b3d39.webp": "010909fcaf2f8ca247323461c9f54102aba8b2a1a81438709dc9155a6c331bd4",
+    "assets/category-products/vc-9763e4ceab60-480.webp": "67835bae48107c18855560af952d3bc41993a027b8ae0b3da0aebe2bf804df4a",
+    "assets/category-products/vc-9763e4ceab60.webp": "a49683870f35679b1984667a2712e9ef36514f660b06c477305f3dc5292d76b9",
+    "assets/category-products/vc-97f239bbd6ef-480.webp": "3060163b9b7852e7bfb955bcef46809be9bc3fb0dab89520b449b57563b20714",
+    "assets/category-products/vc-97f239bbd6ef.webp": "2fc853a4e6ff0f02b0609f37970de485d9cc701341584df2571b44af6b82db83",
+    "assets/category-products/vc-9b04765ffd47-480.webp": "2b60d1afc4d47f95d8b7ddcf3dba18b0640f45730ef4e144128d9f26e8666445",
+    "assets/category-products/vc-9b04765ffd47.webp": "4e8262a3d7b63473595e655ab11166d03ed71694e82fc27531fdc779ced0e8be",
+    "assets/category-products/vc-9bad9ce0d7e1-480.webp": "4a5720608f1d7eb515c41c6aca4772080097ad676f43ca84a1c6ff4b5278176c",
+    "assets/category-products/vc-9bad9ce0d7e1.webp": "b07133bb25207cde05c005a8590ac3a79dd840aed2dc4c2147f278823915f53e",
+    "assets/category-products/vc-9cc0b0c42f6b-480.webp": "7fbf1e8dd6e237233b93ed91b5275ef0111baaf6103b7c39d448ead8b2b6eb68",
+    "assets/category-products/vc-9cc0b0c42f6b.webp": "248b5abc2ea3fe91a5430b9600cae85a591c4a1e5642e4083a3ec298f71d2668",
+    "assets/category-products/vc-9ed578b36b13-480.webp": "5de0afff97255293fb4a19ffce9608c38baf994e473f39d2c287353be8ca0b51",
+    "assets/category-products/vc-9ed578b36b13.webp": "d7570c8a6d3fa26c20e0ef8e105ce016388bdf7befe87e877eae85e1cb156b73",
+    "assets/category-products/vc-9f7eb72716c0-480.webp": "2679decbdfc319fd33bcf1aae9d9f2a3cf7c198a2901faaa17f55a17ab9b1253",
+    "assets/category-products/vc-9f7eb72716c0.webp": "a18ac342c9dbd921888e738128b59fcc185b067dbeb56c6db006cd57a6d3292d",
+    "assets/category-products/vc-a0589877ab26-480.webp": "b69a3d1ee782b5434df569389bbb69a2980c44a2edd8368860cc902ede6f80a1",
+    "assets/category-products/vc-a0589877ab26.webp": "81a942898350738d8b4a17d48d1f814195a48ee99488d522e28854f3ba56cb7a",
+    "assets/category-products/vc-a24d9b244564-480.webp": "a6e0969188a8777ae21f32addb751364156fe4cd096cf6f87a489eaf3eda60b8",
+    "assets/category-products/vc-a24d9b244564.webp": "5f7f54399900d8a8cfb068f786a64741a6966696acca19599a6c346e82409551",
+    "assets/category-products/vc-a25686493d59-480.webp": "5fee5f8e132e955052deef72d7563f0f7f37844daf7eb7ae9d92b65a0a422278",
+    "assets/category-products/vc-a25686493d59.webp": "268ce0b02df01e75191b743e2fe364dea679f1fa263af969f97d908258ba43f8",
+    "assets/category-products/vc-a27394bac7f7-480.webp": "eead5229229bd9d0ae06842311993b8a97680c4172343be4f716c5828474a709",
+    "assets/category-products/vc-a27394bac7f7.webp": "38cb4cb4c3d35dd5aae9ac2715b7a6ef6d066d30eb7a3f2b65ce8586a0147697",
+    "assets/category-products/vc-a307f72acf87-480.webp": "764bd3fdf192d6269fdb2a60308c4144b5d29aecd72706d3d1a17d5cbbc75043",
+    "assets/category-products/vc-a307f72acf87.webp": "18255ea670b958f82194302d3639edaa6083c0f9d16fb5ac402f00d707a40d00",
+    "assets/category-products/vc-a3f1d5fd96ef-480.webp": "37f5140c96ac0e7680ce0aff021e218b1213e76cb6006e0b7ce440f160df9cfc",
+    "assets/category-products/vc-a3f1d5fd96ef.webp": "b0cf142ac77816f5b75721cf8fec25aca0309fcd8a3e448b756de01fdb8e98c6",
+    "assets/category-products/vc-a73e0390bbbb-480.webp": "c5034763f6d3ae27067a6e4f9659845926fff6a514eb3e3bc21375a09b3df0f4",
+    "assets/category-products/vc-a73e0390bbbb.webp": "0fe1da5ec30df69be91778e8513eb158e6c5a8490ef8a68e58d282691b913a1f",
+    "assets/category-products/vc-a75b2cb8f6f5-480.webp": "a5ab472f92473a1a43158c68be86bf8dae9dec22035e8c72f2c64cf3220c4ba6",
+    "assets/category-products/vc-a75b2cb8f6f5.webp": "b9ebcb6622a0b4fd1fba4cc01af3600d9698772c4e4a638d4cd61b4a399335f5",
+    "assets/category-products/vc-a8001c5b2c07-480.webp": "c747597d9ab491e0cb65414740fdd2a8b71b24a2f1a7f8b8fc90f739f0ae274e",
+    "assets/category-products/vc-a8001c5b2c07.webp": "7dcebbdab834b8fcfd8459f2b7d515c960127ebe872499c5f0943a2d85b97cd5",
+    "assets/category-products/vc-a83bb1705ac1-480.webp": "40253cb0a78bf9466e0a75d09fa3edf27653cb5cb89888464c6273bb8cde0d67",
+    "assets/category-products/vc-a83bb1705ac1.webp": "293978741f14d69b26167eae0e0c92372d05de73ee120e9802081b4609aaf87a",
+    "assets/category-products/vc-aaf89e7f07cf-480.webp": "573c86a731faef31abc8624e28f2ae2a3c212a733cc7e5a887bd6ad0967ef79a",
+    "assets/category-products/vc-aaf89e7f07cf.webp": "e729159db31419535d52a41d6537cf4230312dc07666929dd275d28eb1061224",
+    "assets/category-products/vc-abc477187b89-480.webp": "7bdc533ad126b9da3206e1de5f5e99ca977d46f9f3d917c1105b3de50bc8d023",
+    "assets/category-products/vc-abc477187b89.webp": "b018d2703c6ef044d205ec9ae5ff289732d99385f509f17e6f1bdcd3851cca57",
+    "assets/category-products/vc-ac449c604d60-480.webp": "6f42c7b427d1cf25d22f4eead2d82ebae9b9195752d802e1a419b80773b31c10",
+    "assets/category-products/vc-ac449c604d60.webp": "2f9c553c09e2495859eec1f20374d7e66045bd66224ab20bb1bd5a7d322e19da",
+    "assets/category-products/vc-ac4a79397207-480.webp": "d28f42aaca700d256eb3def2c4f1b6b1a9fc66f48aa90cf5913a10222610842b",
+    "assets/category-products/vc-ac4a79397207.webp": "b320dcb1d79ab1505432e0b442f037454c47041786ed3ad6b37d9c49f3d14e2f",
+    "assets/category-products/vc-ac7b0736404a-480.webp": "c9dc92ce361d97ee864ff95c508aa3daecfd28d17e483792f76596447bf20e03",
+    "assets/category-products/vc-ac7b0736404a.webp": "cc4094a1d43ded75fc822f3314e16ffef315605cc06c6af446c76133c8036677",
+    "assets/category-products/vc-afb703e47973-480.webp": "1c9725c745e44d94536f58192065a169650a114085cd273381767d353d443984",
+    "assets/category-products/vc-afb703e47973.webp": "838c7756da0034b17359d37958c0fe5b3735c5a401dfb1a3db17cae989255552",
+    "assets/category-products/vc-b0176ab0cb5c-480.webp": "668ad58fa24997af93d7c125b48c4b65ebd6b67c9767a731aef4544929d2c2bc",
+    "assets/category-products/vc-b0176ab0cb5c.webp": "1e41b89a2c293a6b7a386a8799c113eafb979a01da3188cd2b2ae4e79e5e23d0",
+    "assets/category-products/vc-b0252f2f3b61-480.webp": "5dcec3eedaad987798d79e18ff0c7517b4806545fea92eeaa84047da52149c0d",
+    "assets/category-products/vc-b0252f2f3b61.webp": "700978a088289684b99eeb29a65ef1893aaa09d8f364075c5a5fb5d2404f0173",
+    "assets/category-products/vc-b0f94c9be412-480.webp": "aaaf82859e09e956ca59dee09a81ee3d97298aa8d9a18cbf517b075159a380d4",
+    "assets/category-products/vc-b0f94c9be412.webp": "48f5a0c06a1619780742dca9b5f6c27ca0a216f18581ec00a51df998c2e1d324",
+    "assets/category-products/vc-b3990c34d8f6-480.webp": "86166dbf0408d444c24ed350b283954d68397e2eaa6967fa194427dee07ed75b",
+    "assets/category-products/vc-b3990c34d8f6.webp": "c181f2240fdda45469d976ba3a9cf754ec0fa8903423992981b5231f3795e0c6",
+    "assets/category-products/vc-b4d3fd5e2757-480.webp": "91b3fa050f9754aff8be2f3e17d2bb5aa4ffb317c11ba2e1a0ab894fe49780a9",
+    "assets/category-products/vc-b4d3fd5e2757.webp": "309bca1bda90b016fd33443e5743b2a0a05638ce46f6e7b7a3f2ef070a0bb399",
+    "assets/category-products/vc-b6566758b940-480.webp": "87afe2f021e050df0e6e2bc778428dc9c98500539e6da1e4fc90d11cec1b83c5",
+    "assets/category-products/vc-b6566758b940.webp": "a82f270c23b2fae7d4ed846b120255416b20e39ede0f92d840fff1d4b4071493",
+    "assets/category-products/vc-b7f9af5d58ff-480.webp": "e9a3e9014538963ec172b6f8af32d0243771d78dc1b6cfe1fa324b7e9e45d895",
+    "assets/category-products/vc-b7f9af5d58ff.webp": "d469fe2513f1b6ffbcaceb65123b08a0592f91b60167612ab409ae528abd980d",
+    "assets/category-products/vc-bb271b47348f-480.webp": "554e2180188c5dd44cd6a124b8822dc5be3fea0d21ec2eb40b66a72725441565",
+    "assets/category-products/vc-bb271b47348f.webp": "359d2b62e7b3ea8a2ad267ab41a09e7434dae3f8a7443bf45136bafda0483887",
+    "assets/category-products/vc-bb3688b6c526-480.webp": "68f5d324b9b8447af7391155172b393cb14ecce2dc59d9ac40061e8926de3eac",
+    "assets/category-products/vc-bb3688b6c526.webp": "deb34611e13482ddbfc0d845981ca52e871a2fa91c7d0553bab5b9a7d0c84b0d",
+    "assets/category-products/vc-bb6365814a26-480.webp": "2b039d2c513ae06981e3db398430e2938126f0ebe907b5a0b9941919f2feb67a",
+    "assets/category-products/vc-bb6365814a26.webp": "25900ce9e920685f678d40696ffdd51fe4f1299143ba541528aaad02391d969f",
+    "assets/category-products/vc-bc891dd569c9-480.webp": "2132f188c1abbb46cb269d266b9bd492332c045c32b5eba453058063b55c7526",
+    "assets/category-products/vc-bc891dd569c9.webp": "a89cbac135c95b359e3585121e76a765e41efc39470fe7c9ded556e658bda4ae",
+    "assets/category-products/vc-be68e4dbecda-480.webp": "56ad414c1bfd91fe2a867f096ec839cc7f236e10187817d8dca5347966ad1905",
+    "assets/category-products/vc-be68e4dbecda.webp": "8043ae96113c147bd8614c66fe900fd605ca12e5c4e636fbadf83ce6c93eb863",
+    "assets/category-products/vc-beb2a70fb4f3-480.webp": "d279aff984592ab70b4a92cc1965d4eaf4d9f21d73bfed46a284dda329fbae71",
+    "assets/category-products/vc-beb2a70fb4f3.webp": "53b1cc3c8fa6269089418d78fd95f66111f4cfa8ce98c593124bcc0cb84b7027",
+    "assets/category-products/vc-bfcd6b748e4a-480.webp": "0ccf6336f55001d7e982345b54035c76c434e8afaf04a9169aa91e2e6424c37e",
+    "assets/category-products/vc-bfcd6b748e4a.webp": "9f6d6fa6ee2204983b33ccc2a4b7b984db7189b3d8513240b4859c96fc547172",
+    "assets/category-products/vc-c03220994d33-480.webp": "53991518837abc64f2b7243c6db165b21f826fd1aac186cb977ef132b6599d27",
+    "assets/category-products/vc-c03220994d33.webp": "08a31f512f9d5f8552214088ad2447e30eff025260fcb7c601f932294103a699",
+    "assets/category-products/vc-c0ddc5c9bd2d-480.webp": "b6341c3d16df1a81b78129553525a377a6747f2e46c9cbdaa31a38fb086259b4",
+    "assets/category-products/vc-c0ddc5c9bd2d.webp": "d5f773e868d12eaaf57994482928b15d752c977ea29502f4bbf3bd3cbe7fde01",
+    "assets/category-products/vc-c100f72fa0e2-480.webp": "3c2eb33f83d00262387c314408adb4a76ec802fa5607c016e7ebd690ca212a3b",
+    "assets/category-products/vc-c100f72fa0e2.webp": "586e88f38c2242207cdfc42d22f0808c9adb5106a7e17fdc8c7d9035ebf4e636",
+    "assets/category-products/vc-c224aadd086f-480.webp": "97182dca15e7a0d28cb1014d9e94aae498c8025521e4def73807417edb42200d",
+    "assets/category-products/vc-c224aadd086f.webp": "ac2545da290742aca000c99511c8aac7c4969eb7645569b0d1ee2a47f377910a",
+    "assets/category-products/vc-c2c943090fb5-480.webp": "7bde444af70c99e180dac9358a11d744507b5302c5004494b5555317f663a070",
+    "assets/category-products/vc-c2c943090fb5.webp": "cf9363ea4eeb19c5eeba5ef87fa16bde1810f8d0ef186065c412f397e40948f1",
+    "assets/category-products/vc-c473575d6e5b-480.webp": "8d45ea4f80b6377d1c852e162992f516225f6dd3866ebd45d2fd83f227c6faf8",
+    "assets/category-products/vc-c473575d6e5b.webp": "86a436a4765fd5e21ffdc5f50a2e47aa7cc2d56ea84ce474f52d9f7469072d10",
+    "assets/category-products/vc-c53270806726-480.webp": "01e304204f575937551d7a8a3a8fe6aa9b133644e56f38487506574d1fcad764",
+    "assets/category-products/vc-c53270806726.webp": "d57c782036940e9a48ca0d0f836150066f7900df6a6835cf29297ff2b9cba5ea",
+    "assets/category-products/vc-c64e5345d32f-480.webp": "360e765553b91906944610b68ec8d575c9249677d13aaf2a7e64eafa8ff19ef8",
+    "assets/category-products/vc-c64e5345d32f.webp": "5275ff728cc675cb2c35ef903ef23034aea673fa6f1dbbf415e0e32f55548955",
+    "assets/category-products/vc-c751ee2e34f4-480.webp": "49fd6eacb2d88ed609741efd3fca4ec98fb324620513e17a86de7f83f930810b",
+    "assets/category-products/vc-c751ee2e34f4.webp": "8d3eb993df5be6789524aa28d45643ade048169a2453744804223814f7c401dc",
+    "assets/category-products/vc-c75a8a53a3b7-480.webp": "d1719fefa1c4fbe16cb628cbc8ed1c0e112b44d803e10563bd1b5540ac16912d",
+    "assets/category-products/vc-c75a8a53a3b7.webp": "b7cb755732c71da9eb8a6dedde199282a4c044fd47bea50e62e4c0db04780b77",
+    "assets/category-products/vc-c77e793bc0e9-480.webp": "2d8f84220d2222782df9c5f8cdaedd71dd8860013d1d618f17aba9b097382411",
+    "assets/category-products/vc-c77e793bc0e9.webp": "406f732eddb539db88abd987692234ae50c9f7c808fcfef77da1f1a4ea66b706",
+    "assets/category-products/vc-c7d5b8989296-480.webp": "6347999c53d627ef17c4bb7fc96cbd459672b1166317988132daaaeb000b62b0",
+    "assets/category-products/vc-c7d5b8989296.webp": "272f722188fa3cd537df7af09345ba164c33d97b091c43adb51778f57796e47a",
+    "assets/category-products/vc-c7fe7098ca10-480.webp": "de1fa04c93b49dd00518948baa3a1189fcb9f1683820f5a75949655559b2ca09",
+    "assets/category-products/vc-c7fe7098ca10.webp": "b05bfc96e7b02952c61884b3e8a34f3659a15dea3329828566d15fa4aec3dedc",
+    "assets/category-products/vc-c8bddc5a691d-480.webp": "3c98bff6345d7b00112d6191ebd1f655354dd1a79d5fe9df57216ce4be541fd3",
+    "assets/category-products/vc-c8bddc5a691d.webp": "32b2f8edca980bcbe33f03ec6ab7075f009b415324d0a1feed24e55b2972b87b",
+    "assets/category-products/vc-ce62c4fdc3d5-480.webp": "97df8f049db07aa60284e6e4be052c209312bf81a489eaf6c789be0e8ada4c6e",
+    "assets/category-products/vc-ce62c4fdc3d5.webp": "e97077ac4e88e05e6f6e22437fc3ef9452ed668ef48d838d47c8d86da7ddbafa",
+    "assets/category-products/vc-ceae7bc5aa1c-480.webp": "d108ef5609edda8036e4a5e7814cf1d02554b97260677cc00eea666a0492b0a5",
+    "assets/category-products/vc-ceae7bc5aa1c.webp": "c2a4dacd3be3fc53e4b3b616614660774b1c28db8afb6ce3c2455af419fe8f4b",
+    "assets/category-products/vc-cfff8fcc3287-480.webp": "5e585677f46a4bfcc5879ff26cb17a164446532c8b623ade107a2200132571e0",
+    "assets/category-products/vc-cfff8fcc3287.webp": "722a6661a728e27af3289a5c0d41bc1f4d962f0e121c4735a9216d68bd6136f5",
+    "assets/category-products/vc-d037eae00d2b-480.webp": "66b4ad8634f5a85d6a86738721155b16380944bca7d3b0f5100d8a925f0784a4",
+    "assets/category-products/vc-d037eae00d2b.webp": "a670d25e77bfd692ee93a956b42dccdcf59308d48e86dc4ca6711d7ce35436c5",
+    "assets/category-products/vc-d159c3b529ff-480.webp": "7708191744749f619c3409eb2d4ebdca9557468cf81fbda954d819cabf6703fc",
+    "assets/category-products/vc-d159c3b529ff.webp": "2f9174f4fbf806f88a0638e11a6e8d1c655fb2bef26f2db2aa5108c515f4355b",
+    "assets/category-products/vc-d2be8e5773f8-480.webp": "1e0661af68c7fc33d05cba7d2d69956223ccc150b769f6e6d819763b17fd747c",
+    "assets/category-products/vc-d2be8e5773f8.webp": "17770d1a54f67771fa8ac9f888c0d18cdd3cdf5231d88f285b3ea072a95fba14",
+    "assets/category-products/vc-d37a2b500900-480.webp": "2d5135a8141779fe487059f0c9b7ad7cd3b2395bbf09c968bed65ad8783012dc",
+    "assets/category-products/vc-d37a2b500900.webp": "1a7ef0dd628cf74eea8f1f9e13b8d225eb1a26e5e55b677ff10f59f716fbdab7",
+    "assets/category-products/vc-d3c9f1a49663-480.webp": "4ba039f9589ed5d4568375c77bc57d50adaf913996824969305975f9600a7e23",
+    "assets/category-products/vc-d3c9f1a49663.webp": "a9c613fdf0572b5a8313dd5fb6db41e30f68fb683bbe1faeeef6b1d6d690f981",
+    "assets/category-products/vc-d4466204c3b3-480.webp": "599f2e4da7cc52eb9d889e7b874f5c072b671b22b4790851d166e30fbe70a4d9",
+    "assets/category-products/vc-d4466204c3b3.webp": "76b7ac59c1bab3cb48fe3cae104e04a986816b976e842a825f5e141a279fad4b",
+    "assets/category-products/vc-d4f3e02b8ae0-480.webp": "43780c2197b13c379c2e0c9edf271cc756946fcc33e2f6563ebb168aff52a169",
+    "assets/category-products/vc-d4f3e02b8ae0.webp": "789366457c5712d58ef5bc18f2fd8192c80504164a26483cda3c8bb7b663d794",
+    "assets/category-products/vc-d6c98000605f-480.webp": "f45b46a85a1c77cf6ca64c2a4348500020fe5194ccfd4fa1b166876980b858af",
+    "assets/category-products/vc-d6c98000605f.webp": "65025b247a24abfe2b4100751d277481e20e03a4a6a8410386c38fda954e2a42",
+    "assets/category-products/vc-d6f045a0e9cd-480.webp": "f258af6b7baaac3ca4a20be8236fcb8ec3027ffa9b5f785cadc4f3f072bdd291",
+    "assets/category-products/vc-d6f045a0e9cd.webp": "37c3f7390a65d87a2250e8a11a5f2ded87d166dcf1f71be78ce82d509d66837a",
+    "assets/category-products/vc-dbecb35f87b1-480.webp": "62a233cb7f1d41b283fa8fd71964dd33db4c3916929b589a7cc3ed4abe0b2265",
+    "assets/category-products/vc-dbecb35f87b1.webp": "13ba62c7ad0767e4e984f560dfb2484290109585a58eaf1a2228b95f10366f60",
+    "assets/category-products/vc-dca239197c06-480.webp": "29524b6b60e5170ff4a267d8717d6cf78632904dc2b3080c7fe8934ad35be448",
+    "assets/category-products/vc-dca239197c06.webp": "617cc959051792a42ea722ee88881a70e89ef5f94229540e1f2471c20ab320b3",
+    "assets/category-products/vc-dce8e1a52c3d-480.webp": "02ece2995f44a59c3d52eb993eaa7a8c1eab61bddba796ddfd01af558ff1ce35",
+    "assets/category-products/vc-dce8e1a52c3d.webp": "917f3eea9abaa8c28147bd45188b79f429b5a751d64958a3721665da86dfce13",
+    "assets/category-products/vc-dd1ae75fa622-480.webp": "487a6e8dd7f3dff085af4b7a30ad47b788826f42388682f5efd89aaf5a25dd94",
+    "assets/category-products/vc-dd1ae75fa622.webp": "c018df4a48ad4451a744992d8e2e528144f84b127b272860306c69f9de7d0294",
+    "assets/category-products/vc-dd1da0a08f88-480.webp": "1732c7c988890c48607acf18c397743012610ac4733089cd28072c46940ecfb8",
+    "assets/category-products/vc-dd1da0a08f88.webp": "315fcd04666335fb5784b9d0ee24aebc2b0e1b1c41878512b7770f40a9d1ae0f",
+    "assets/category-products/vc-ddb3662b7871-480.webp": "c802b6996e0ef8520ddea338ea9f22866b672c167241f51bbd7259e061b79eb0",
+    "assets/category-products/vc-ddb3662b7871.webp": "6a758dd5474bf0e8c362ac7b721742f7f88d9f9f437e6016008814058ed7d7af",
+    "assets/category-products/vc-dfd19342bbe2-480.webp": "aee20a9cf58d7a2daa3a92f96da07cc63622b4876d71dba0bc552e5f0c0eed5b",
+    "assets/category-products/vc-dfd19342bbe2.webp": "64f4bc7fbcd53a90e98ba57b00e56f93669f782781f5c4298e0d497db0ef5d42",
+    "assets/category-products/vc-e2a05f5beca3-480.webp": "a14f0133cf83b557590adfdad448b20aa9bbe8813124a1789ee7afc0faf08204",
+    "assets/category-products/vc-e2a05f5beca3.webp": "cffead4eeb94be798eb39cf4ce824997493238ed0e90e8cc1e9472f595a702ae",
+    "assets/category-products/vc-e38d6c72d225-480.webp": "db4cb89bae4de94c391e7a32590dda8a8ab7192a4d6d6ee1b8b961e957ca7b6c",
+    "assets/category-products/vc-e38d6c72d225.webp": "629b68321c807a1265c9eea21d21be9516e51a71a26459b2bcfd8eeb0cf0331b",
+    "assets/category-products/vc-e6133d6ba525-480.webp": "86eace3a375087935d1c7f74b78dda0a7ba700223c5dbefea18c664ff548b26c",
+    "assets/category-products/vc-e6133d6ba525.webp": "71d659cb1cc72030fde17b7e10819cbc64c5d9e93dd8ded79629092b50e35cf0",
+    "assets/category-products/vc-e9d548853233-480.webp": "742049635c8db9351a06f9bbd764a966d965e1c9b2b12d72ff11619ee6547f5c",
+    "assets/category-products/vc-e9d548853233.webp": "214f3cec0841ced0e87c193d926c2c1a316a5abd36da8092c10cb4533e035fbf",
+    "assets/category-products/vc-eb5f15bc7e71-480.webp": "a047892af62d758290086ce3953f582146d392835988392966a5fbf281ddb540",
+    "assets/category-products/vc-eb5f15bc7e71.webp": "823d700851a75557f0638bb622d37ffcf0158950f4678bc991d58f939e03eab7",
+    "assets/category-products/vc-eca0cddd0924-480.webp": "e1c8409d5e289e0c1e65f6cf6808c274fc553cd993a628447ff66e8326fd5aae",
+    "assets/category-products/vc-eca0cddd0924.webp": "034d78970c18304c6742b0d68fd098538daa84e62882cbfbbc7e33c601a14348",
+    "assets/category-products/vc-ee4998524d5b-480.webp": "50696856f15400d9453cd11b9057ef80db5c41d52c1607225390d07d155e32b2",
+    "assets/category-products/vc-ee4998524d5b.webp": "dea06bc5c91f5e18b38944f0e538645025fcd5cf85fe3fdbedd0ff16d936d201",
+    "assets/category-products/vc-eee3d90c311f-480.webp": "30985c0805bdc5e8688407aef2fa44f8002ed83be2981cc3925d8a9ad2fe242f",
+    "assets/category-products/vc-eee3d90c311f.webp": "5f9aa03598cab3ac58c53029ad97aa3e36f31bd89b2fd23fe86e640484c734ef",
+    "assets/category-products/vc-ef290cd8a23f-480.webp": "8eb4226a1fc90d1382bc2c01b236007d347af1d4c7598ca31f779e758d47b6f6",
+    "assets/category-products/vc-ef290cd8a23f.webp": "bef8b7279d027f84bee2788ba24c58cf76c0d319e5bbec071685ec874a7b41bb",
+    "assets/category-products/vc-f3f2f801ca2b-480.webp": "125a59bbd11b754d904db7ccea3ad5cefdfbf9872111653f7067fd78854c9495",
+    "assets/category-products/vc-f3f2f801ca2b.webp": "116a2667d2fa920886c31a065b596417649da8d54327d5abfc40a191aa230481",
+    "assets/category-products/vc-f4bcab02ee61-480.webp": "34c81180c8b5e10e1b87ca267e87e91f967ba41f553710c9d22cb5fcc140ee33",
+    "assets/category-products/vc-f4bcab02ee61.webp": "9ecdd2d3a90094b44b0d61c5178754bfcbac893720b014c71c26cf75beeb288a",
+    "assets/category-products/vc-f5cc50a26282-480.webp": "0e330e3dff9729eae34c6c62cdeeee4d018815eedaee22d5e33c40bf1a988d42",
+    "assets/category-products/vc-f5cc50a26282.webp": "aa7016cb84ce59387db0b32f40d2f86a0bdfbad986dc364ac5754b54eed4c41a",
+    "assets/category-products/vc-f631de81ecd2-480.webp": "8df45398e4d661455d14342f4bc8aaca1abb00140711671650aa536e89802f6f",
+    "assets/category-products/vc-f631de81ecd2.webp": "6154f0f75637a9be899c354efe7e8aca67e4b3da4e547f01759ae78b0d0712b0",
+    "assets/category-products/vc-f7190954213e-480.webp": "1ed175f35562b15d9969d37e824217b97fc78fdba1da95bf26a56371068179f6",
+    "assets/category-products/vc-f7190954213e.webp": "91aaf27b3885c19caa703a5c7fd918aa8019bbce2db6c8997ea4e38da1692e6c",
+    "assets/category-products/vc-f71aa6c1a789-480.webp": "d84d9d90be2be97c2651416ec0b050eeda380a20e52bbea6c07042f81bef69a4",
+    "assets/category-products/vc-f71aa6c1a789.webp": "dd2db89a67d55b56c3ffd0bfb8a76394c3c9bc94108d92de59b23f128afdfbba",
+    "assets/category-products/vc-fa0c42afbc6b-480.webp": "d31310b0d30c8d6c5407f9e63d6e2c82ace847fe24487bd0ec1a2f254119463f",
+    "assets/category-products/vc-fa0c42afbc6b.webp": "c69af46417cb3c7e6918f52abbbaf775943daa456ba2cc67e06a5f832f815810",
+    "assets/category-products/vc-fafd7d131780-480.webp": "e5dbb628c22925e1e064ac135c2e16fe1a68e4856eeafa3c94f53db56f875f59",
+    "assets/category-products/vc-fafd7d131780.webp": "2fcef8ef22e94681e3a4f9da480b922035730b499fa627858fdd76e75da99f9e",
+    "assets/category-products/vc-fe0210162940-480.webp": "2af5d5cf9f30b2e9c43de291cec9495e79cfe35c8155f4c69a79fa7486e0eded",
+    "assets/category-products/vc-fe0210162940.webp": "2c1c032bd04e5ef6e45c61d8d5eaa486f2eff72cb8af982f2e97cd95d22d64e4",
+    "assets/category-products/vc-ffdf64fd6913-480.webp": "11e2352d038273ef57468c02dcc7870fdd9628d1e1f0f03466e775e0edb40850",
+    "assets/category-products/vc-ffdf64fd6913.webp": "901da7de233f093cba4d80325a670f96681d44b74b771b40401284bd530f56bb",
+    "assets/virtual-tryon/teal-satin-midi-overlay.png": "d80c34c97f928f6472c003b0ee8cb8d83104ee138ecb6a4b5983dfb242672978",
+    "css/pages/catalog.css": "39b004e9094f3c2590c9a0cf4704eee5da7762f81641b5aaaf075fabb255ad08",
+    "css/pages/category-products.css": "b15817b87f61225a8316d0195a799ae00005b8724a40927f1fc0b879b82e1bbe",
+    "css/pages/content.css": "8e6182ab0e704f0eb3135f946c9fdcc94439f62fdd9abe77a5a7f9a563ab2836",
+    "css/pages/home.css": "d0e7f9cee1293d376ec440debcee77ff8a861c36d163de7f515b4465dac82ff7",
+    "css/pages/more.css": "a5b8afee8e1edb8e8520bf01c78df436912eb47ab68f07106fcab962218edcb5"
+  },
+  "audit": {
+    "htmlPages": 29,
+    "localReferencesChecked": 3855,
+    "missingStaticReferences": [],
+    "removeFiles": 646,
+    "removeBytes": 246473898
+  }
+}

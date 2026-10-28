@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Virtual Try-On Trial | Veera Collections</title>
+  <meta name="description" content="Privately preview one selected Veera Collections dress on your device in our limited virtual try-on trial.">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta name="theme-color" content="#54152B">
+  <link rel="icon" href="favicon-64.png" type="image/png" sizes="64x64">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="css/global.css">
+  <link rel="stylesheet" href="css/header.css">
+  <link rel="stylesheet" href="css/footer.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/virtual-tryon.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div id="site-header"></div>
+  <main id="main-content">
+    <section class="vto-hero">
+      <div class="container vto-hero-inner">
+        <div>
+          <p class="vto-badge">TRIAL</p>
+          <h1>Virtual Try-On — Trial Experience</h1>
+          <p class="vto-lede">Preview one selected Veera Collections style privately on your device.</p>
+        </div>
+        <div class="vto-privacy-card">
+          <strong>Private by design</strong>
+          <p>Your camera, photo and preview stay in this browser. They are never uploaded, stored or sent to Veera Collections.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="container vto-trial" aria-labelledby="trial-product-title">
+      <div class="vto-product-image-wrap">
+        <img src="assets/catalog/teal-satin-midi-dress.jpeg" alt="Teal satin midi dress selected for the virtual try-on trial" width="800" height="1000">
+      </div>
+      <div class="vto-product-copy">
+        <p class="eyebrow">One style enabled</p>
+        <h2 id="trial-product-title">Teal Satin Midi Dress</h2>
+        <p>A visual placement preview using a local garment overlay. No AI service or server processes your image.</p>
+        <ul class="vto-checks">
+          <li>Photo processing stays on this device</li>
+          <li>Manual position and size controls</li>
+          <li>Optional local download</li>
+        </ul>
+        <button class="btn vto-primary" type="button" data-open-tryon data-product-id="trial-dress-001">Try This Dress</button>
+        <p class="vto-disclaimer">Virtual Try-On provides a visual preview only. Actual garment fit, colour, proportion and appearance may vary.</p>
+      </div>
+    </section>
+
+    <section class="container vto-guidance" aria-labelledby="photo-guidance-title">
+      <h2 id="photo-guidance-title">For a clearer preview</h2>
+      <ul>
+        <li>Stand upright and face the camera</li>
+        <li>Use good, even lighting</li>
+        <li>Keep your full body visible</li>
+        <li>Choose a simple background</li>
+        <li>Keep arms slightly away from your body</li>
+      </ul>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+
+  <div class="vto-modal" data-vto-modal hidden>
+    <div class="vto-backdrop" data-close-tryon></div>
+    <section class="vto-dialog" role="dialog" aria-modal="true" aria-labelledby="vto-dialog-title" aria-describedby="vto-dialog-description">
+      <header class="vto-dialog-header">
+        <div><span class="vto-badge">TRIAL</span><h2 id="vto-dialog-title">Private Virtual Try-On</h2></div>
+        <button class="vto-icon-button" type="button" data-close-tryon aria-label="Close virtual try-on">×</button>
+      </header>
+
+      <div class="vto-dialog-body">
+        <div class="vto-step" data-step="privacy">
+          <div class="vto-privacy-notice">
+            <h3>Private Virtual Try-On</h3>
+            <p id="vto-dialog-description"><strong>Your photo stays on this device.</strong> Veera Collections does not upload, store, receive, or share your photo.</p>
+            <p>Your photo is used temporarily inside your browser to create the preview. When you close or reset Virtual Try-On, the photo and preview are removed from this browser session.</p>
+          </div>
+          <div class="vto-guidance-compact">
+            <strong>Photo tips</strong>
+            <p>Stand upright, face forward, use good lighting, show your full body and keep arms slightly away.</p>
+          </div>
+          <div class="vto-actions">
+            <button class="btn vto-primary" type="button" data-continue>Continue</button>
+            <button class="btn vto-secondary" type="button" data-close-tryon>Cancel</button>
+          </div>
+        </div>
+
+        <div class="vto-step" data-step="source" hidden>
+          <h3>Choose how to add your photo</h3>
+          <p>Nothing is uploaded. Camera access is requested only if you choose Use Camera.</p>
+          <div class="vto-source-grid">
+            <button class="vto-choice" type="button" data-use-camera><span aria-hidden="true">◉</span><strong>Use Camera</strong><small>Take a photo now</small></button>
+            <label class="vto-choice" for="vto-file"><span aria-hidden="true">▧</span><strong>Choose Photo</strong><small>JPEG, PNG or WebP · up to 10 MB</small></label>
+            <input class="visually-hidden" id="vto-file" data-photo-input type="file" accept="image/jpeg,image/png,image/webp,.jpg,.jpeg,.png,.webp">
+          </div>
+          <button class="vto-text-button" type="button" data-back-privacy>Back</button>
+        </div>
+
+        <div class="vto-step" data-step="camera" hidden>
+          <div class="vto-stage"><video data-camera-video autoplay muted playsinline aria-label="Live camera preview"></video></div>
+          <div class="vto-actions">
+            <button class="btn vto-primary" type="button" data-capture>Capture</button>
+            <button class="btn vto-secondary" type="button" data-camera-cancel>Cancel</button>
+          </div>
+        </div>
+
+        <div class="vto-step" data-step="editor" hidden>
+          <div class="vto-workspace">
+            <div class="vto-stage vto-editor-stage" data-editor-stage>
+              <canvas data-preview-canvas aria-label="Virtual try-on preview"></canvas>
+              <p class="vto-canvas-help">Drag the dress to move it. Use the controls to adjust size and position.</p>
+            </div>
+            <aside class="vto-controls" aria-label="Dress position controls">
+              <p><strong data-product-name>Teal Satin Midi Dress</strong></p>
+              <div class="vto-pad" aria-label="Move dress">
+                <button type="button" data-move="up" aria-label="Move dress up">↑</button>
+                <button type="button" data-move="left" aria-label="Move dress left">←</button>
+                <button type="button" data-move="down" aria-label="Move dress down">↓</button>
+                <button type="button" data-move="right" aria-label="Move dress right">→</button>
+              </div>
+              <div class="vto-size-controls">
+                <button type="button" data-size="decrease">− <span>Smaller</span></button>
+                <button type="button" data-size="increase">+ <span>Larger</span></button>
+              </div>
+              <button class="vto-text-button" type="button" data-reset-position>Reset position</button>
+            </aside>
+          </div>
+          <div class="vto-actions vto-editor-actions">
+            <button class="btn vto-primary" type="button" data-save>Save Preview</button>
+            <button class="btn vto-secondary" type="button" data-retake>Retake / choose another</button>
+            <button class="btn vto-secondary" type="button" data-reset-all>Reset</button>
+          </div>
+        </div>
+        <p class="vto-status" data-status role="status" aria-live="polite"></p>
+      </div>
+    </section>
+  </div>
+
+  <script src="js/site.js"></script>
+  <script src="js/virtual-tryon.js"></script>
+</body>
+</html>

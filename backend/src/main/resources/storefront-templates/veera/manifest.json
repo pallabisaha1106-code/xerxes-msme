@@ -1,0 +1,50 @@
+{
+  "id": "veera",
+  "name": "Veera Boutique",
+  "description": "A warm, editorial boutique layout adapted from Veera Collections - hero banner, product grid, about and contact sections.",
+  "sections": [
+    {
+      "key": "hero",
+      "label": "Hero Banner",
+      "fields": [
+        { "key": "hero.eyebrow", "label": "Eyebrow text", "type": "text", "defaultValue": "Fashion for every occasion" },
+        { "key": "hero.headline", "label": "Headline", "type": "text", "defaultValue": "" },
+        { "key": "hero.tagline", "label": "Tagline", "type": "text", "defaultValue": "Discover our latest collection" }
+      ]
+    },
+    {
+      "key": "about",
+      "label": "About",
+      "fields": [
+        { "key": "about.heading", "label": "Heading", "type": "text", "defaultValue": "About Us" },
+        { "key": "about.body", "label": "About text", "type": "textarea", "defaultValue": "Tell your customers what makes your store special." }
+      ]
+    },
+    {
+      "key": "contact",
+      "label": "Contact & Store Info",
+      "fields": [
+        { "key": "contact.whatsappNumber", "label": "WhatsApp number (country code + number, digits only)", "type": "text", "defaultValue": "" },
+        { "key": "contact.phone", "label": "Phone number", "type": "text", "defaultValue": "" },
+        { "key": "contact.email", "label": "Email", "type": "text", "defaultValue": "" },
+        { "key": "contact.address", "label": "Store address", "type": "textarea", "defaultValue": "" },
+        { "key": "contact.mapUrl", "label": "Google Maps link (optional)", "type": "text", "defaultValue": "" }
+      ]
+    },
+    {
+      "key": "social",
+      "label": "Social Links",
+      "fields": [
+        { "key": "social.instagramUrl", "label": "Instagram URL (optional)", "type": "text", "defaultValue": "" },
+        { "key": "social.facebookUrl", "label": "Facebook URL (optional)", "type": "text", "defaultValue": "" }
+      ]
+    },
+    {
+      "key": "footer",
+      "label": "Footer",
+      "fields": [
+        { "key": "footer.note", "label": "Footer tagline", "type": "text", "defaultValue": "Discover online. Shop with us." }
+      ]
+    }
+  ]
+}

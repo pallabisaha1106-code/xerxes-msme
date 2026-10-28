@@ -1,0 +1,52 @@
+.variant-image-guidelines {
+  margin: 0 0 0.75rem;
+  padding-left: 1.1rem;
+  font-size: 0.78rem;
+  color: var(--text-color-secondary);
+}
+
+.variant-image-guidelines li {
+  margin-bottom: 0.15rem;
+}
+
+.variant-image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 0.75rem;
+}
+
+.variant-image-thumb {
+  position: relative;
+  width: 84px;
+  height: 112px;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  border: 1px solid var(--surface-border);
+}
+
+.variant-image-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.variant-image-remove {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  cursor: pointer;
+}
+
+.variant-image-remove:hover {
+  background: rgba(0, 0, 0, 0.75);
+}

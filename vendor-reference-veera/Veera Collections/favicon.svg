@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Veera Collections">
+  <rect width="64" height="64" rx="14" fill="#180710"/>
+  <path d="M17 13c10 2 14 9 15 20 2-11 7-18 16-20-5 8-6 15-3 22 3 7 1 13-7 17l-6 4-6-4c-8-4-10-10-7-17 3-7 2-14-2-22Z" fill="#d7b55d"/>
+  <path d="M25 39c4-5 7-10 7-18 1 8 4 13 8 18" fill="none" stroke="#e1006a" stroke-width="4" stroke-linecap="round"/>
+</svg>

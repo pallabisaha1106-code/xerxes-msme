@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Privacy Notice | Veera Collections</title><meta name="description" content="Read how the Veera Collections website handles enquiries, third-party links, fonts and visitor information."><link rel="canonical" href="https://www.veeracollections.com/privacy.html"><meta name="robots" content="noindex,follow"><meta name="theme-color" content="#54152B">
+  <link rel="icon" href="favicon-64.png" type="image/png" sizes="64x64"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="manifest" href="site.webmanifest"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="css/global.css"><link rel="stylesheet" href="css/header.css"><link rel="stylesheet" href="css/footer.css"><link rel="stylesheet" href="css/pages/content.css"><link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a><div id="site-header"></div>
+  <main id="main-content"><section class="page-hero"><p class="eyebrow">Your information</p><h1>Privacy notice</h1><p>This notice explains the limited ways information may be handled when you use the Veera Collections website or contact the store.</p></section>
+    <article class="page-content legal-content">
+      <p class="legal-meta">Last reviewed: 15 August 2026</p>
+      <h2>Information handled by this website</h2><p>This is a static informational website. It has no account system, checkout, contact form or newsletter form. The website code does not set cookies and does not use localStorage, sessionStorage or analytics.</p>
+      <h2>When you contact us</h2><p>If you choose a WhatsApp, telephone, Instagram or Google Maps link, you leave this website and interact with that service directly. Those providers may process information such as your account details, message, device information and IP address under their own privacy terms. Veera Collections may receive the information you voluntarily send in an enquiry. Do not send payment-card details, passwords or other sensitive information through these links.</p>
+      <h2>Google Maps</h2><p>The Contact page can load an interactive Google Maps embed after you choose to do so. When it loads, Google may receive your IP address, browser and device information, and location-related information. Google processes this information under its own privacy terms. The map is optional: you can instead use the Google Maps directions link.</p>
+      <h2>Google Fonts</h2><p>The site requests DM Sans and Playfair Display from Google Fonts when a page loads. This may disclose technical connection information, including your IP address and browser details, to Google. No advertising or analytics scripts are included by this website.</p>
+      <h2>Customer reviews</h2><p>The site links to the Veera Collections Google listing for current reviews. It does not currently publish reviewer names or review text in the local website files.</p>
+      <h2>Retention and your choices</h2><p>This website itself does not store enquiry data. Information sent through a third-party service is handled within that service and by Veera Collections as needed to respond. A specific retention period is not stated here because it has not been confirmed by the business owner. You can choose to call the store instead of using a social or messaging service.</p>
+      <h2>Contact</h2><p>For privacy questions, contact Veera Collections by telephone at <a href="tel:+919921959748">+91 99219 59748</a> or visit the store at Shop no 12, Upper Ground, ABC Nirman Building, Dange Chowk Road, Gujar Nagar, Sai Colony, Thergaon, Pimpri-Chinchwad, Maharashtra 411033.</p><p class="notice">This notice describes the website’s current technical behaviour. The business owner should review it whenever services or data-handling practices change.</p>
+    </article>
+  </main>
+  <div id="site-footer"></div><script src="js/site.js"></script>
+</body>
+</html>
