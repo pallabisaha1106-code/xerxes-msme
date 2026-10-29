@@ -25,14 +25,14 @@
 #   ./scripts/deploy-backend.sh
 #   PROJECT_ID=other-project REGION=asia-south2 ./scripts/deploy-backend.sh
 #   ./scripts/deploy-backend.sh -y   # skip the confirmation prompt
-#   ./scripts/deploy-backend.sh --cors-allowed-origins "http://localhost:5173,http://localhost:5174,https://xerxes-msme-marketplace-web-xxxxx.asia-south1.run.app"
+#   ./scripts/deploy-backend.sh --cors-allowed-origins "http://localhost:5173,http://localhost:5174,https://neighbourly-marketplace-web-xxxxx.asia-south1.run.app"
 #   ./scripts/deploy-backend.sh --db-user myuser --db-password 'mypassword'
 #   CORS_ALLOWED_ORIGINS="https://example.com" DB_USER=myuser DB_PASSWORD='mypassword' ./scripts/deploy-backend.sh
 
 set -euo pipefail
 
-PROJECT_ID="${PROJECT_ID:-ps-customer-engagement-suite}"
-SERVICE_NAME="${SERVICE_NAME:-xerxes-msme-backend}"
+PROJECT_ID="${PROJECT_ID:-neighbourly-513106}"
+SERVICE_NAME="${SERVICE_NAME:-neighbourly-backend}"
 REGION="${REGION:-asia-south1}"
 CORS_ALLOWED_ORIGINS="${CORS_ALLOWED_ORIGINS:-}"
 DB_USER="${DB_USER:-}"

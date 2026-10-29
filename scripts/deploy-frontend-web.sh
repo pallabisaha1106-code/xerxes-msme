@@ -23,8 +23,8 @@
 
 set -euo pipefail
 
-PROJECT_ID="${PROJECT_ID:-ps-customer-engagement-suite}"
-SERVICE_NAME="${SERVICE_NAME:-xerxes-msme-frontend-web}"
+PROJECT_ID="${PROJECT_ID:-neighbourly-513106}"
+SERVICE_NAME="${SERVICE_NAME:-neighbourly-frontend-web}"
 REGION="${REGION:-asia-south1}"
 
 SKIP_CONFIRM=false

@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "frontend-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "frontend-web", "run", "dev"],
+      "port": 5173
+    },
+    {
+      "name": "marketplace",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "marketplace-web", "run", "dev"],
+      "port": 5174
+    }
+  ]
+}

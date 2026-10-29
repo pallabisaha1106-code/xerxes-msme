@@ -20,8 +20,8 @@
 
 set -euo pipefail
 
-PROJECT_ID="${PROJECT_ID:-ps-customer-engagement-suite}"
-SERVICE_NAME="${SERVICE_NAME:-xerxes-msme-marketplace-web}"
+PROJECT_ID="${PROJECT_ID:-neighbourly-513106}"
+SERVICE_NAME="${SERVICE_NAME:-neighbourly-marketplace-web}"
 REGION="${REGION:-asia-south1}"
 
 SKIP_CONFIRM=false
@@ -94,5 +94,5 @@ SERVICE_URL="$(gcloud run services describe "$SERVICE_NAME" \
 echo "$SERVICE_URL"
 echo
 echo "Next step: add this URL to the backend's CORS_ALLOWED_ORIGINS env var"
-echo "(Cloud Run > xerxes-msme-backend > Edit & Deploy New Revision > Variables),"
+echo "(Cloud Run > neighbourly-backend > Edit & Deploy New Revision > Variables),"
 echo "otherwise vendor register/login/listing calls from this origin will be blocked by CORS."
